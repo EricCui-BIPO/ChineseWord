@@ -7,50 +7,44 @@
           to="/idiom"
           class="btn-elsa text-sm px-4 py-2"
         >
-          ← 返回成语首页
+          ← 返回
         </router-link>
         <div class="text-white font-semibold text-lg">
-          复习模式 - 第 {{ currentReviewIndex + 1 }} / {{ reviewIdioms.length }} 个
+          复习进度
         </div>
       </div>
 
       <!-- 卡片展示区 -->
-      <div v-if="currentIdiom" class="mb-8">
-        <div class="word-card rounded-2xl p-6 md:p-8 mb-6">
+      <div v-if="currentIdiom" class="mb-6">
+        <div class="word-card rounded-2xl p-4 md:p-5 mb-4">
           <IdiomCard :idiom="currentIdiom" ref="idiomCardRef" />
         </div>
 
         <!-- 控制按钮 -->
-        <div class="flex justify-center gap-4 mb-6">
+        <div class="flex justify-center gap-4 mb-6 flex-wrap">
           <button
-            @click="prevIdiom"
-            :disabled="currentReviewIndex === 0"
-            class="btn-elsa px-6 py-3 disabled:opacity-50 disabled:cursor-not-allowed"
+            @click="handlePrevIdiom"
+            class="btn-elsa px-6 py-3"
           >
             ← 上一个
           </button>
           <button
-            @click="nextIdiom"
-            :disabled="currentReviewIndex >= reviewIdioms.length - 1"
-            class="btn-elsa px-6 py-3 disabled:opacity-50 disabled:cursor-not-allowed"
+            @click="handleRandomIdiom"
+            class="btn-elsa px-6 py-3"
           >
-            下一个 →
-          </button>
-        </div>
-
-        <!-- 进度操作 -->
-        <div class="flex justify-center gap-4">
-          <button
-            @click="markMastered"
-            class="px-6 py-2 bg-green-500 text-white rounded-full hover:bg-green-600 transition-colors"
-          >
-            ⭐ 已掌握
+            🎲 随机
           </button>
           <button
-            @click="stillDifficult"
-            class="px-6 py-2 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-colors"
+            @click="skipIdiom"
+            class="px-6 py-3 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-colors font-semibold"
           >
-            😰 还是不会
+            ⏭️ 跳过
+          </button>
+          <button
+            @click="nextIdiomAndMark"
+            class="px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600 transition-colors font-semibold"
+          >
+            ✓ 下一个 →
           </button>
         </div>
       </div>
@@ -58,27 +52,60 @@
       <!-- 空状态 -->
       <div v-else class="word-card rounded-2xl p-12 text-center">
         <div class="text-6xl mb-4">🎉</div>
-        <p class="text-xl text-gray-600 mb-4">太棒了！没有需要复习的成语</p>
-        <p class="text-gray-500 mb-6">继续保持，你做得很好！</p>
+        <p class="text-xl text-gray-600">太棒了！没有需要复习的成语</p>
         <router-link to="/idiom" class="btn-elsa mt-6 inline-block">
-          返回成语首页
+          返回
         </router-link>
       </div>
 
-      <!-- 复习列表 -->
-      <div v-if="reviewIdioms.length > 0" class="word-card rounded-2xl p-4 mt-6">
-        <h3 class="text-lg font-bold text-elsa-purple-600 mb-4 text-center">复习列表</h3>
+      <!-- 进度指示器 - 优化显示 -->
+      <div v-if="reviewIdioms.length > 0" class="word-card rounded-2xl p-4">
+        <div class="mb-4 text-center">
+          <div class="text-lg font-semibold text-elsa-purple-600 mb-2">
+            第 {{ currentReviewIndex + 1 }} / {{ reviewIdioms.length }} 个
+          </div>
+          <!-- 进度条 -->
+          <div class="w-full bg-gray-200 rounded-full h-3 mb-2">
+            <div
+              class="bg-elsa-blue-500 h-3 rounded-full transition-all duration-300"
+              :style="{ width: `${((currentReviewIndex + 1) / reviewIdioms.length) * 100}%` }"
+            ></div>
+          </div>
+        </div>
+
+        <!-- 当前范围附近的指示器（最多显示21个） -->
         <div class="flex flex-wrap gap-2 justify-center">
+          <template v-for="item in visibleIdioms" :key="item.idiomId">
+            <button
+              @click="handleGoToIdiom(item.index)"
+              class="w-8 h-8 rounded-full text-xs transition-all hover:scale-110"
+              :class="item.index === currentReviewIndex
+                ? 'bg-elsa-blue-500 text-white shadow-lg scale-110'
+                : 'bg-gray-200 text-gray-600 hover:bg-gray-300'"
+            >
+              {{ item.index + 1 }}
+            </button>
+          </template>
+        </div>
+
+        <!-- 快速跳转 -->
+        <div class="mt-4 flex justify-center gap-2">
           <button
-            v-for="(idiomId, index) in reviewIdioms"
-            :key="idiomId"
-            @click="goToIdiom(index)"
-            class="w-10 h-10 rounded-full text-sm transition-colors"
-            :class="index === currentReviewIndex
-              ? 'bg-elsa-blue-500 text-white'
-              : 'bg-gray-200 text-gray-600 hover:bg-gray-300'"
+            @click="goToPage(currentPage - 1)"
+            :disabled="currentPage === 0"
+            class="px-3 py-1 text-sm rounded-lg disabled:opacity-50 disabled:cursor-not-allowed bg-gray-100 hover:bg-gray-200 transition-colors"
           >
-            {{ index + 1 }}
+            ← 上一页
+          </button>
+          <span class="px-4 py-1 text-sm text-gray-600">
+            第 {{ currentPage + 1 }} / {{ totalPages }} 页
+          </span>
+          <button
+            @click="goToPage(currentPage + 1)"
+            :disabled="currentPage >= totalPages - 1"
+            class="px-3 py-1 text-sm rounded-lg disabled:opacity-50 disabled:cursor-not-allowed bg-gray-100 hover:bg-gray-200 transition-colors"
+          >
+            下一页 →
           </button>
         </div>
       </div>
@@ -87,7 +114,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, watch } from 'vue'
 import IdiomCard from '@/components/IdiomCard.vue'
 import { useIdiomData } from '@/composables/useIdiomData'
 import { useIdiomProgressStore } from '@/stores/idiomProgressStore'
@@ -97,6 +124,10 @@ const idiomProgressStore = useIdiomProgressStore()
 
 const idiomCardRef = ref<InstanceType<typeof IdiomCard> | null>(null)
 const currentReviewIndex = ref(0)
+
+// 分页设置：每页显示21个（7x3布局）
+const itemsPerPage = 21
+const currentPage = ref(0)
 
 // 获取需要复习的成语
 const reviewIdioms = computed(() => {
@@ -111,57 +142,101 @@ const currentIdiom = computed(() => {
   return idioms.value.find(i => i.id === idiomId) || null
 })
 
-const nextIdiom = () => {
-  if (currentReviewIndex.value < reviewIdioms.value.length - 1) {
-    currentReviewIndex.value++
-    if (idiomCardRef.value) {
-      idiomCardRef.value.reset()
+// 计算总页数
+const totalPages = computed(() => {
+  return Math.ceil(reviewIdioms.value.length / itemsPerPage)
+})
+
+// 计算当前页显示的成语范围
+const visibleIdioms = computed(() => {
+  const start = currentPage.value * itemsPerPage
+  const end = Math.min(start + itemsPerPage, reviewIdioms.value.length)
+  return reviewIdioms.value.slice(start, end).map((idiomId, idx) => {
+    const idiom = idioms.value.find(i => i.id === idiomId)
+    return {
+      idiomId,
+      idiom: idiom!,
+      index: start + idx
     }
+  })
+})
+
+// 监听当前索引变化，自动切换页面
+const updatePage = () => {
+  const newPage = Math.floor(currentReviewIndex.value / itemsPerPage)
+  if (newPage !== currentPage.value) {
+    currentPage.value = newPage
   }
 }
 
-const prevIdiom = () => {
+// 跳转到指定页面
+const goToPage = (page: number) => {
+  if (page >= 0 && page < totalPages.value) {
+    currentPage.value = page
+    const targetIndex = page * itemsPerPage
+    handleGoToIdiom(targetIndex)
+  }
+}
+
+// 重置卡片状态
+const resetCard = () => {
+  if (idiomCardRef.value) {
+    idiomCardRef.value.reset()
+  }
+}
+
+// 上一个：重置卡片并跳转
+const handlePrevIdiom = () => {
   if (currentReviewIndex.value > 0) {
     currentReviewIndex.value--
-    if (idiomCardRef.value) {
-      idiomCardRef.value.reset()
-    }
+    resetCard()
   }
 }
 
-const goToIdiom = (index: number) => {
-  if (index >= 0 && index < reviewIdioms.value.length) {
-    currentReviewIndex.value = index
-    if (idiomCardRef.value) {
-      idiomCardRef.value.reset()
-    }
+// 随机：重置卡片并跳转
+const handleRandomIdiom = () => {
+  if (reviewIdioms.value.length > 0) {
+    currentReviewIndex.value = Math.floor(Math.random() * reviewIdioms.value.length)
+    resetCard()
   }
 }
 
-const markMastered = () => {
+// 跳过：标记为已学习并跳转下一个
+const skipIdiom = () => {
+  if (currentIdiom.value) {
+    idiomProgressStore.markLearned(currentIdiom.value.id)
+    idiomProgressStore.incrementReview(currentIdiom.value.id)
+  }
+  resetCard()
+  if (currentReviewIndex.value < reviewIdioms.value.length - 1) {
+    currentReviewIndex.value++
+  }
+}
+
+// 下一个：标记为已掌握并跳转下一个
+const nextIdiomAndMark = () => {
   if (currentIdiom.value) {
     idiomProgressStore.markMastered(currentIdiom.value.id)
     idiomProgressStore.incrementReview(currentIdiom.value.id)
-    // 如果还有下一个，自动跳转
-    if (currentReviewIndex.value < reviewIdioms.value.length - 1) {
-      nextIdiom()
-    }
+  }
+  resetCard()
+  if (currentReviewIndex.value < reviewIdioms.value.length - 1) {
+    currentReviewIndex.value++
   }
 }
 
-const stillDifficult = () => {
-  if (currentIdiom.value) {
-    idiomProgressStore.setDifficulty(currentIdiom.value.id, 5)
-    idiomProgressStore.incrementReview(currentIdiom.value.id)
-    // 如果还有下一个，自动跳转
-    if (currentReviewIndex.value < reviewIdioms.value.length - 1) {
-      nextIdiom()
-    }
+// 跳转到指定索引：重置卡片并跳转
+const handleGoToIdiom = (index: number) => {
+  if (index >= 0 && index < reviewIdioms.value.length) {
+    currentReviewIndex.value = index
+    resetCard()
+    updatePage()
   }
 }
 
-onMounted(() => {
-  currentReviewIndex.value = 0
+// 监听索引变化
+watch(() => currentReviewIndex.value, () => {
+  updatePage()
 })
 </script>
 

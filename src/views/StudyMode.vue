@@ -7,7 +7,7 @@
           to="/word"
           class="btn-elsa text-sm px-4 py-2"
         >
-          ← 返回汉字首页
+          ← 返回
         </router-link>
         <div class="text-white font-semibold text-lg">
           学习进度
@@ -54,7 +54,7 @@
         <div class="text-6xl mb-4">📚</div>
         <p class="text-xl text-gray-600">暂无汉字数据</p>
         <router-link to="/" class="btn-elsa mt-6 inline-block">
-          返回首页
+          返回
         </router-link>
       </div>
 

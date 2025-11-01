@@ -2,6 +2,7 @@ import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import type { IdiomProgress } from '@/types/idiom'
 import { useStorage } from '@/composables/useStorage'
+import idiomsData from '@/data/idioms.json'
 
 export const useIdiomProgressStore = defineStore('idiomProgress', () => {
   // 使用本地存储保存进度
@@ -37,13 +38,12 @@ export const useIdiomProgressStore = defineStore('idiomProgress', () => {
     if (!progressMap.value[idiomId]) {
       progressMap.value[idiomId] = {
         idiomId,
-        learned: true,
+        learned: false,
         mastered: true,
         reviewed: 0
       }
     } else {
       progressMap.value[idiomId].mastered = true
-      progressMap.value[idiomId].learned = true
     }
   }
 
@@ -82,7 +82,7 @@ export const useIdiomProgressStore = defineStore('idiomProgress', () => {
   const getReviewIdioms = (idiomIds: string[]): string[] => {
     return idiomIds.filter(id => {
       const progress = getProgress(id)
-      return progress.mastered === false || progress.reviewed < 3
+      return progress.mastered === false
     })
   }
 
@@ -90,10 +90,9 @@ export const useIdiomProgressStore = defineStore('idiomProgress', () => {
   const stats = computed(() => {
     const allProgress = Object.values(progressMap.value)
     return {
-      total: allProgress.length,
-      learned: allProgress.filter(p => p.learned).length,
-      mastered: allProgress.filter(p => p.mastered).length,
-      totalReviews: allProgress.reduce((sum, p) => sum + p.reviewed, 0)
+      total: (idiomsData as any[]).length, // 词库中的总成语数
+      mastered: allProgress.filter(p => p.mastered).length, // 已掌握的成语数
+      totalReviews: allProgress.reduce((sum, p) => sum + p.reviewed, 0) // 复习总次数
     }
   })
 

@@ -19,11 +19,6 @@ const routes: RouteRecordRaw[] = [
     component: () => import('@/views/StudyMode.vue')
   },
   {
-    path: '/test',
-    name: 'Test',
-    component: () => import('@/views/TestMode.vue')
-  },
-  {
     path: '/review',
     name: 'Review',
     component: () => import('@/views/ReviewMode.vue')
@@ -38,11 +33,6 @@ const routes: RouteRecordRaw[] = [
     path: '/idiom/study',
     name: 'IdiomStudy',
     component: () => import('@/views/IdiomStudyMode.vue')
-  },
-  {
-    path: '/idiom/test',
-    name: 'IdiomTest',
-    component: () => import('@/views/IdiomTestMode.vue')
   },
   {
     path: '/idiom/review',

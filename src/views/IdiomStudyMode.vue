@@ -7,7 +7,7 @@
           to="/idiom"
           class="btn-elsa text-sm px-4 py-2"
         >
-          ← 返回成语首页
+          ← 返回
         </router-link>
         <div class="text-white font-semibold text-lg">
           学习进度

@@ -2,6 +2,7 @@ import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import type { Progress } from '@/types/word'
 import { useStorage } from '@/composables/useStorage'
+import wordsData from '@/data/words.json'
 
 export const useProgressStore = defineStore('progress', () => {
   // 使用本地存储保存进度
@@ -37,13 +38,12 @@ export const useProgressStore = defineStore('progress', () => {
     if (!progressMap.value[wordId]) {
       progressMap.value[wordId] = {
         wordId,
-        learned: true,
+        learned: false,
         mastered: true,
         reviewed: 0
       }
     } else {
       progressMap.value[wordId].mastered = true
-      progressMap.value[wordId].learned = true
     }
   }
 
@@ -82,7 +82,7 @@ export const useProgressStore = defineStore('progress', () => {
   const getReviewWords = (wordIds: string[]): string[] => {
     return wordIds.filter(id => {
       const progress = getProgress(id)
-      return progress.mastered === false || progress.reviewed < 3
+      return progress.mastered === false
     })
   }
 
@@ -90,10 +90,9 @@ export const useProgressStore = defineStore('progress', () => {
   const stats = computed(() => {
     const allProgress = Object.values(progressMap.value)
     return {
-      total: allProgress.length,
-      learned: allProgress.filter(p => p.learned).length,
-      mastered: allProgress.filter(p => p.mastered).length,
-      totalReviews: allProgress.reduce((sum, p) => sum + p.reviewed, 0)
+      total: (wordsData as any[]).length, // 词库中的总字数
+      mastered: allProgress.filter(p => p.mastered).length, // 已掌握的字数
+      totalReviews: allProgress.reduce((sum, p) => sum + p.reviewed, 0) // 复习总次数
     }
   })
 
