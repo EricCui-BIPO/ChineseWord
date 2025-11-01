@@ -15,10 +15,10 @@
     <div class="max-w-4xl mx-auto relative z-10">
       <!-- 标题 -->
       <div class="text-center mb-12">
-        <h1 class="text-5xl md:text-6xl font-bold text-white mb-4 drop-shadow-lg">
-          ❄️ 依祎专属乐园 ❄️
+        <h1 class="text-3xl md:text-4xl font-bold text-white mb-4 drop-shadow-lg">
+          ❄️ 依祎专属 ❄️
         </h1>
-        <p class="text-xl text-white/90">
+        <p class="text-base md:text-lg text-white/90">
           选择你想学习的内容
         </p>
       </div>
@@ -37,7 +37,7 @@
           </div>
 
           <div class="text-6xl mb-4">✏️</div>
-          <h3 class="text-2xl font-bold text-elsa-blue-600 mb-4">汉字学习</h3>
+          <h3 class="text-xl font-bold text-elsa-blue-600 mb-4">汉字学习</h3>
           <p class="text-gray-600 mb-6">学习常用汉字，掌握基础</p>
           <router-link
             to="/word"
@@ -59,7 +59,7 @@
           </div>
 
           <div class="text-6xl mb-4">📖</div>
-          <h3 class="text-2xl font-bold text-elsa-purple-600 mb-4">成语学习</h3>
+          <h3 class="text-xl font-bold text-elsa-purple-600 mb-4">成语学习</h3>
           <p class="text-gray-600 mb-6">学习常用成语，了解中华文化</p>
           <router-link
             to="/idiom"

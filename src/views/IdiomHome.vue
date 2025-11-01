@@ -23,7 +23,7 @@
       <!-- 标题 -->
       <div class="text-center mb-12">
         <h1 class="text-5xl md:text-6xl font-bold text-white mb-4 drop-shadow-lg">
-          ❄️ 成语学习 ❄️
+          ❄️ 成语 ❄️
         </h1>
         <p class="text-xl text-white/90">
           让我们一起学习成语吧！
