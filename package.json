@@ -5,7 +5,8 @@
   "description": "艾莎公主主题汉字学习应用",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc && vite build",
+    "build": "vite build",
+    "build:check": "vue-tsc && vite build",
     "preview": "vite preview",
     "type-check": "vue-tsc --noEmit"
   },
@@ -25,4 +26,3 @@
     "tailwindcss": "^3.4.1"
   }
 }
-
