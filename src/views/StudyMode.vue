@@ -1,8 +1,8 @@
 <template>
-  <div class="min-h-screen elsa-bg py-8 px-4">
+  <div class="min-h-screen elsa-bg py-4 md:py-8 px-4">
     <div class="max-w-6xl mx-auto">
       <!-- 头部导航 -->
-      <div class="mb-6 flex items-center justify-between">
+      <div class="mb-4 md:mb-6 flex items-center justify-between">
         <router-link
           to="/word"
           class="btn-elsa text-sm px-4 py-2"
@@ -35,16 +35,16 @@
             🎲 随机
           </button>
           <button
-            @click="skipWord"
-            class="px-4 py-2 md:px-6 md:py-3 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-colors font-semibold text-sm md:text-base"
-          >
-            ⏭️ 跳过
-          </button>
-          <button
             @click="nextWordAndMark"
             class="px-4 py-2 md:px-6 md:py-3 bg-green-500 text-white rounded-full hover:bg-green-600 transition-colors font-semibold text-sm md:text-base"
           >
             ✓ 下一个 →
+          </button>
+          <button
+            @click="skipWord"
+            class="px-4 py-2 md:px-6 md:py-3 bg-orange-500 text-white rounded-full hover:bg-orange-600 transition-colors font-semibold text-sm md:text-base"
+          >
+            ⏭️ 跳过
           </button>
         </div>
       </div>

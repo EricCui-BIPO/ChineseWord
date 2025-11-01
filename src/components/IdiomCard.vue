@@ -30,7 +30,7 @@
       @click="flipCard"
     >
       <!-- 卡片正面 -->
-      <div class="card-front flex flex-col items-center justify-center p-4 md:p-6 relative overflow-hidden">
+      <div class="card-front flex flex-col items-center justify-center p-3 md:p-6 relative overflow-hidden">
         <!-- 冰晶闪烁装饰 -->
         <div class="absolute top-4 right-4 w-6 h-6 text-elsa-blue-300 opacity-70 pointer-events-none">
           <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 3s ease-in-out infinite">
@@ -43,10 +43,10 @@
           </svg>
         </div>
 
-        <div class="text-4xl md:text-5xl font-bold text-elsa-blue-600 mb-2 text-center">
+        <div class="text-4xl md:text-5xl lg:text-6xl font-bold text-elsa-blue-600 mb-1 md:mb-2 text-center">
           {{ idiom.text }}
         </div>
-        <div class="text-sm md:text-base text-elsa-purple-500 opacity-70">
+        <div class="text-xs md:text-sm text-elsa-purple-500 opacity-70">
           点击翻转卡片
         </div>
       </div>
@@ -171,12 +171,12 @@ defineExpose({
 
 <style scoped>
 .word-card {
-  min-height: 380px;
+  min-height: 280px;
 }
 
-@media (max-width: 640px) {
+@media (min-width: 768px) {
   .word-card {
-    min-height: 350px;
+    min-height: 320px;
   }
 }
 </style>
