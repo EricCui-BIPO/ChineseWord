@@ -1,0 +1,495 @@
+[
+  {
+    "id": "idiom-001",
+    "text": "一心一意",
+    "pinyin": "yī xīn yī yì",
+    "meaning": "只有一个心眼儿，没有别的考虑。形容做事专心一意，一门心思的只做一件事。",
+    "source": "《三国志·魏志·杜恕传》",
+    "usage": "他学习非常认真，一心一意地完成作业。",
+    "category": "褒义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-002",
+    "text": "三心二意",
+    "pinyin": "sān xīn èr yì",
+    "meaning": "又想这样又想那样，犹豫不决。常指不安心，不专一。",
+    "source": "元·关汉卿《救风尘》",
+    "usage": "做事情不能三心二意，要专心致志。",
+    "category": "贬义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-003",
+    "text": "四面八方",
+    "pinyin": "sì miàn bā fāng",
+    "meaning": "指各个方向，各个地方。",
+    "usage": "同学们从四面八方赶来参加聚会。",
+    "category": "中性词",
+    "difficulty": 1
+  },
+  {
+    "id": "idiom-004",
+    "text": "五颜六色",
+    "pinyin": "wǔ yán liù sè",
+    "meaning": "形容色彩复杂或花样繁多。",
+    "usage": "花园里开满了五颜六色的花朵。",
+    "category": "中性词",
+    "difficulty": 1
+  },
+  {
+    "id": "idiom-005",
+    "text": "七上八下",
+    "pinyin": "qī shàng bā xià",
+    "meaning": "形容心里慌乱不安，无所适从的感觉。",
+    "source": "明·施耐庵《水浒全传》",
+    "usage": "考试前，他心里七上八下的。",
+    "category": "中性词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-006",
+    "text": "九牛一毛",
+    "pinyin": "jiǔ niú yī máo",
+    "meaning": "九条牛身上的一根毛。比喻极大数量中极微小的数量，微不足道。",
+    "source": "汉·司马迁《报任少卿书》",
+    "usage": "这点钱对他来说只是九牛一毛。",
+    "category": "中性词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-007",
+    "text": "十全十美",
+    "pinyin": "shí quán shí měi",
+    "meaning": "十分完美，毫无欠缺。",
+    "usage": "世界上没有十全十美的人。",
+    "category": "褒义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-008",
+    "text": "雪中送炭",
+    "pinyin": "xuě zhōng sòng tàn",
+    "meaning": "在下雪天给人送炭取暖。比喻在别人急需时给以物质上或精神上的帮助。",
+    "source": "宋·范成大《大雪送炭与芥隐》",
+    "usage": "他的帮助真是雪中送炭。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-009",
+    "text": "画龙点睛",
+    "pinyin": "huà lóng diǎn jīng",
+    "meaning": "原形容梁代画家张僧繇作画的神妙。后多比喻写文章或讲话时，在关键处用几句话点明实质，使内容生动有力。",
+    "source": "唐·张彦远《历代名画记·张僧繇》",
+    "usage": "他的这番话起到了画龙点睛的作用。",
+    "category": "褒义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-010",
+    "text": "守株待兔",
+    "pinyin": "shǒu zhū dài tù",
+    "meaning": "比喻希望不经过努力而得到成功的侥幸心理。现也比喻死守狭隘经验，不知变通。",
+    "source": "《韩非子·五蠹》",
+    "usage": "学习不能守株待兔，要主动努力。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-011",
+    "text": "掩耳盗铃",
+    "pinyin": "yǎn ěr dào líng",
+    "meaning": "偷铃铛怕别人听见而捂住自己的耳朵。比喻自己欺骗自己，明明掩盖不住的事情偏要想法子掩盖。",
+    "source": "《吕氏春秋·自知》",
+    "usage": "这种掩耳盗铃的做法毫无意义。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-012",
+    "text": "狐假虎威",
+    "pinyin": "hú jiǎ hǔ wēi",
+    "meaning": "狐狸假借老虎的威势。比喻依仗别人的势力欺压人。",
+    "source": "《战国策·楚策一》",
+    "usage": "他不过是狐假虎威罢了。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-013",
+    "text": "亡羊补牢",
+    "pinyin": "wáng yáng bǔ láo",
+    "meaning": "羊逃跑了再去修补羊圈，还不算晚。比喻出了问题以后想办法补救，可以防止继续受损失。",
+    "source": "《战国策·楚策》",
+    "usage": "虽然犯了错误，但亡羊补牢还为时不晚。",
+    "category": "中性词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-014",
+    "text": "坐井观天",
+    "pinyin": "zuò jǐng guān tiān",
+    "meaning": "坐在井里看天。比喻眼界小，见识少。",
+    "source": "唐·韩愈《原道》",
+    "usage": "我们不能坐井观天，要开阔眼界。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-015",
+    "text": "叶公好龙",
+    "pinyin": "yè gōng hào lóng",
+    "meaning": "比喻口头上说爱好某事物，实际上并不真爱好。",
+    "source": "汉·刘向《新序·杂事五》",
+    "usage": "他是叶公好龙，嘴上说喜欢，实际却不行动。",
+    "category": "贬义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-016",
+    "text": "对牛弹琴",
+    "pinyin": "duì niú tán qín",
+    "meaning": "比喻对不懂的人白费口舌和力气。有看不起对方的意思。也用来讥笑说话的人不看对象。",
+    "source": "汉·牟融《理惑论》",
+    "usage": "跟他说这些，简直就是对牛弹琴。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-017",
+    "text": "拔苗助长",
+    "pinyin": "bá miáo zhù zhǎng",
+    "meaning": "比喻违反事物发展的客观规律，急于求成，反而坏事。",
+    "source": "《孟子·公孙丑上》",
+    "usage": "教育孩子不能拔苗助长。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-018",
+    "text": "刻舟求剑",
+    "pinyin": "kè zhōu qiú jiàn",
+    "meaning": "比喻不懂事物已发生变化而仍静止地看问题。",
+    "source": "《吕氏春秋·察今》",
+    "usage": "这种刻舟求剑的做法是错误的。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-019",
+    "text": "画蛇添足",
+    "pinyin": "huà shé tiān zú",
+    "meaning": "画蛇时给蛇添上脚。比喻做了多余的事，非但无益，反而不合适。",
+    "source": "《战国策·齐策二》",
+    "usage": "你的解释完全是画蛇添足。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-020",
+    "text": "自相矛盾",
+    "pinyin": "zì xiāng máo dùn",
+    "meaning": "比喻自己说话做事前后抵触。",
+    "source": "《韩非子·难一》",
+    "usage": "他的话前后自相矛盾。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-021",
+    "text": "井底之蛙",
+    "pinyin": "jǐng dǐ zhī wā",
+    "meaning": "井底的蛙只能看到井口那么大的一块天。比喻见识狭窄的人。",
+    "source": "《庄子·秋水》",
+    "usage": "我们不能做井底之蛙，要见多识广。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-022",
+    "text": "滥竽充数",
+    "pinyin": "làn yú chōng shù",
+    "meaning": "比喻无本领的冒充有本领，次货冒充好货。",
+    "source": "《韩非子·内储说上》",
+    "usage": "这些人中有些是滥竽充数的。",
+    "category": "贬义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-023",
+    "text": "盲人摸象",
+    "pinyin": "máng rén mō xiàng",
+    "meaning": "比喻对事物只凭片面的了解或局部的经验，就乱加猜测，想做出全面的判断。",
+    "source": "《大般涅槃经》",
+    "usage": "我们不能像盲人摸象一样看问题。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-024",
+    "text": "塞翁失马",
+    "pinyin": "sài wēng shī mǎ",
+    "meaning": "比喻一时虽然受到损失，也许反而因此能得到好处。也指坏事在一定条件下可变为好事。",
+    "source": "《淮南子·人间训》",
+    "usage": "塞翁失马，焉知非福。",
+    "category": "中性词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-025",
+    "text": "朝三暮四",
+    "pinyin": "zhāo sān mù sì",
+    "meaning": "原指玩弄手法欺骗人。后用来比喻常常变卦，反复无常。",
+    "source": "《庄子·齐物论》",
+    "usage": "他做事总是朝三暮四的。",
+    "category": "贬义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-026",
+    "text": "杯弓蛇影",
+    "pinyin": "bēi gōng shé yǐng",
+    "meaning": "将映在酒杯里的弓影误认为蛇。比喻因疑神疑鬼而引起恐惧。",
+    "source": "汉·应劭《风俗通义·世间多有见怪》",
+    "usage": "他这样杯弓蛇影，实在是自己吓自己。",
+    "category": "贬义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-027",
+    "text": "惊弓之鸟",
+    "pinyin": "jīng gōng zhī niǎo",
+    "meaning": "被弓箭吓怕了的鸟不容易安定。比喻经过惊吓的人碰到一点动静就非常害怕。",
+    "source": "《战国策·楚策四》",
+    "usage": "他已经是惊弓之鸟，一点声响都害怕。",
+    "category": "中性词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-028",
+    "text": "黔驴技穷",
+    "pinyin": "qián lǘ jì qióng",
+    "meaning": "比喻有限的一点本领也已经用完了。",
+    "source": "唐·柳宗元《三戒·黔之驴》",
+    "usage": "他已经黔驴技穷了。",
+    "category": "贬义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-029",
+    "text": "指鹿为马",
+    "pinyin": "zhǐ lù wéi mǎ",
+    "meaning": "指着鹿，说是马。比喻故意颠倒黑白，混淆是非。",
+    "source": "《史记·秦始皇本纪》",
+    "usage": "他这是在指鹿为马。",
+    "category": "贬义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-030",
+    "text": "南辕北辙",
+    "pinyin": "nán yuán běi zhé",
+    "meaning": "想往南而车子却向北行。比喻行动和目的正好相反。",
+    "source": "《战国策·魏策四》",
+    "usage": "这样做完全是南辕北辙。",
+    "category": "贬义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-031",
+    "text": "一箭双雕",
+    "pinyin": "yī jiàn shuāng diāo",
+    "meaning": "原指射箭技术高超，一箭射中两只雕。后比喻做一件事达到两个目的。",
+    "source": "《北史·长孙晟传》",
+    "usage": "这个计划真是一箭双雕。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-032",
+    "text": "胸有成竹",
+    "pinyin": "xiōng yǒu chéng zhú",
+    "meaning": "原指画竹子要在心里有一幅竹子的形象。后比喻在做事之前已经拿定主意。",
+    "source": "宋·苏轼《文与可画筼筜谷偃竹记》",
+    "usage": "对于这次考试，他胸有成竹。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-033",
+    "text": "闻鸡起舞",
+    "pinyin": "wén jī qǐ wǔ",
+    "meaning": "听到鸡叫就起来舞剑。后比喻有志报国的人及时奋起。",
+    "source": "《晋书·祖逖传》",
+    "usage": "我们要学习古人闻鸡起舞的精神。",
+    "category": "褒义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-034",
+    "text": "卧薪尝胆",
+    "pinyin": "wò xīn cháng dǎn",
+    "meaning": "薪：柴草。睡觉睡在柴草上，吃饭睡觉都尝一尝苦胆。形容人刻苦自励，发奋图强。",
+    "source": "《史记·越王勾践世家》",
+    "usage": "他卧薪尝胆，终于取得了成功。",
+    "category": "褒义词",
+    "difficulty": 4
+  },
+  {
+    "id": "idiom-035",
+    "text": "水滴石穿",
+    "pinyin": "shuǐ dī shí chuān",
+    "meaning": "水不停地滴，石头也能被滴穿。比喻只要有恒心，不断努力，事情就一定能成功。",
+    "source": "《汉书·枚乘传》",
+    "usage": "只要有水滴石穿的精神，就能成功。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-036",
+    "text": "持之以恒",
+    "pinyin": "chí zhī yǐ héng",
+    "meaning": "长久坚持下去。",
+    "source": "清·曾国藩《家训喻纪泽》",
+    "usage": "学习要持之以恒才能取得好成绩。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-037",
+    "text": "坚持不懈",
+    "pinyin": "jiān chí bù xiè",
+    "meaning": "坚持到底，一点不松懈。",
+    "usage": "只要坚持不懈，就一定能成功。",
+    "category": "褒义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-038",
+    "text": "学而不厌",
+    "pinyin": "xué ér bù yàn",
+    "meaning": "学习总感到不满足。形容好学。",
+    "source": "《论语·述而》",
+    "usage": "我们要有学而不厌的精神。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-039",
+    "text": "温故知新",
+    "pinyin": "wēn gù zhī xīn",
+    "meaning": "温习旧的知识，得到新的理解和体会。也指回忆过去，能更好地认识现在。",
+    "source": "《论语·为政》",
+    "usage": "我们要经常温故知新。",
+    "category": "中性词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-040",
+    "text": "不耻下问",
+    "pinyin": "bù chǐ xià wèn",
+    "meaning": "乐于向学问或地位比自己低的人学习，而不觉得不好意思。",
+    "source": "《论语·公冶长》",
+    "usage": "我们要有不耻下问的精神。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-041",
+    "text": "熟能生巧",
+    "pinyin": "shú néng shēng qiǎo",
+    "meaning": "熟练了，就能找到窍门。",
+    "source": "《镜花缘》",
+    "usage": "练习多了，熟能生巧。",
+    "category": "中性词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-042",
+    "text": "勤能补拙",
+    "pinyin": "qín néng bǔ zhuō",
+    "meaning": "勤奋能够弥补不足。",
+    "source": "宋·邵雍《弄笔吟》",
+    "usage": "勤能补拙，只要努力就能进步。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-043",
+    "text": "专心致志",
+    "pinyin": "zhuān xīn zhì zhì",
+    "meaning": "把心思全放在上面。形容一心一意，聚精会神。",
+    "source": "《孟子·告子上》",
+    "usage": "学习要专心致志才能学好。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-044",
+    "text": "聚精会神",
+    "pinyin": "jù jīng huì shén",
+    "meaning": "原指君臣协力，集思广益。后形容精神高度集中。",
+    "source": "汉·王褒《圣主得贤臣颂》",
+    "usage": "他聚精会神地听老师讲课。",
+    "category": "褒义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-045",
+    "text": "一丝不苟",
+    "pinyin": "yī sī bù gǒu",
+    "meaning": "指做事认真细致，一点儿不马虎。",
+    "source": "清·吴敬梓《儒林外史》",
+    "usage": "他做事一丝不苟，非常认真。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-046",
+    "text": "精益求精",
+    "pinyin": "jīng yì qiú jīng",
+    "meaning": "好了还求更好。",
+    "source": "《论语·学而》",
+    "usage": "我们要有精益求精的精神。",
+    "category": "褒义词",
+    "difficulty": 3
+  },
+  {
+    "id": "idiom-047",
+    "text": "马到成功",
+    "pinyin": "mǎ dào chéng gōng",
+    "meaning": "形容工作刚开始就取得成功。",
+    "usage": "祝你马到成功！",
+    "category": "褒义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-048",
+    "text": "一帆风顺",
+    "pinyin": "yī fān fēng shùn",
+    "meaning": "船挂着满帆顺风行驶。比喻非常顺利，没有任何阻碍。",
+    "usage": "祝你一帆风顺！",
+    "category": "褒义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-049",
+    "text": "万事如意",
+    "pinyin": "wàn shì rú yì",
+    "meaning": "一切都符合心意，很顺利。",
+    "usage": "祝你万事如意！",
+    "category": "褒义词",
+    "difficulty": 2
+  },
+  {
+    "id": "idiom-050",
+    "text": "心想事成",
+    "pinyin": "xīn xiǎng shì chéng",
+    "meaning": "心里想到的，都能成功。",
+    "usage": "祝你心想事成！",
+    "category": "褒义词",
+    "difficulty": 1
+  }
+]
+
