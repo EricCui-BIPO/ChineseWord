@@ -38,6 +38,12 @@ const routes: RouteRecordRaw[] = [
     path: '/idiom/review',
     name: 'IdiomReview',
     component: () => import('@/views/IdiomReviewMode.vue')
+  },
+  // 五子棋游戏路由
+  {
+    path: '/gomoku',
+    name: 'Gomoku',
+    component: () => import('@/views/GomokuGame.vue')
   }
 ]
 

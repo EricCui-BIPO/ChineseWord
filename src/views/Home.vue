@@ -24,7 +24,7 @@
       </div>
 
       <!-- 学习入口卡片 -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
         <!-- 汉字学习入口 -->
         <div
           class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
@@ -66,6 +66,28 @@
             class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
           >
             进入成语学习 →
+          </router-link>
+        </div>
+
+        <!-- 五子棋游戏入口 -->
+        <div
+          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
+        >
+          <!-- 冰晶闪烁装饰 -->
+          <div class="absolute top-4 right-4 w-6 h-6 text-blue-300 opacity-70">
+            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 3.5s ease-in-out infinite 1s">
+              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
+            </svg>
+          </div>
+
+          <div class="text-6xl mb-4">⚫⚪</div>
+          <h3 class="text-xl font-bold text-blue-600 mb-4">五子棋游戏</h3>
+          <p class="text-gray-600 mb-6">和朋友一起下五子棋，锻炼思维</p>
+          <router-link
+            to="/gomoku"
+            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
+          >
+            进入五子棋 →
           </router-link>
         </div>
       </div>
