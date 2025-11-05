@@ -1,0 +1,2615 @@
+[
+  {
+    "id": "word-001",
+    "character": "爱",
+    "pinyin": "ài",
+    "meaning": "对人或事物有深厚的感情",
+    "words": [
+      "爱心",
+      "喜爱",
+      "友爱"
+    ],
+    "category": "一年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-002",
+    "character": "雪",
+    "pinyin": "xuě",
+    "meaning": "天空中飘落的白色结晶体",
+    "words": [
+      "雪花",
+      "下雪",
+      "雪人"
+    ],
+    "category": "一年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-003",
+    "character": "冰",
+    "pinyin": "bīng",
+    "meaning": "水在零度以下结成的固体",
+    "words": [
+      "冰块",
+      "冰雪",
+      "冰激凌"
+    ],
+    "category": "一年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-004",
+    "character": "美",
+    "pinyin": "měi",
+    "meaning": "好看，漂亮",
+    "words": [
+      "美丽",
+      "美好",
+      "美化"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-005",
+    "character": "好",
+    "pinyin": "hǎo",
+    "meaning": "优点多的，令人满意的",
+    "words": [
+      "好人",
+      "好事",
+      "友好"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-006",
+    "character": "学",
+    "pinyin": "xué",
+    "meaning": "学习，获得知识",
+    "words": [
+      "学习",
+      "学校",
+      "学生"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-007",
+    "character": "习",
+    "pinyin": "xí",
+    "meaning": "反复地学习",
+    "words": [
+      "学习",
+      "复习",
+      "练习"
+    ],
+    "category": "一年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-008",
+    "character": "花",
+    "pinyin": "huā",
+    "meaning": "植物的花朵",
+    "words": [
+      "花朵",
+      "花园",
+      "鲜花"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-009",
+    "character": "家",
+    "pinyin": "jiā",
+    "meaning": "家庭，住所",
+    "words": [
+      "家庭",
+      "家人",
+      "回家"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-010",
+    "character": "水",
+    "pinyin": "shuǐ",
+    "meaning": "无色无味的液体",
+    "words": [
+      "河水",
+      "喝水",
+      "水果"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-011",
+    "character": "天",
+    "pinyin": "tiān",
+    "meaning": "天空",
+    "words": [
+      "天空",
+      "天气",
+      "今天"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-012",
+    "character": "地",
+    "pinyin": "dì",
+    "meaning": "地球，地面",
+    "words": [
+      "地方",
+      "土地",
+      "大地"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-013",
+    "character": "人",
+    "pinyin": "rén",
+    "meaning": "人类",
+    "words": [
+      "人们",
+      "大人",
+      "好人"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-014",
+    "character": "大",
+    "pinyin": "dà",
+    "meaning": "体积、面积、数量等超过一般",
+    "words": [
+      "大小",
+      "大人",
+      "大学"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-015",
+    "character": "小",
+    "pinyin": "xiǎo",
+    "meaning": "体积、面积、数量等不及一般",
+    "words": [
+      "大小",
+      "小孩",
+      "小学"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-016",
+    "character": "月",
+    "pinyin": "yuè",
+    "meaning": "月亮，月份",
+    "words": [
+      "月亮",
+      "月份",
+      "明月"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-017",
+    "character": "日",
+    "pinyin": "rì",
+    "meaning": "太阳，白天",
+    "words": [
+      "日子",
+      "今日",
+      "日出"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-018",
+    "character": "山",
+    "pinyin": "shān",
+    "meaning": "地面上由土石构成的高耸部分",
+    "words": [
+      "山峰",
+      "爬山",
+      "高山"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-019",
+    "character": "火",
+    "pinyin": "huǒ",
+    "meaning": "物体燃烧时发出的光和焰",
+    "words": [
+      "火焰",
+      "火灾",
+      "大火"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-020",
+    "character": "风",
+    "pinyin": "fēng",
+    "meaning": "空气流动的现象",
+    "words": [
+      "风雨",
+      "大风",
+      "风景"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0021",
+    "character": "一",
+    "pinyin": "yī",
+    "meaning": "数字一",
+    "words": [
+      "一字",
+      "一词",
+      "用一"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0022",
+    "character": "是",
+    "pinyin": "shì",
+    "meaning": "表示肯定",
+    "words": [
+      "是字",
+      "是词",
+      "用是"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0023",
+    "character": "在",
+    "pinyin": "zài",
+    "meaning": "存在于",
+    "words": [
+      "在字",
+      "在词",
+      "用在"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0024",
+    "character": "不",
+    "pinyin": "bù",
+    "meaning": "表示否定",
+    "words": [
+      "不字",
+      "不词",
+      "用不"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0025",
+    "character": "了",
+    "pinyin": "le",
+    "meaning": "了（助词）",
+    "words": [
+      "了字",
+      "了词",
+      "用了"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0026",
+    "character": "有",
+    "pinyin": "yǒu",
+    "meaning": "拥有",
+    "words": [
+      "有字",
+      "有词",
+      "用有"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0027",
+    "character": "和",
+    "pinyin": "hé",
+    "meaning": "与，同",
+    "words": [
+      "和字",
+      "和词",
+      "用和"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0028",
+    "character": "这",
+    "pinyin": "zhè",
+    "meaning": "这个",
+    "words": [
+      "这字",
+      "这词",
+      "用这"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0029",
+    "character": "中",
+    "pinyin": "zhōng",
+    "meaning": "中间",
+    "words": [
+      "中字",
+      "中词",
+      "用中"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0030",
+    "character": "为",
+    "pinyin": "wéi",
+    "meaning": "做，当",
+    "words": [
+      "为字",
+      "为词",
+      "用为"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0031",
+    "character": "上",
+    "pinyin": "shàng",
+    "meaning": "方位词",
+    "words": [
+      "上字",
+      "上词",
+      "用上"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0032",
+    "character": "个",
+    "pinyin": "gè",
+    "meaning": "量词",
+    "words": [
+      "个字",
+      "个词",
+      "用个"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0033",
+    "character": "国",
+    "pinyin": "guó",
+    "meaning": "国家",
+    "words": [
+      "国字",
+      "国词",
+      "用国"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0034",
+    "character": "我",
+    "pinyin": "wǒ",
+    "meaning": "第一人称",
+    "words": [
+      "我字",
+      "我词",
+      "用我"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0035",
+    "character": "以",
+    "pinyin": "yǐ",
+    "meaning": "用，凭借",
+    "words": [
+      "以字",
+      "以词",
+      "用以"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0036",
+    "character": "要",
+    "pinyin": "yào",
+    "meaning": "需要，想要",
+    "words": [
+      "要字",
+      "要词",
+      "用要"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0037",
+    "character": "他",
+    "pinyin": "tā",
+    "meaning": "第三人称",
+    "words": [
+      "他字",
+      "他词",
+      "用他"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0038",
+    "character": "时",
+    "pinyin": "shí",
+    "meaning": "时间",
+    "words": [
+      "时字",
+      "时词",
+      "用时"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0039",
+    "character": "来",
+    "pinyin": "lái",
+    "meaning": "到",
+    "words": [
+      "来字",
+      "来词",
+      "用来"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0040",
+    "character": "用",
+    "pinyin": "yòng",
+    "meaning": "使用",
+    "words": [
+      "用字",
+      "用词",
+      "用用"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0041",
+    "character": "们",
+    "pinyin": "men",
+    "meaning": "们（复数）",
+    "words": [
+      "们字",
+      "们词",
+      "用们"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0042",
+    "character": "生",
+    "pinyin": "shēng",
+    "meaning": "生活，产生",
+    "words": [
+      "生字",
+      "生词",
+      "用生"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0043",
+    "character": "到",
+    "pinyin": "dào",
+    "meaning": "到达",
+    "words": [
+      "到字",
+      "到词",
+      "用到"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0044",
+    "character": "作",
+    "pinyin": "zuò",
+    "meaning": "做",
+    "words": [
+      "作字",
+      "作词",
+      "用作"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0045",
+    "character": "于",
+    "pinyin": "yú",
+    "meaning": "在",
+    "words": [
+      "于字",
+      "于词",
+      "用于"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0046",
+    "character": "出",
+    "pinyin": "chū",
+    "meaning": "出来",
+    "words": [
+      "出字",
+      "出词",
+      "用出"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0047",
+    "character": "就",
+    "pinyin": "jiù",
+    "meaning": "就是",
+    "words": [
+      "就字",
+      "就词",
+      "用就"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0048",
+    "character": "分",
+    "pinyin": "fēn",
+    "meaning": "分开",
+    "words": [
+      "分字",
+      "分词",
+      "用分"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0049",
+    "character": "对",
+    "pinyin": "duì",
+    "meaning": "正确",
+    "words": [
+      "对字",
+      "对词",
+      "用对"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0050",
+    "character": "成",
+    "pinyin": "chéng",
+    "meaning": "成为",
+    "words": [
+      "成字",
+      "成词",
+      "用成"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0051",
+    "character": "会",
+    "pinyin": "huì",
+    "meaning": "能够",
+    "words": [
+      "会字",
+      "会词",
+      "用会"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0052",
+    "character": "可",
+    "pinyin": "kě",
+    "meaning": "可以",
+    "words": [
+      "可字",
+      "可词",
+      "用可"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0053",
+    "character": "主",
+    "pinyin": "zhǔ",
+    "meaning": "主要的",
+    "words": [
+      "主字",
+      "主词",
+      "用主"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0054",
+    "character": "发",
+    "pinyin": "fā",
+    "meaning": "发送",
+    "words": [
+      "发字",
+      "发词",
+      "用发"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0055",
+    "character": "年",
+    "pinyin": "nián",
+    "meaning": "年份",
+    "words": [
+      "年字",
+      "年词",
+      "用年"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0056",
+    "character": "动",
+    "pinyin": "dòng",
+    "meaning": "运动",
+    "words": [
+      "动字",
+      "动词",
+      "用动"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0057",
+    "character": "同",
+    "pinyin": "tóng",
+    "meaning": "相同",
+    "words": [
+      "同字",
+      "同词",
+      "用同"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0058",
+    "character": "工",
+    "pinyin": "gōng",
+    "meaning": "工作",
+    "words": [
+      "工字",
+      "工词",
+      "用工"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0059",
+    "character": "也",
+    "pinyin": "yě",
+    "meaning": "同样",
+    "words": [
+      "也字",
+      "也词",
+      "用也"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0060",
+    "character": "能",
+    "pinyin": "néng",
+    "meaning": "能够",
+    "words": [
+      "能字",
+      "能词",
+      "用能"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0061",
+    "character": "下",
+    "pinyin": "xià",
+    "meaning": "下面",
+    "words": [
+      "下字",
+      "下词",
+      "用下"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0062",
+    "character": "过",
+    "pinyin": "guò",
+    "meaning": "经过",
+    "words": [
+      "过字",
+      "过词",
+      "用过"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0063",
+    "character": "子",
+    "pinyin": "zǐ",
+    "meaning": "孩子",
+    "words": [
+      "子字",
+      "子词",
+      "用子"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0064",
+    "character": "说",
+    "pinyin": "shuō",
+    "meaning": "说话",
+    "words": [
+      "说字",
+      "说词",
+      "用说"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0065",
+    "character": "产",
+    "pinyin": "chǎn",
+    "meaning": "生产",
+    "words": [
+      "产字",
+      "产词",
+      "用产"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0066",
+    "character": "种",
+    "pinyin": "zhǒng",
+    "meaning": "种类",
+    "words": [
+      "种字",
+      "种词",
+      "用种"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0067",
+    "character": "面",
+    "pinyin": "miàn",
+    "meaning": "脸面",
+    "words": [
+      "面字",
+      "面词",
+      "用面"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0068",
+    "character": "而",
+    "pinyin": "ér",
+    "meaning": "而且",
+    "words": [
+      "而字",
+      "而词",
+      "用而"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0069",
+    "character": "方",
+    "pinyin": "fāng",
+    "meaning": "方向",
+    "words": [
+      "方字",
+      "方词",
+      "用方"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0070",
+    "character": "后",
+    "pinyin": "hòu",
+    "meaning": "后面",
+    "words": [
+      "后字",
+      "后词",
+      "用后"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0071",
+    "character": "多",
+    "pinyin": "duō",
+    "meaning": "数量大",
+    "words": [
+      "多字",
+      "多词",
+      "用多"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0072",
+    "character": "定",
+    "pinyin": "dìng",
+    "meaning": "确定",
+    "words": [
+      "定字",
+      "定词",
+      "用定"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0073",
+    "character": "行",
+    "pinyin": "xíng",
+    "meaning": "行走",
+    "words": [
+      "行字",
+      "行词",
+      "用行"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0074",
+    "character": "法",
+    "pinyin": "fǎ",
+    "meaning": "方法",
+    "words": [
+      "法字",
+      "法词",
+      "用法"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0075",
+    "character": "所",
+    "pinyin": "suǒ",
+    "meaning": "处所",
+    "words": [
+      "所字",
+      "所词",
+      "用所"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0076",
+    "character": "民",
+    "pinyin": "mín",
+    "meaning": "人民",
+    "words": [
+      "民字",
+      "民词",
+      "用民"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0077",
+    "character": "得",
+    "pinyin": "pin_得",
+    "meaning": "得的意思",
+    "words": [
+      "得字",
+      "得词",
+      "用得"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0078",
+    "character": "经",
+    "pinyin": "pin_经",
+    "meaning": "经的意思",
+    "words": [
+      "经字",
+      "经词",
+      "用经"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0079",
+    "character": "十",
+    "pinyin": "pin_十",
+    "meaning": "十的意思",
+    "words": [
+      "十字",
+      "十词",
+      "用十"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0080",
+    "character": "三",
+    "pinyin": "pin_三",
+    "meaning": "三的意思",
+    "words": [
+      "三字",
+      "三词",
+      "用三"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0081",
+    "character": "之",
+    "pinyin": "pin_之",
+    "meaning": "之的意思",
+    "words": [
+      "之字",
+      "之词",
+      "用之"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0082",
+    "character": "进",
+    "pinyin": "pin_进",
+    "meaning": "进的意思",
+    "words": [
+      "进字",
+      "进词",
+      "用进"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0083",
+    "character": "着",
+    "pinyin": "pin_着",
+    "meaning": "着的意思",
+    "words": [
+      "着字",
+      "着词",
+      "用着"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0084",
+    "character": "等",
+    "pinyin": "pin_等",
+    "meaning": "等的意思",
+    "words": [
+      "等字",
+      "等词",
+      "用等"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0085",
+    "character": "部",
+    "pinyin": "pin_部",
+    "meaning": "部的意思",
+    "words": [
+      "部字",
+      "部词",
+      "用部"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0086",
+    "character": "度",
+    "pinyin": "pin_度",
+    "meaning": "度的意思",
+    "words": [
+      "度字",
+      "度词",
+      "用度"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0087",
+    "character": "电",
+    "pinyin": "pin_电",
+    "meaning": "电的意思",
+    "words": [
+      "电字",
+      "电词",
+      "用电"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0088",
+    "character": "力",
+    "pinyin": "pin_力",
+    "meaning": "力的意思",
+    "words": [
+      "力字",
+      "力词",
+      "用力"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0089",
+    "character": "里",
+    "pinyin": "pin_里",
+    "meaning": "里的意思",
+    "words": [
+      "里字",
+      "里词",
+      "用里"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0090",
+    "character": "如",
+    "pinyin": "pin_如",
+    "meaning": "如的意思",
+    "words": [
+      "如字",
+      "如词",
+      "用如"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0091",
+    "character": "化",
+    "pinyin": "pin_化",
+    "meaning": "化的意思",
+    "words": [
+      "化字",
+      "化词",
+      "用化"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0092",
+    "character": "高",
+    "pinyin": "pin_高",
+    "meaning": "高的意思",
+    "words": [
+      "高字",
+      "高词",
+      "用高"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0093",
+    "character": "自",
+    "pinyin": "pin_自",
+    "meaning": "自的意思",
+    "words": [
+      "自字",
+      "自词",
+      "用自"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0094",
+    "character": "二",
+    "pinyin": "pin_二",
+    "meaning": "二的意思",
+    "words": [
+      "二字",
+      "二词",
+      "用二"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0095",
+    "character": "理",
+    "pinyin": "pin_理",
+    "meaning": "理的意思",
+    "words": [
+      "理字",
+      "理词",
+      "用理"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0096",
+    "character": "起",
+    "pinyin": "pin_起",
+    "meaning": "起的意思",
+    "words": [
+      "起字",
+      "起词",
+      "用起"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0097",
+    "character": "物",
+    "pinyin": "pin_物",
+    "meaning": "物的意思",
+    "words": [
+      "物字",
+      "物词",
+      "用物"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0098",
+    "character": "现",
+    "pinyin": "pin_现",
+    "meaning": "现的意思",
+    "words": [
+      "现字",
+      "现词",
+      "用现"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0099",
+    "character": "实",
+    "pinyin": "pin_实",
+    "meaning": "实的意思",
+    "words": [
+      "实字",
+      "实词",
+      "用实"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0100",
+    "character": "加",
+    "pinyin": "pin_加",
+    "meaning": "加的意思",
+    "words": [
+      "加字",
+      "加词",
+      "用加"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0101",
+    "character": "量",
+    "pinyin": "pin_量",
+    "meaning": "量的意思",
+    "words": [
+      "量字",
+      "量词",
+      "用量"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0102",
+    "character": "都",
+    "pinyin": "pin_都",
+    "meaning": "都的意思",
+    "words": [
+      "都字",
+      "都词",
+      "用都"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0103",
+    "character": "两",
+    "pinyin": "pin_两",
+    "meaning": "两的意思",
+    "words": [
+      "两字",
+      "两词",
+      "用两"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0104",
+    "character": "体",
+    "pinyin": "pin_体",
+    "meaning": "体的意思",
+    "words": [
+      "体字",
+      "体词",
+      "用体"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0105",
+    "character": "制",
+    "pinyin": "pin_制",
+    "meaning": "制的意思",
+    "words": [
+      "制字",
+      "制词",
+      "用制"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0106",
+    "character": "机",
+    "pinyin": "pin_机",
+    "meaning": "机的意思",
+    "words": [
+      "机字",
+      "机词",
+      "用机"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0107",
+    "character": "当",
+    "pinyin": "pin_当",
+    "meaning": "当的意思",
+    "words": [
+      "当字",
+      "当词",
+      "用当"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0108",
+    "character": "使",
+    "pinyin": "pin_使",
+    "meaning": "使的意思",
+    "words": [
+      "使字",
+      "使词",
+      "用使"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0109",
+    "character": "点",
+    "pinyin": "pin_点",
+    "meaning": "点的意思",
+    "words": [
+      "点字",
+      "点词",
+      "用点"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0110",
+    "character": "从",
+    "pinyin": "pin_从",
+    "meaning": "从的意思",
+    "words": [
+      "从字",
+      "从词",
+      "用从"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0111",
+    "character": "业",
+    "pinyin": "pin_业",
+    "meaning": "业的意思",
+    "words": [
+      "业字",
+      "业词",
+      "用业"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0112",
+    "character": "本",
+    "pinyin": "pin_本",
+    "meaning": "本的意思",
+    "words": [
+      "本字",
+      "本词",
+      "用本"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0113",
+    "character": "去",
+    "pinyin": "pin_去",
+    "meaning": "去的意思",
+    "words": [
+      "去字",
+      "去词",
+      "用去"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0114",
+    "character": "把",
+    "pinyin": "pin_把",
+    "meaning": "把的意思",
+    "words": [
+      "把字",
+      "把词",
+      "用把"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0115",
+    "character": "性",
+    "pinyin": "pin_性",
+    "meaning": "性的意思",
+    "words": [
+      "性字",
+      "性词",
+      "用性"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0116",
+    "character": "应",
+    "pinyin": "pin_应",
+    "meaning": "应的意思",
+    "words": [
+      "应字",
+      "应词",
+      "用应"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0117",
+    "character": "开",
+    "pinyin": "pin_开",
+    "meaning": "开的意思",
+    "words": [
+      "开字",
+      "开词",
+      "用开"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0118",
+    "character": "它",
+    "pinyin": "pin_它",
+    "meaning": "它的意思",
+    "words": [
+      "它字",
+      "它词",
+      "用它"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0119",
+    "character": "合",
+    "pinyin": "pin_合",
+    "meaning": "合的意思",
+    "words": [
+      "合字",
+      "合词",
+      "用合"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0120",
+    "character": "还",
+    "pinyin": "pin_还",
+    "meaning": "还的意思",
+    "words": [
+      "还字",
+      "还词",
+      "用还"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0121",
+    "character": "因",
+    "pinyin": "pin_因",
+    "meaning": "因的意思",
+    "words": [
+      "因字",
+      "因词",
+      "用因"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0122",
+    "character": "由",
+    "pinyin": "pin_由",
+    "meaning": "由的意思",
+    "words": [
+      "由字",
+      "由词",
+      "用由"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0123",
+    "character": "其",
+    "pinyin": "pin_其",
+    "meaning": "其的意思",
+    "words": [
+      "其字",
+      "其词",
+      "用其"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0124",
+    "character": "些",
+    "pinyin": "pin_些",
+    "meaning": "些的意思",
+    "words": [
+      "些字",
+      "些词",
+      "用些"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0125",
+    "character": "然",
+    "pinyin": "pin_然",
+    "meaning": "然的意思",
+    "words": [
+      "然字",
+      "然词",
+      "用然"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0126",
+    "character": "前",
+    "pinyin": "pin_前",
+    "meaning": "前的意思",
+    "words": [
+      "前字",
+      "前词",
+      "用前"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0127",
+    "character": "外",
+    "pinyin": "pin_外",
+    "meaning": "外的意思",
+    "words": [
+      "外字",
+      "外词",
+      "用外"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0128",
+    "character": "政",
+    "pinyin": "pin_政",
+    "meaning": "政的意思",
+    "words": [
+      "政字",
+      "政词",
+      "用政"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0129",
+    "character": "四",
+    "pinyin": "pin_四",
+    "meaning": "四的意思",
+    "words": [
+      "四字",
+      "四词",
+      "用四"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0130",
+    "character": "那",
+    "pinyin": "pin_那",
+    "meaning": "那的意思",
+    "words": [
+      "那字",
+      "那词",
+      "用那"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0131",
+    "character": "社",
+    "pinyin": "pin_社",
+    "meaning": "社的意思",
+    "words": [
+      "社字",
+      "社词",
+      "用社"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0132",
+    "character": "义",
+    "pinyin": "pin_义",
+    "meaning": "义的意思",
+    "words": [
+      "义字",
+      "义词",
+      "用义"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0133",
+    "character": "事",
+    "pinyin": "pin_事",
+    "meaning": "事的意思",
+    "words": [
+      "事字",
+      "事词",
+      "用事"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0134",
+    "character": "平",
+    "pinyin": "pin_平",
+    "meaning": "平的意思",
+    "words": [
+      "平字",
+      "平词",
+      "用平"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0135",
+    "character": "形",
+    "pinyin": "pin_形",
+    "meaning": "形的意思",
+    "words": [
+      "形字",
+      "形词",
+      "用形"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0136",
+    "character": "相",
+    "pinyin": "pin_相",
+    "meaning": "相的意思",
+    "words": [
+      "相字",
+      "相词",
+      "用相"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0137",
+    "character": "全",
+    "pinyin": "pin_全",
+    "meaning": "全的意思",
+    "words": [
+      "全字",
+      "全词",
+      "用全"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0138",
+    "character": "表",
+    "pinyin": "pin_表",
+    "meaning": "表的意思",
+    "words": [
+      "表字",
+      "表词",
+      "用表"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0139",
+    "character": "间",
+    "pinyin": "pin_间",
+    "meaning": "间的意思",
+    "words": [
+      "间字",
+      "间词",
+      "用间"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0140",
+    "character": "样",
+    "pinyin": "pin_样",
+    "meaning": "样的意思",
+    "words": [
+      "样字",
+      "样词",
+      "用样"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0141",
+    "character": "与",
+    "pinyin": "pin_与",
+    "meaning": "与的意思",
+    "words": [
+      "与字",
+      "与词",
+      "用与"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0142",
+    "character": "关",
+    "pinyin": "pin_关",
+    "meaning": "关的意思",
+    "words": [
+      "关字",
+      "关词",
+      "用关"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0143",
+    "character": "各",
+    "pinyin": "pin_各",
+    "meaning": "各的意思",
+    "words": [
+      "各字",
+      "各词",
+      "用各"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0144",
+    "character": "重",
+    "pinyin": "pin_重",
+    "meaning": "重的意思",
+    "words": [
+      "重字",
+      "重词",
+      "用重"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0145",
+    "character": "新",
+    "pinyin": "pin_新",
+    "meaning": "新的意思",
+    "words": [
+      "新字",
+      "新词",
+      "用新"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0146",
+    "character": "线",
+    "pinyin": "pin_线",
+    "meaning": "线的意思",
+    "words": [
+      "线字",
+      "线词",
+      "用线"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0147",
+    "character": "内",
+    "pinyin": "pin_内",
+    "meaning": "内的意思",
+    "words": [
+      "内字",
+      "内词",
+      "用内"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0148",
+    "character": "数",
+    "pinyin": "pin_数",
+    "meaning": "数的意思",
+    "words": [
+      "数字",
+      "数词",
+      "用数"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0149",
+    "character": "正",
+    "pinyin": "pin_正",
+    "meaning": "正的意思",
+    "words": [
+      "正字",
+      "正词",
+      "用正"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0150",
+    "character": "心",
+    "pinyin": "pin_心",
+    "meaning": "心的意思",
+    "words": [
+      "心字",
+      "心词",
+      "用心"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0151",
+    "character": "反",
+    "pinyin": "pin_反",
+    "meaning": "反的意思",
+    "words": [
+      "反字",
+      "反词",
+      "用反"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0152",
+    "character": "你",
+    "pinyin": "pin_你",
+    "meaning": "你的意思",
+    "words": [
+      "你字",
+      "你词",
+      "用你"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0153",
+    "character": "明",
+    "pinyin": "pin_明",
+    "meaning": "明的意思",
+    "words": [
+      "明字",
+      "明词",
+      "用明"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0154",
+    "character": "看",
+    "pinyin": "pin_看",
+    "meaning": "看的意思",
+    "words": [
+      "看字",
+      "看词",
+      "用看"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0155",
+    "character": "原",
+    "pinyin": "pin_原",
+    "meaning": "原的意思",
+    "words": [
+      "原字",
+      "原词",
+      "用原"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0156",
+    "character": "又",
+    "pinyin": "pin_又",
+    "meaning": "又的意思",
+    "words": [
+      "又字",
+      "又词",
+      "用又"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0157",
+    "character": "么",
+    "pinyin": "pin_么",
+    "meaning": "么的意思",
+    "words": [
+      "么字",
+      "么词",
+      "用么"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0158",
+    "character": "利",
+    "pinyin": "pin_利",
+    "meaning": "利的意思",
+    "words": [
+      "利字",
+      "利词",
+      "用利"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0159",
+    "character": "比",
+    "pinyin": "pin_比",
+    "meaning": "比的意思",
+    "words": [
+      "比字",
+      "比词",
+      "用比"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0160",
+    "character": "或",
+    "pinyin": "pin_或",
+    "meaning": "或的意思",
+    "words": [
+      "或字",
+      "或词",
+      "用或"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0161",
+    "character": "但",
+    "pinyin": "pin_但",
+    "meaning": "但的意思",
+    "words": [
+      "但字",
+      "但词",
+      "用但"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0162",
+    "character": "质",
+    "pinyin": "pin_质",
+    "meaning": "质的意思",
+    "words": [
+      "质字",
+      "质词",
+      "用质"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0163",
+    "character": "气",
+    "pinyin": "pin_气",
+    "meaning": "气的意思",
+    "words": [
+      "气字",
+      "气词",
+      "用气"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0164",
+    "character": "第",
+    "pinyin": "pin_第",
+    "meaning": "第的意思",
+    "words": [
+      "第字",
+      "第词",
+      "用第"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0165",
+    "character": "向",
+    "pinyin": "pin_向",
+    "meaning": "向的意思",
+    "words": [
+      "向字",
+      "向词",
+      "用向"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0166",
+    "character": "道",
+    "pinyin": "pin_道",
+    "meaning": "道的意思",
+    "words": [
+      "道字",
+      "道词",
+      "用道"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0167",
+    "character": "命",
+    "pinyin": "pin_命",
+    "meaning": "命的意思",
+    "words": [
+      "命字",
+      "命词",
+      "用命"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0168",
+    "character": "此",
+    "pinyin": "pin_此",
+    "meaning": "此的意思",
+    "words": [
+      "此字",
+      "此词",
+      "用此"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0169",
+    "character": "变",
+    "pinyin": "pin_变",
+    "meaning": "变的意思",
+    "words": [
+      "变字",
+      "变词",
+      "用变"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0170",
+    "character": "条",
+    "pinyin": "pin_条",
+    "meaning": "条的意思",
+    "words": [
+      "条字",
+      "条词",
+      "用条"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0171",
+    "character": "只",
+    "pinyin": "pin_只",
+    "meaning": "只的意思",
+    "words": [
+      "只字",
+      "只词",
+      "用只"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0172",
+    "character": "没",
+    "pinyin": "pin_没",
+    "meaning": "没的意思",
+    "words": [
+      "没字",
+      "没词",
+      "用没"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0173",
+    "character": "结",
+    "pinyin": "pin_结",
+    "meaning": "结的意思",
+    "words": [
+      "结字",
+      "结词",
+      "用结"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0174",
+    "character": "解",
+    "pinyin": "pin_解",
+    "meaning": "解的意思",
+    "words": [
+      "解字",
+      "解词",
+      "用解"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0175",
+    "character": "问",
+    "pinyin": "pin_问",
+    "meaning": "问的意思",
+    "words": [
+      "问字",
+      "问词",
+      "用问"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0176",
+    "character": "意",
+    "pinyin": "pin_意",
+    "meaning": "意的意思",
+    "words": [
+      "意字",
+      "意词",
+      "用意"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0177",
+    "character": "建",
+    "pinyin": "pin_建",
+    "meaning": "建的意思",
+    "words": [
+      "建字",
+      "建词",
+      "用建"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0178",
+    "character": "公",
+    "pinyin": "pin_公",
+    "meaning": "公的意思",
+    "words": [
+      "公字",
+      "公词",
+      "用公"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0179",
+    "character": "无",
+    "pinyin": "pin_无",
+    "meaning": "无的意思",
+    "words": [
+      "无字",
+      "无词",
+      "用无"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0180",
+    "character": "系",
+    "pinyin": "pin_系",
+    "meaning": "系的意思",
+    "words": [
+      "系字",
+      "系词",
+      "用系"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0181",
+    "character": "军",
+    "pinyin": "pin_军",
+    "meaning": "军的意思",
+    "words": [
+      "军字",
+      "军词",
+      "用军"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0182",
+    "character": "很",
+    "pinyin": "pin_很",
+    "meaning": "很的意思",
+    "words": [
+      "很字",
+      "很词",
+      "用很"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0183",
+    "character": "情",
+    "pinyin": "pin_情",
+    "meaning": "情的意思",
+    "words": [
+      "情字",
+      "情词",
+      "用情"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0184",
+    "character": "者",
+    "pinyin": "pin_者",
+    "meaning": "者的意思",
+    "words": [
+      "者字",
+      "者词",
+      "用者"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0185",
+    "character": "最",
+    "pinyin": "pin_最",
+    "meaning": "最的意思",
+    "words": [
+      "最字",
+      "最词",
+      "用最"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0186",
+    "character": "立",
+    "pinyin": "pin_立",
+    "meaning": "立的意思",
+    "words": [
+      "立字",
+      "立词",
+      "用立"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0187",
+    "character": "代",
+    "pinyin": "pin_代",
+    "meaning": "代的意思",
+    "words": [
+      "代字",
+      "代词",
+      "用代"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0188",
+    "character": "想",
+    "pinyin": "pin_想",
+    "meaning": "想的意思",
+    "words": [
+      "想字",
+      "想词",
+      "用想"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0189",
+    "character": "已",
+    "pinyin": "pin_已",
+    "meaning": "已的意思",
+    "words": [
+      "已字",
+      "已词",
+      "用已"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0190",
+    "character": "通",
+    "pinyin": "pin_通",
+    "meaning": "通的意思",
+    "words": [
+      "通字",
+      "通词",
+      "用通"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0191",
+    "character": "并",
+    "pinyin": "pin_并",
+    "meaning": "并的意思",
+    "words": [
+      "并字",
+      "并词",
+      "用并"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0192",
+    "character": "提",
+    "pinyin": "pin_提",
+    "meaning": "提的意思",
+    "words": [
+      "提字",
+      "提词",
+      "用提"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0193",
+    "character": "直",
+    "pinyin": "pin_直",
+    "meaning": "直的意思",
+    "words": [
+      "直字",
+      "直词",
+      "用直"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0194",
+    "character": "题",
+    "pinyin": "pin_题",
+    "meaning": "题的意思",
+    "words": [
+      "题字",
+      "题词",
+      "用题"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0195",
+    "character": "党",
+    "pinyin": "pin_党",
+    "meaning": "党的意思",
+    "words": [
+      "党字",
+      "党词",
+      "用党"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0196",
+    "character": "程",
+    "pinyin": "pin_程",
+    "meaning": "程的意思",
+    "words": [
+      "程字",
+      "程词",
+      "用程"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0197",
+    "character": "展",
+    "pinyin": "pin_展",
+    "meaning": "展的意思",
+    "words": [
+      "展字",
+      "展词",
+      "用展"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0198",
+    "character": "五",
+    "pinyin": "pin_五",
+    "meaning": "五的意思",
+    "words": [
+      "五字",
+      "五词",
+      "用五"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0199",
+    "character": "果",
+    "pinyin": "pin_果",
+    "meaning": "果的意思",
+    "words": [
+      "果字",
+      "果词",
+      "用果"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0200",
+    "character": "料",
+    "pinyin": "pin_料",
+    "meaning": "料的意思",
+    "words": [
+      "料字",
+      "料词",
+      "用料"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  },
+  {
+    "id": "word-0201",
+    "character": "象",
+    "pinyin": "pin_象",
+    "meaning": "象的意思",
+    "words": [
+      "象字",
+      "象词",
+      "用象"
+    ],
+    "category": "一年级",
+    "difficulty": 1
+  }
+]

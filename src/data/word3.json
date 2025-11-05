@@ -1,0 +1,8634 @@
+[
+  {
+    "id": "word-0402",
+    "character": "非",
+    "pinyin": "pin_非",
+    "meaning": "非的意思",
+    "words": [
+      "非字",
+      "非词",
+      "用非"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0403",
+    "character": "验",
+    "pinyin": "pin_验",
+    "meaning": "验的意思",
+    "words": [
+      "验字",
+      "验词",
+      "用验"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0404",
+    "character": "连",
+    "pinyin": "pin_连",
+    "meaning": "连的意思",
+    "words": [
+      "连字",
+      "连词",
+      "用连"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0405",
+    "character": "断",
+    "pinyin": "pin_断",
+    "meaning": "断的意思",
+    "words": [
+      "断字",
+      "断词",
+      "用断"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0406",
+    "character": "深",
+    "pinyin": "pin_深",
+    "meaning": "深的意思",
+    "words": [
+      "深字",
+      "深词",
+      "用深"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0407",
+    "character": "难",
+    "pinyin": "pin_难",
+    "meaning": "难的意思",
+    "words": [
+      "难字",
+      "难词",
+      "用难"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0408",
+    "character": "近",
+    "pinyin": "pin_近",
+    "meaning": "近的意思",
+    "words": [
+      "近字",
+      "近词",
+      "用近"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0409",
+    "character": "矿",
+    "pinyin": "pin_矿",
+    "meaning": "矿的意思",
+    "words": [
+      "矿字",
+      "矿词",
+      "用矿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0410",
+    "character": "千",
+    "pinyin": "pin_千",
+    "meaning": "千的意思",
+    "words": [
+      "千字",
+      "千词",
+      "用千"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0411",
+    "character": "周",
+    "pinyin": "pin_周",
+    "meaning": "周的意思",
+    "words": [
+      "周字",
+      "周词",
+      "用周"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0412",
+    "character": "委",
+    "pinyin": "pin_委",
+    "meaning": "委的意思",
+    "words": [
+      "委字",
+      "委词",
+      "用委"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0413",
+    "character": "素",
+    "pinyin": "pin_素",
+    "meaning": "素的意思",
+    "words": [
+      "素字",
+      "素词",
+      "用素"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0414",
+    "character": "技",
+    "pinyin": "pin_技",
+    "meaning": "技的意思",
+    "words": [
+      "技字",
+      "技词",
+      "用技"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0415",
+    "character": "备",
+    "pinyin": "pin_备",
+    "meaning": "备的意思",
+    "words": [
+      "备字",
+      "备词",
+      "用备"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0416",
+    "character": "半",
+    "pinyin": "pin_半",
+    "meaning": "半的意思",
+    "words": [
+      "半字",
+      "半词",
+      "用半"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0417",
+    "character": "办",
+    "pinyin": "pin_办",
+    "meaning": "办的意思",
+    "words": [
+      "办字",
+      "办词",
+      "用办"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0418",
+    "character": "青",
+    "pinyin": "pin_青",
+    "meaning": "青的意思",
+    "words": [
+      "青字",
+      "青词",
+      "用青"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0419",
+    "character": "省",
+    "pinyin": "pin_省",
+    "meaning": "省的意思",
+    "words": [
+      "省字",
+      "省词",
+      "用省"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0420",
+    "character": "列",
+    "pinyin": "pin_列",
+    "meaning": "列的意思",
+    "words": [
+      "列字",
+      "列词",
+      "用列"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0421",
+    "character": "响",
+    "pinyin": "pin_响",
+    "meaning": "响的意思",
+    "words": [
+      "响字",
+      "响词",
+      "用响"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0422",
+    "character": "约",
+    "pinyin": "pin_约",
+    "meaning": "约的意思",
+    "words": [
+      "约字",
+      "约词",
+      "用约"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0423",
+    "character": "支",
+    "pinyin": "pin_支",
+    "meaning": "支的意思",
+    "words": [
+      "支字",
+      "支词",
+      "用支"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0424",
+    "character": "般",
+    "pinyin": "pin_般",
+    "meaning": "般的意思",
+    "words": [
+      "般字",
+      "般词",
+      "用般"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0425",
+    "character": "史",
+    "pinyin": "pin_史",
+    "meaning": "史的意思",
+    "words": [
+      "史字",
+      "史词",
+      "用史"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0426",
+    "character": "感",
+    "pinyin": "pin_感",
+    "meaning": "感的意思",
+    "words": [
+      "感字",
+      "感词",
+      "用感"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0427",
+    "character": "劳",
+    "pinyin": "pin_劳",
+    "meaning": "劳的意思",
+    "words": [
+      "劳字",
+      "劳词",
+      "用劳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0428",
+    "character": "便",
+    "pinyin": "pin_便",
+    "meaning": "便的意思",
+    "words": [
+      "便字",
+      "便词",
+      "用便"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0429",
+    "character": "团",
+    "pinyin": "pin_团",
+    "meaning": "团的意思",
+    "words": [
+      "团字",
+      "团词",
+      "用团"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0430",
+    "character": "往",
+    "pinyin": "pin_往",
+    "meaning": "往的意思",
+    "words": [
+      "往字",
+      "往词",
+      "用往"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0431",
+    "character": "酸",
+    "pinyin": "pin_酸",
+    "meaning": "酸的意思",
+    "words": [
+      "酸字",
+      "酸词",
+      "用酸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0432",
+    "character": "历",
+    "pinyin": "pin_历",
+    "meaning": "历的意思",
+    "words": [
+      "历字",
+      "历词",
+      "用历"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0433",
+    "character": "市",
+    "pinyin": "pin_市",
+    "meaning": "市的意思",
+    "words": [
+      "市字",
+      "市词",
+      "用市"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0434",
+    "character": "克",
+    "pinyin": "pin_克",
+    "meaning": "克的意思",
+    "words": [
+      "克字",
+      "克词",
+      "用克"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0435",
+    "character": "何",
+    "pinyin": "pin_何",
+    "meaning": "何的意思",
+    "words": [
+      "何字",
+      "何词",
+      "用何"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0436",
+    "character": "除",
+    "pinyin": "pin_除",
+    "meaning": "除的意思",
+    "words": [
+      "除字",
+      "除词",
+      "用除"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0437",
+    "character": "消",
+    "pinyin": "pin_消",
+    "meaning": "消的意思",
+    "words": [
+      "消字",
+      "消词",
+      "用消"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0438",
+    "character": "构",
+    "pinyin": "pin_构",
+    "meaning": "构的意思",
+    "words": [
+      "构字",
+      "构词",
+      "用构"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0439",
+    "character": "府",
+    "pinyin": "pin_府",
+    "meaning": "府的意思",
+    "words": [
+      "府字",
+      "府词",
+      "用府"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0440",
+    "character": "称",
+    "pinyin": "pin_称",
+    "meaning": "称的意思",
+    "words": [
+      "称字",
+      "称词",
+      "用称"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0441",
+    "character": "太",
+    "pinyin": "pin_太",
+    "meaning": "太的意思",
+    "words": [
+      "太字",
+      "太词",
+      "用太"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0442",
+    "character": "准",
+    "pinyin": "pin_准",
+    "meaning": "准的意思",
+    "words": [
+      "准字",
+      "准词",
+      "用准"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0443",
+    "character": "精",
+    "pinyin": "pin_精",
+    "meaning": "精的意思",
+    "words": [
+      "精字",
+      "精词",
+      "用精"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0444",
+    "character": "值",
+    "pinyin": "pin_值",
+    "meaning": "值的意思",
+    "words": [
+      "值字",
+      "值词",
+      "用值"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0445",
+    "character": "号",
+    "pinyin": "pin_号",
+    "meaning": "号的意思",
+    "words": [
+      "号字",
+      "号词",
+      "用号"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0446",
+    "character": "率",
+    "pinyin": "pin_率",
+    "meaning": "率的意思",
+    "words": [
+      "率字",
+      "率词",
+      "用率"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0447",
+    "character": "族",
+    "pinyin": "pin_族",
+    "meaning": "族的意思",
+    "words": [
+      "族字",
+      "族词",
+      "用族"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0448",
+    "character": "维",
+    "pinyin": "pin_维",
+    "meaning": "维的意思",
+    "words": [
+      "维字",
+      "维词",
+      "用维"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0449",
+    "character": "划",
+    "pinyin": "pin_划",
+    "meaning": "划的意思",
+    "words": [
+      "划字",
+      "划词",
+      "用划"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0450",
+    "character": "选",
+    "pinyin": "pin_选",
+    "meaning": "选的意思",
+    "words": [
+      "选字",
+      "选词",
+      "用选"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0451",
+    "character": "标",
+    "pinyin": "pin_标",
+    "meaning": "标的意思",
+    "words": [
+      "标字",
+      "标词",
+      "用标"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0452",
+    "character": "写",
+    "pinyin": "pin_写",
+    "meaning": "写的意思",
+    "words": [
+      "写字",
+      "写词",
+      "用写"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0453",
+    "character": "存",
+    "pinyin": "pin_存",
+    "meaning": "存的意思",
+    "words": [
+      "存字",
+      "存词",
+      "用存"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0454",
+    "character": "候",
+    "pinyin": "pin_候",
+    "meaning": "候的意思",
+    "words": [
+      "候字",
+      "候词",
+      "用候"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0455",
+    "character": "毛",
+    "pinyin": "pin_毛",
+    "meaning": "毛的意思",
+    "words": [
+      "毛字",
+      "毛词",
+      "用毛"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0456",
+    "character": "亲",
+    "pinyin": "pin_亲",
+    "meaning": "亲的意思",
+    "words": [
+      "亲字",
+      "亲词",
+      "用亲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0457",
+    "character": "快",
+    "pinyin": "pin_快",
+    "meaning": "快的意思",
+    "words": [
+      "快字",
+      "快词",
+      "用快"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0458",
+    "character": "效",
+    "pinyin": "pin_效",
+    "meaning": "效的意思",
+    "words": [
+      "效字",
+      "效词",
+      "用效"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0459",
+    "character": "斯",
+    "pinyin": "pin_斯",
+    "meaning": "斯的意思",
+    "words": [
+      "斯字",
+      "斯词",
+      "用斯"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0460",
+    "character": "院",
+    "pinyin": "pin_院",
+    "meaning": "院的意思",
+    "words": [
+      "院字",
+      "院词",
+      "用院"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0461",
+    "character": "查",
+    "pinyin": "pin_查",
+    "meaning": "查的意思",
+    "words": [
+      "查字",
+      "查词",
+      "用查"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0462",
+    "character": "江",
+    "pinyin": "pin_江",
+    "meaning": "江的意思",
+    "words": [
+      "江字",
+      "江词",
+      "用江"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0463",
+    "character": "型",
+    "pinyin": "pin_型",
+    "meaning": "型的意思",
+    "words": [
+      "型字",
+      "型词",
+      "用型"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0464",
+    "character": "眼",
+    "pinyin": "pin_眼",
+    "meaning": "眼的意思",
+    "words": [
+      "眼字",
+      "眼词",
+      "用眼"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0465",
+    "character": "王",
+    "pinyin": "pin_王",
+    "meaning": "王的意思",
+    "words": [
+      "王字",
+      "王词",
+      "用王"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0466",
+    "character": "按",
+    "pinyin": "pin_按",
+    "meaning": "按的意思",
+    "words": [
+      "按字",
+      "按词",
+      "用按"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0467",
+    "character": "格",
+    "pinyin": "pin_格",
+    "meaning": "格的意思",
+    "words": [
+      "格字",
+      "格词",
+      "用格"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0468",
+    "character": "养",
+    "pinyin": "pin_养",
+    "meaning": "养的意思",
+    "words": [
+      "养字",
+      "养词",
+      "用养"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0469",
+    "character": "易",
+    "pinyin": "pin_易",
+    "meaning": "易的意思",
+    "words": [
+      "易字",
+      "易词",
+      "用易"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0470",
+    "character": "置",
+    "pinyin": "pin_置",
+    "meaning": "置的意思",
+    "words": [
+      "置字",
+      "置词",
+      "用置"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0471",
+    "character": "派",
+    "pinyin": "pin_派",
+    "meaning": "派的意思",
+    "words": [
+      "派字",
+      "派词",
+      "用派"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0472",
+    "character": "层",
+    "pinyin": "pin_层",
+    "meaning": "层的意思",
+    "words": [
+      "层字",
+      "层词",
+      "用层"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0473",
+    "character": "片",
+    "pinyin": "pin_片",
+    "meaning": "片的意思",
+    "words": [
+      "片字",
+      "片词",
+      "用片"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0474",
+    "character": "始",
+    "pinyin": "pin_始",
+    "meaning": "始的意思",
+    "words": [
+      "始字",
+      "始词",
+      "用始"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0475",
+    "character": "却",
+    "pinyin": "pin_却",
+    "meaning": "却的意思",
+    "words": [
+      "却字",
+      "却词",
+      "用却"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0476",
+    "character": "专",
+    "pinyin": "pin_专",
+    "meaning": "专的意思",
+    "words": [
+      "专字",
+      "专词",
+      "用专"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0477",
+    "character": "状",
+    "pinyin": "pin_状",
+    "meaning": "状的意思",
+    "words": [
+      "状字",
+      "状词",
+      "用状"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0478",
+    "character": "育",
+    "pinyin": "pin_育",
+    "meaning": "育的意思",
+    "words": [
+      "育字",
+      "育词",
+      "用育"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0479",
+    "character": "厂",
+    "pinyin": "pin_厂",
+    "meaning": "厂的意思",
+    "words": [
+      "厂字",
+      "厂词",
+      "用厂"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0480",
+    "character": "京",
+    "pinyin": "pin_京",
+    "meaning": "京的意思",
+    "words": [
+      "京字",
+      "京词",
+      "用京"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0481",
+    "character": "识",
+    "pinyin": "pin_识",
+    "meaning": "识的意思",
+    "words": [
+      "识字",
+      "识词",
+      "用识"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0482",
+    "character": "适",
+    "pinyin": "pin_适",
+    "meaning": "适的意思",
+    "words": [
+      "适字",
+      "适词",
+      "用适"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0483",
+    "character": "属",
+    "pinyin": "pin_属",
+    "meaning": "属的意思",
+    "words": [
+      "属字",
+      "属词",
+      "用属"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0484",
+    "character": "圆",
+    "pinyin": "pin_圆",
+    "meaning": "圆的意思",
+    "words": [
+      "圆字",
+      "圆词",
+      "用圆"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0485",
+    "character": "包",
+    "pinyin": "pin_包",
+    "meaning": "包的意思",
+    "words": [
+      "包字",
+      "包词",
+      "用包"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0486",
+    "character": "住",
+    "pinyin": "pin_住",
+    "meaning": "住的意思",
+    "words": [
+      "住字",
+      "住词",
+      "用住"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0487",
+    "character": "调",
+    "pinyin": "pin_调",
+    "meaning": "调的意思",
+    "words": [
+      "调字",
+      "调词",
+      "用调"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0488",
+    "character": "满",
+    "pinyin": "pin_满",
+    "meaning": "满的意思",
+    "words": [
+      "满字",
+      "满词",
+      "用满"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0489",
+    "character": "县",
+    "pinyin": "pin_县",
+    "meaning": "县的意思",
+    "words": [
+      "县字",
+      "县词",
+      "用县"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0490",
+    "character": "局",
+    "pinyin": "pin_局",
+    "meaning": "局的意思",
+    "words": [
+      "局字",
+      "局词",
+      "用局"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0491",
+    "character": "照",
+    "pinyin": "pin_照",
+    "meaning": "照的意思",
+    "words": [
+      "照字",
+      "照词",
+      "用照"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0492",
+    "character": "参",
+    "pinyin": "pin_参",
+    "meaning": "参的意思",
+    "words": [
+      "参字",
+      "参词",
+      "用参"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0493",
+    "character": "红",
+    "pinyin": "pin_红",
+    "meaning": "红的意思",
+    "words": [
+      "红字",
+      "红词",
+      "用红"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0494",
+    "character": "细",
+    "pinyin": "pin_细",
+    "meaning": "细的意思",
+    "words": [
+      "细字",
+      "细词",
+      "用细"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0495",
+    "character": "引",
+    "pinyin": "pin_引",
+    "meaning": "引的意思",
+    "words": [
+      "引字",
+      "引词",
+      "用引"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0496",
+    "character": "听",
+    "pinyin": "pin_听",
+    "meaning": "听的意思",
+    "words": [
+      "听字",
+      "听词",
+      "用听"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0497",
+    "character": "该",
+    "pinyin": "pin_该",
+    "meaning": "该的意思",
+    "words": [
+      "该字",
+      "该词",
+      "用该"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0498",
+    "character": "铁",
+    "pinyin": "pin_铁",
+    "meaning": "铁的意思",
+    "words": [
+      "铁字",
+      "铁词",
+      "用铁"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0499",
+    "character": "价",
+    "pinyin": "pin_价",
+    "meaning": "价的意思",
+    "words": [
+      "价字",
+      "价词",
+      "用价"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0500",
+    "character": "严",
+    "pinyin": "pin_严",
+    "meaning": "严的意思",
+    "words": [
+      "严字",
+      "严词",
+      "用严"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0501",
+    "character": "龙",
+    "pinyin": "pin_龙",
+    "meaning": "龙的意思",
+    "words": [
+      "龙字",
+      "龙词",
+      "用龙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0502",
+    "character": "飞",
+    "pinyin": "pin_飞",
+    "meaning": "飞的意思",
+    "words": [
+      "飞字",
+      "飞词",
+      "用飞"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0503",
+    "character": "父",
+    "pinyin": "pin_父",
+    "meaning": "父的意思",
+    "words": [
+      "父字",
+      "父词",
+      "用父"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0504",
+    "character": "母",
+    "pinyin": "pin_母",
+    "meaning": "母的意思",
+    "words": [
+      "母字",
+      "母词",
+      "用母"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0505",
+    "character": "孩",
+    "pinyin": "pin_孩",
+    "meaning": "孩的意思",
+    "words": [
+      "孩字",
+      "孩词",
+      "用孩"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0506",
+    "character": "子",
+    "pinyin": "zǐ",
+    "meaning": "孩子",
+    "words": [
+      "子字",
+      "子词",
+      "用子"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0507",
+    "character": "孩",
+    "pinyin": "pin_孩",
+    "meaning": "孩的意思",
+    "words": [
+      "孩字",
+      "孩词",
+      "用孩"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0508",
+    "character": "女",
+    "pinyin": "pin_女",
+    "meaning": "女的意思",
+    "words": [
+      "女字",
+      "女词",
+      "用女"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0509",
+    "character": "男",
+    "pinyin": "pin_男",
+    "meaning": "男的意思",
+    "words": [
+      "男字",
+      "男词",
+      "用男"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0510",
+    "character": "老",
+    "pinyin": "pin_老",
+    "meaning": "老的意思",
+    "words": [
+      "老字",
+      "老词",
+      "用老"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0511",
+    "character": "少",
+    "pinyin": "pin_少",
+    "meaning": "少的意思",
+    "words": [
+      "少字",
+      "少词",
+      "用少"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0512",
+    "character": "幼",
+    "pinyin": "pin_幼",
+    "meaning": "幼的意思",
+    "words": [
+      "幼字",
+      "幼词",
+      "用幼"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0513",
+    "character": "师",
+    "pinyin": "pin_师",
+    "meaning": "师的意思",
+    "words": [
+      "师字",
+      "师词",
+      "用师"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0514",
+    "character": "生",
+    "pinyin": "shēng",
+    "meaning": "生活，产生",
+    "words": [
+      "生字",
+      "生词",
+      "用生"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0515",
+    "character": "同",
+    "pinyin": "tóng",
+    "meaning": "相同",
+    "words": [
+      "同字",
+      "同词",
+      "用同"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0516",
+    "character": "朋",
+    "pinyin": "pin_朋",
+    "meaning": "朋的意思",
+    "words": [
+      "朋字",
+      "朋词",
+      "用朋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0517",
+    "character": "友",
+    "pinyin": "pin_友",
+    "meaning": "友的意思",
+    "words": [
+      "友字",
+      "友词",
+      "用友"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0518",
+    "character": "庭",
+    "pinyin": "pin_庭",
+    "meaning": "庭的意思",
+    "words": [
+      "庭字",
+      "庭词",
+      "用庭"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0519",
+    "character": "房",
+    "pinyin": "pin_房",
+    "meaning": "房的意思",
+    "words": [
+      "房字",
+      "房词",
+      "用房"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0520",
+    "character": "屋",
+    "pinyin": "pin_屋",
+    "meaning": "屋的意思",
+    "words": [
+      "屋字",
+      "屋词",
+      "用屋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0521",
+    "character": "门",
+    "pinyin": "pin_门",
+    "meaning": "门的意思",
+    "words": [
+      "门字",
+      "门词",
+      "用门"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0522",
+    "character": "窗",
+    "pinyin": "pin_窗",
+    "meaning": "窗的意思",
+    "words": [
+      "窗字",
+      "窗词",
+      "用窗"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0523",
+    "character": "床",
+    "pinyin": "pin_床",
+    "meaning": "床的意思",
+    "words": [
+      "床字",
+      "床词",
+      "用床"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0524",
+    "character": "桌",
+    "pinyin": "pin_桌",
+    "meaning": "桌的意思",
+    "words": [
+      "桌字",
+      "桌词",
+      "用桌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0525",
+    "character": "椅",
+    "pinyin": "pin_椅",
+    "meaning": "椅的意思",
+    "words": [
+      "椅字",
+      "椅词",
+      "用椅"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0526",
+    "character": "书",
+    "pinyin": "pin_书",
+    "meaning": "书的意思",
+    "words": [
+      "书字",
+      "书词",
+      "用书"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0527",
+    "character": "本",
+    "pinyin": "pin_本",
+    "meaning": "本的意思",
+    "words": [
+      "本字",
+      "本词",
+      "用本"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0528",
+    "character": "笔",
+    "pinyin": "pin_笔",
+    "meaning": "笔的意思",
+    "words": [
+      "笔字",
+      "笔词",
+      "用笔"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0529",
+    "character": "纸",
+    "pinyin": "pin_纸",
+    "meaning": "纸的意思",
+    "words": [
+      "纸字",
+      "纸词",
+      "用纸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0530",
+    "character": "字",
+    "pinyin": "pin_字",
+    "meaning": "字的意思",
+    "words": [
+      "字字",
+      "字词",
+      "用字"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0531",
+    "character": "词",
+    "pinyin": "pin_词",
+    "meaning": "词的意思",
+    "words": [
+      "词字",
+      "词词",
+      "用词"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0532",
+    "character": "句",
+    "pinyin": "pin_句",
+    "meaning": "句的意思",
+    "words": [
+      "句字",
+      "句词",
+      "用句"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0533",
+    "character": "话",
+    "pinyin": "pin_话",
+    "meaning": "话的意思",
+    "words": [
+      "话字",
+      "话词",
+      "用话"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0534",
+    "character": "说",
+    "pinyin": "shuō",
+    "meaning": "说话",
+    "words": [
+      "说字",
+      "说词",
+      "用说"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0535",
+    "character": "听",
+    "pinyin": "pin_听",
+    "meaning": "听的意思",
+    "words": [
+      "听字",
+      "听词",
+      "用听"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0536",
+    "character": "读",
+    "pinyin": "pin_读",
+    "meaning": "读的意思",
+    "words": [
+      "读字",
+      "读词",
+      "用读"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0537",
+    "character": "写",
+    "pinyin": "pin_写",
+    "meaning": "写的意思",
+    "words": [
+      "写字",
+      "写词",
+      "用写"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0538",
+    "character": "看",
+    "pinyin": "pin_看",
+    "meaning": "看的意思",
+    "words": [
+      "看字",
+      "看词",
+      "用看"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0539",
+    "character": "画",
+    "pinyin": "pin_画",
+    "meaning": "画的意思",
+    "words": [
+      "画字",
+      "画词",
+      "用画"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0540",
+    "character": "色",
+    "pinyin": "pin_色",
+    "meaning": "色的意思",
+    "words": [
+      "色字",
+      "色词",
+      "用色"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0541",
+    "character": "彩",
+    "pinyin": "pin_彩",
+    "meaning": "彩的意思",
+    "words": [
+      "彩字",
+      "彩词",
+      "用彩"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0542",
+    "character": "红",
+    "pinyin": "pin_红",
+    "meaning": "红的意思",
+    "words": [
+      "红字",
+      "红词",
+      "用红"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0543",
+    "character": "橙",
+    "pinyin": "pin_橙",
+    "meaning": "橙的意思",
+    "words": [
+      "橙字",
+      "橙词",
+      "用橙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0544",
+    "character": "黄",
+    "pinyin": "pin_黄",
+    "meaning": "黄的意思",
+    "words": [
+      "黄字",
+      "黄词",
+      "用黄"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0545",
+    "character": "绿",
+    "pinyin": "pin_绿",
+    "meaning": "绿的意思",
+    "words": [
+      "绿字",
+      "绿词",
+      "用绿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0546",
+    "character": "青",
+    "pinyin": "pin_青",
+    "meaning": "青的意思",
+    "words": [
+      "青字",
+      "青词",
+      "用青"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0547",
+    "character": "蓝",
+    "pinyin": "pin_蓝",
+    "meaning": "蓝的意思",
+    "words": [
+      "蓝字",
+      "蓝词",
+      "用蓝"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0548",
+    "character": "紫",
+    "pinyin": "pin_紫",
+    "meaning": "紫的意思",
+    "words": [
+      "紫字",
+      "紫词",
+      "用紫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0549",
+    "character": "黑",
+    "pinyin": "pin_黑",
+    "meaning": "黑的意思",
+    "words": [
+      "黑字",
+      "黑词",
+      "用黑"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0550",
+    "character": "白",
+    "pinyin": "pin_白",
+    "meaning": "白的意思",
+    "words": [
+      "白字",
+      "白词",
+      "用白"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0551",
+    "character": "灰",
+    "pinyin": "pin_灰",
+    "meaning": "灰的意思",
+    "words": [
+      "灰字",
+      "灰词",
+      "用灰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0552",
+    "character": "粉",
+    "pinyin": "pin_粉",
+    "meaning": "粉的意思",
+    "words": [
+      "粉字",
+      "粉词",
+      "用粉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0553",
+    "character": "棕",
+    "pinyin": "pin_棕",
+    "meaning": "棕的意思",
+    "words": [
+      "棕字",
+      "棕词",
+      "用棕"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0554",
+    "character": "春",
+    "pinyin": "pin_春",
+    "meaning": "春的意思",
+    "words": [
+      "春字",
+      "春词",
+      "用春"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0555",
+    "character": "夏",
+    "pinyin": "pin_夏",
+    "meaning": "夏的意思",
+    "words": [
+      "夏字",
+      "夏词",
+      "用夏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0556",
+    "character": "秋",
+    "pinyin": "pin_秋",
+    "meaning": "秋的意思",
+    "words": [
+      "秋字",
+      "秋词",
+      "用秋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0557",
+    "character": "冬",
+    "pinyin": "pin_冬",
+    "meaning": "冬的意思",
+    "words": [
+      "冬字",
+      "冬词",
+      "用冬"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0558",
+    "character": "年",
+    "pinyin": "nián",
+    "meaning": "年份",
+    "words": [
+      "年字",
+      "年词",
+      "用年"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0559",
+    "character": "时",
+    "pinyin": "shí",
+    "meaning": "时间",
+    "words": [
+      "时字",
+      "时词",
+      "用时"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0560",
+    "character": "分",
+    "pinyin": "fēn",
+    "meaning": "分开",
+    "words": [
+      "分字",
+      "分词",
+      "用分"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0561",
+    "character": "秒",
+    "pinyin": "pin_秒",
+    "meaning": "秒的意思",
+    "words": [
+      "秒字",
+      "秒词",
+      "用秒"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0562",
+    "character": "早",
+    "pinyin": "pin_早",
+    "meaning": "早的意思",
+    "words": [
+      "早字",
+      "早词",
+      "用早"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0563",
+    "character": "晚",
+    "pinyin": "pin_晚",
+    "meaning": "晚的意思",
+    "words": [
+      "晚字",
+      "晚词",
+      "用晚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0564",
+    "character": "午",
+    "pinyin": "pin_午",
+    "meaning": "午的意思",
+    "words": [
+      "午字",
+      "午词",
+      "用午"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0565",
+    "character": "夜",
+    "pinyin": "pin_夜",
+    "meaning": "夜的意思",
+    "words": [
+      "夜字",
+      "夜词",
+      "用夜"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0566",
+    "character": "东",
+    "pinyin": "pin_东",
+    "meaning": "东的意思",
+    "words": [
+      "东字",
+      "东词",
+      "用东"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0567",
+    "character": "南",
+    "pinyin": "pin_南",
+    "meaning": "南的意思",
+    "words": [
+      "南字",
+      "南词",
+      "用南"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0568",
+    "character": "西",
+    "pinyin": "pin_西",
+    "meaning": "西的意思",
+    "words": [
+      "西字",
+      "西词",
+      "用西"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0569",
+    "character": "北",
+    "pinyin": "pin_北",
+    "meaning": "北的意思",
+    "words": [
+      "北字",
+      "北词",
+      "用北"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0570",
+    "character": "前",
+    "pinyin": "pin_前",
+    "meaning": "前的意思",
+    "words": [
+      "前字",
+      "前词",
+      "用前"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0571",
+    "character": "后",
+    "pinyin": "hòu",
+    "meaning": "后面",
+    "words": [
+      "后字",
+      "后词",
+      "用后"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0572",
+    "character": "左",
+    "pinyin": "pin_左",
+    "meaning": "左的意思",
+    "words": [
+      "左字",
+      "左词",
+      "用左"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0573",
+    "character": "右",
+    "pinyin": "pin_右",
+    "meaning": "右的意思",
+    "words": [
+      "右字",
+      "右词",
+      "用右"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0574",
+    "character": "上",
+    "pinyin": "shàng",
+    "meaning": "方位词",
+    "words": [
+      "上字",
+      "上词",
+      "用上"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0575",
+    "character": "下",
+    "pinyin": "xià",
+    "meaning": "下面",
+    "words": [
+      "下字",
+      "下词",
+      "用下"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0576",
+    "character": "中",
+    "pinyin": "zhōng",
+    "meaning": "中间",
+    "words": [
+      "中字",
+      "中词",
+      "用中"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0577",
+    "character": "间",
+    "pinyin": "pin_间",
+    "meaning": "间的意思",
+    "words": [
+      "间字",
+      "间词",
+      "用间"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0578",
+    "character": "里",
+    "pinyin": "pin_里",
+    "meaning": "里的意思",
+    "words": [
+      "里字",
+      "里词",
+      "用里"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0579",
+    "character": "外",
+    "pinyin": "pin_外",
+    "meaning": "外的意思",
+    "words": [
+      "外字",
+      "外词",
+      "用外"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0580",
+    "character": "高",
+    "pinyin": "pin_高",
+    "meaning": "高的意思",
+    "words": [
+      "高字",
+      "高词",
+      "用高"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0581",
+    "character": "低",
+    "pinyin": "pin_低",
+    "meaning": "低的意思",
+    "words": [
+      "低字",
+      "低词",
+      "用低"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0582",
+    "character": "长",
+    "pinyin": "pin_长",
+    "meaning": "长的意思",
+    "words": [
+      "长字",
+      "长词",
+      "用长"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0583",
+    "character": "短",
+    "pinyin": "pin_短",
+    "meaning": "短的意思",
+    "words": [
+      "短字",
+      "短词",
+      "用短"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0584",
+    "character": "宽",
+    "pinyin": "pin_宽",
+    "meaning": "宽的意思",
+    "words": [
+      "宽字",
+      "宽词",
+      "用宽"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0585",
+    "character": "窄",
+    "pinyin": "pin_窄",
+    "meaning": "窄的意思",
+    "words": [
+      "窄字",
+      "窄词",
+      "用窄"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0586",
+    "character": "厚",
+    "pinyin": "pin_厚",
+    "meaning": "厚的意思",
+    "words": [
+      "厚字",
+      "厚词",
+      "用厚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0587",
+    "character": "薄",
+    "pinyin": "pin_薄",
+    "meaning": "薄的意思",
+    "words": [
+      "薄字",
+      "薄词",
+      "用薄"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0588",
+    "character": "粗",
+    "pinyin": "pin_粗",
+    "meaning": "粗的意思",
+    "words": [
+      "粗字",
+      "粗词",
+      "用粗"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0589",
+    "character": "细",
+    "pinyin": "pin_细",
+    "meaning": "细的意思",
+    "words": [
+      "细字",
+      "细词",
+      "用细"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0590",
+    "character": "新",
+    "pinyin": "pin_新",
+    "meaning": "新的意思",
+    "words": [
+      "新字",
+      "新词",
+      "用新"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0591",
+    "character": "旧",
+    "pinyin": "pin_旧",
+    "meaning": "旧的意思",
+    "words": [
+      "旧字",
+      "旧词",
+      "用旧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0592",
+    "character": "坏",
+    "pinyin": "pin_坏",
+    "meaning": "坏的意思",
+    "words": [
+      "坏字",
+      "坏词",
+      "用坏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0593",
+    "character": "丑",
+    "pinyin": "pin_丑",
+    "meaning": "丑的意思",
+    "words": [
+      "丑字",
+      "丑词",
+      "用丑"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0594",
+    "character": "快",
+    "pinyin": "pin_快",
+    "meaning": "快的意思",
+    "words": [
+      "快字",
+      "快词",
+      "用快"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0595",
+    "character": "慢",
+    "pinyin": "pin_慢",
+    "meaning": "慢的意思",
+    "words": [
+      "慢字",
+      "慢词",
+      "用慢"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0596",
+    "character": "多",
+    "pinyin": "duō",
+    "meaning": "数量大",
+    "words": [
+      "多字",
+      "多词",
+      "用多"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0597",
+    "character": "少",
+    "pinyin": "pin_少",
+    "meaning": "少的意思",
+    "words": [
+      "少字",
+      "少词",
+      "用少"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0598",
+    "character": "轻",
+    "pinyin": "pin_轻",
+    "meaning": "轻的意思",
+    "words": [
+      "轻字",
+      "轻词",
+      "用轻"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0599",
+    "character": "重",
+    "pinyin": "pin_重",
+    "meaning": "重的意思",
+    "words": [
+      "重字",
+      "重词",
+      "用重"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0600",
+    "character": "软",
+    "pinyin": "pin_软",
+    "meaning": "软的意思",
+    "words": [
+      "软字",
+      "软词",
+      "用软"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-0601",
+    "character": "硬",
+    "pinyin": "pin_硬",
+    "meaning": "硬的意思",
+    "words": [
+      "硬字",
+      "硬词",
+      "用硬"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1002",
+    "character": "拌",
+    "pinyin": "pin_拌",
+    "meaning": "拌的意思",
+    "words": [
+      "拌字",
+      "拌词",
+      "用拌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1003",
+    "character": "刀",
+    "pinyin": "pin_刀",
+    "meaning": "刀的意思",
+    "words": [
+      "刀字",
+      "刀词",
+      "用刀"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1004",
+    "character": "削",
+    "pinyin": "pin_削",
+    "meaning": "削的意思",
+    "words": [
+      "削字",
+      "削词",
+      "用削"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1005",
+    "character": "擀",
+    "pinyin": "pin_擀",
+    "meaning": "擀的意思",
+    "words": [
+      "擀字",
+      "擀词",
+      "用擀"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1006",
+    "character": "扁",
+    "pinyin": "pin_扁",
+    "meaning": "扁的意思",
+    "words": [
+      "扁字",
+      "扁词",
+      "用扁"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1007",
+    "character": "食",
+    "pinyin": "pin_食",
+    "meaning": "食的意思",
+    "words": [
+      "食字",
+      "食词",
+      "用食"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1008",
+    "character": "鸟",
+    "pinyin": "pin_鸟",
+    "meaning": "鸟的意思",
+    "words": [
+      "鸟字",
+      "鸟词",
+      "用鸟"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1009",
+    "character": "兽",
+    "pinyin": "pin_兽",
+    "meaning": "兽的意思",
+    "words": [
+      "兽字",
+      "兽词",
+      "用兽"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1010",
+    "character": "虫",
+    "pinyin": "pin_虫",
+    "meaning": "虫的意思",
+    "words": [
+      "虫字",
+      "虫词",
+      "用虫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1011",
+    "character": "猫",
+    "pinyin": "pin_猫",
+    "meaning": "猫的意思",
+    "words": [
+      "猫字",
+      "猫词",
+      "用猫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1012",
+    "character": "兔",
+    "pinyin": "pin_兔",
+    "meaning": "兔的意思",
+    "words": [
+      "兔字",
+      "兔词",
+      "用兔"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1013",
+    "character": "鼠",
+    "pinyin": "pin_鼠",
+    "meaning": "鼠的意思",
+    "words": [
+      "鼠字",
+      "鼠词",
+      "用鼠"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1014",
+    "character": "猴",
+    "pinyin": "pin_猴",
+    "meaning": "猴的意思",
+    "words": [
+      "猴字",
+      "猴词",
+      "用猴"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1015",
+    "character": "熊",
+    "pinyin": "pin_熊",
+    "meaning": "熊的意思",
+    "words": [
+      "熊字",
+      "熊词",
+      "用熊"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1016",
+    "character": "虎",
+    "pinyin": "pin_虎",
+    "meaning": "虎的意思",
+    "words": [
+      "虎字",
+      "虎词",
+      "用虎"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1017",
+    "character": "狮",
+    "pinyin": "pin_狮",
+    "meaning": "狮的意思",
+    "words": [
+      "狮字",
+      "狮词",
+      "用狮"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1018",
+    "character": "鹿",
+    "pinyin": "pin_鹿",
+    "meaning": "鹿的意思",
+    "words": [
+      "鹿字",
+      "鹿词",
+      "用鹿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1019",
+    "character": "狼",
+    "pinyin": "pin_狼",
+    "meaning": "狼的意思",
+    "words": [
+      "狼字",
+      "狼词",
+      "用狼"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1020",
+    "character": "狐",
+    "pinyin": "pin_狐",
+    "meaning": "狐的意思",
+    "words": [
+      "狐字",
+      "狐词",
+      "用狐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1021",
+    "character": "狸",
+    "pinyin": "pin_狸",
+    "meaning": "狸的意思",
+    "words": [
+      "狸字",
+      "狸词",
+      "用狸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1022",
+    "character": "蛇",
+    "pinyin": "pin_蛇",
+    "meaning": "蛇的意思",
+    "words": [
+      "蛇字",
+      "蛇词",
+      "用蛇"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1023",
+    "character": "凤",
+    "pinyin": "pin_凤",
+    "meaning": "凤的意思",
+    "words": [
+      "凤字",
+      "凤词",
+      "用凤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1024",
+    "character": "雀",
+    "pinyin": "pin_雀",
+    "meaning": "雀的意思",
+    "words": [
+      "雀字",
+      "雀词",
+      "用雀"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1025",
+    "character": "鹰",
+    "pinyin": "pin_鹰",
+    "meaning": "鹰的意思",
+    "words": [
+      "鹰字",
+      "鹰词",
+      "用鹰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1026",
+    "character": "鸽",
+    "pinyin": "pin_鸽",
+    "meaning": "鸽的意思",
+    "words": [
+      "鸽字",
+      "鸽词",
+      "用鸽"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1027",
+    "character": "燕",
+    "pinyin": "pin_燕",
+    "meaning": "燕的意思",
+    "words": [
+      "燕字",
+      "燕词",
+      "用燕"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1028",
+    "character": "雁",
+    "pinyin": "pin_雁",
+    "meaning": "雁的意思",
+    "words": [
+      "雁字",
+      "雁词",
+      "用雁"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1029",
+    "character": "鹤",
+    "pinyin": "pin_鹤",
+    "meaning": "鹤的意思",
+    "words": [
+      "鹤字",
+      "鹤词",
+      "用鹤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1030",
+    "character": "螺",
+    "pinyin": "pin_螺",
+    "meaning": "螺的意思",
+    "words": [
+      "螺字",
+      "螺词",
+      "用螺"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1031",
+    "character": "蚌",
+    "pinyin": "pin_蚌",
+    "meaning": "蚌的意思",
+    "words": [
+      "蚌字",
+      "蚌词",
+      "用蚌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1032",
+    "character": "龟",
+    "pinyin": "pin_龟",
+    "meaning": "龟的意思",
+    "words": [
+      "龟字",
+      "龟词",
+      "用龟"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1033",
+    "character": "鳖",
+    "pinyin": "pin_鳖",
+    "meaning": "鳖的意思",
+    "words": [
+      "鳖字",
+      "鳖词",
+      "用鳖"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1034",
+    "character": "鲤",
+    "pinyin": "pin_鲤",
+    "meaning": "鲤的意思",
+    "words": [
+      "鲤字",
+      "鲤词",
+      "用鲤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1035",
+    "character": "鲫",
+    "pinyin": "pin_鲫",
+    "meaning": "鲫的意思",
+    "words": [
+      "鲫字",
+      "鲫词",
+      "用鲫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1036",
+    "character": "鲢",
+    "pinyin": "pin_鲢",
+    "meaning": "鲢的意思",
+    "words": [
+      "鲢字",
+      "鲢词",
+      "用鲢"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1037",
+    "character": "鳙",
+    "pinyin": "pin_鳙",
+    "meaning": "鳙的意思",
+    "words": [
+      "鳙字",
+      "鳙词",
+      "用鳙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1038",
+    "character": "鲶",
+    "pinyin": "pin_鲶",
+    "meaning": "鲶的意思",
+    "words": [
+      "鲶字",
+      "鲶词",
+      "用鲶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1039",
+    "character": "鲈",
+    "pinyin": "pin_鲈",
+    "meaning": "鲈的意思",
+    "words": [
+      "鲈字",
+      "鲈词",
+      "用鲈"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1040",
+    "character": "枪",
+    "pinyin": "pin_枪",
+    "meaning": "枪的意思",
+    "words": [
+      "枪字",
+      "枪词",
+      "用枪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1041",
+    "character": "沙",
+    "pinyin": "pin_沙",
+    "meaning": "沙的意思",
+    "words": [
+      "沙字",
+      "沙词",
+      "用沙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1042",
+    "character": "植",
+    "pinyin": "pin_植",
+    "meaning": "植的意思",
+    "words": [
+      "植字",
+      "植词",
+      "用植"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1043",
+    "character": "树",
+    "pinyin": "pin_树",
+    "meaning": "树的意思",
+    "words": [
+      "树字",
+      "树词",
+      "用树"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1044",
+    "character": "竹",
+    "pinyin": "pin_竹",
+    "meaning": "竹的意思",
+    "words": [
+      "竹字",
+      "竹词",
+      "用竹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1045",
+    "character": "柏",
+    "pinyin": "pin_柏",
+    "meaning": "柏的意思",
+    "words": [
+      "柏字",
+      "柏词",
+      "用柏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1046",
+    "character": "柳",
+    "pinyin": "pin_柳",
+    "meaning": "柳的意思",
+    "words": [
+      "柳字",
+      "柳词",
+      "用柳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1047",
+    "character": "杨",
+    "pinyin": "pin_杨",
+    "meaning": "杨的意思",
+    "words": [
+      "杨字",
+      "杨词",
+      "用杨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1048",
+    "character": "槐",
+    "pinyin": "pin_槐",
+    "meaning": "槐的意思",
+    "words": [
+      "槐字",
+      "槐词",
+      "用槐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1049",
+    "character": "榆",
+    "pinyin": "pin_榆",
+    "meaning": "榆的意思",
+    "words": [
+      "榆字",
+      "榆词",
+      "用榆"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1050",
+    "character": "桐",
+    "pinyin": "pin_桐",
+    "meaning": "桐的意思",
+    "words": [
+      "桐字",
+      "桐词",
+      "用桐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1051",
+    "character": "枫",
+    "pinyin": "pin_枫",
+    "meaning": "枫的意思",
+    "words": [
+      "枫字",
+      "枫词",
+      "用枫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1052",
+    "character": "梧",
+    "pinyin": "pin_梧",
+    "meaning": "梧的意思",
+    "words": [
+      "梧字",
+      "梧词",
+      "用梧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1053",
+    "character": "榕",
+    "pinyin": "pin_榕",
+    "meaning": "榕的意思",
+    "words": [
+      "榕字",
+      "榕词",
+      "用榕"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1054",
+    "character": "樟",
+    "pinyin": "pin_樟",
+    "meaning": "樟的意思",
+    "words": [
+      "樟字",
+      "樟词",
+      "用樟"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1055",
+    "character": "杉",
+    "pinyin": "pin_杉",
+    "meaning": "杉的意思",
+    "words": [
+      "杉字",
+      "杉词",
+      "用杉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1056",
+    "character": "桂",
+    "pinyin": "pin_桂",
+    "meaning": "桂的意思",
+    "words": [
+      "桂字",
+      "桂词",
+      "用桂"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1057",
+    "character": "柑",
+    "pinyin": "pin_柑",
+    "meaning": "柑的意思",
+    "words": [
+      "柑字",
+      "柑词",
+      "用柑"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1058",
+    "character": "莲",
+    "pinyin": "pin_莲",
+    "meaning": "莲的意思",
+    "words": [
+      "莲字",
+      "莲词",
+      "用莲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1059",
+    "character": "藕",
+    "pinyin": "pin_藕",
+    "meaning": "藕的意思",
+    "words": [
+      "藕字",
+      "藕词",
+      "用藕"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1060",
+    "character": "菱",
+    "pinyin": "pin_菱",
+    "meaning": "菱的意思",
+    "words": [
+      "菱字",
+      "菱词",
+      "用菱"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1061",
+    "character": "荸",
+    "pinyin": "pin_荸",
+    "meaning": "荸的意思",
+    "words": [
+      "荸字",
+      "荸词",
+      "用荸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1062",
+    "character": "荠",
+    "pinyin": "pin_荠",
+    "meaning": "荠的意思",
+    "words": [
+      "荠字",
+      "荠词",
+      "用荠"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1063",
+    "character": "慈",
+    "pinyin": "pin_慈",
+    "meaning": "慈的意思",
+    "words": [
+      "慈字",
+      "慈词",
+      "用慈"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1064",
+    "character": "芋",
+    "pinyin": "pin_芋",
+    "meaning": "芋的意思",
+    "words": [
+      "芋字",
+      "芋词",
+      "用芋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1065",
+    "character": "药",
+    "pinyin": "pin_药",
+    "meaning": "药的意思",
+    "words": [
+      "药字",
+      "药词",
+      "用药"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1066",
+    "character": "薯",
+    "pinyin": "pin_薯",
+    "meaning": "薯的意思",
+    "words": [
+      "薯字",
+      "薯词",
+      "用薯"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1067",
+    "character": "葫",
+    "pinyin": "pin_葫",
+    "meaning": "葫的意思",
+    "words": [
+      "葫字",
+      "葫词",
+      "用葫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1068",
+    "character": "芦",
+    "pinyin": "pin_芦",
+    "meaning": "芦的意思",
+    "words": [
+      "芦字",
+      "芦词",
+      "用芦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1069",
+    "character": "蚕",
+    "pinyin": "pin_蚕",
+    "meaning": "蚕的意思",
+    "words": [
+      "蚕字",
+      "蚕词",
+      "用蚕"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1070",
+    "character": "芝",
+    "pinyin": "pin_芝",
+    "meaning": "芝的意思",
+    "words": [
+      "芝字",
+      "芝词",
+      "用芝"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1071",
+    "character": "麻",
+    "pinyin": "pin_麻",
+    "meaning": "麻的意思",
+    "words": [
+      "麻字",
+      "麻词",
+      "用麻"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1072",
+    "character": "葵",
+    "pinyin": "pin_葵",
+    "meaning": "葵的意思",
+    "words": [
+      "葵字",
+      "葵词",
+      "用葵"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1073",
+    "character": "甘",
+    "pinyin": "pin_甘",
+    "meaning": "甘的意思",
+    "words": [
+      "甘字",
+      "甘词",
+      "用甘"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1074",
+    "character": "麦",
+    "pinyin": "pin_麦",
+    "meaning": "麦的意思",
+    "words": [
+      "麦字",
+      "麦词",
+      "用麦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1075",
+    "character": "茼",
+    "pinyin": "pin_茼",
+    "meaning": "茼的意思",
+    "words": [
+      "茼字",
+      "茼词",
+      "用茼"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1076",
+    "character": "蒿",
+    "pinyin": "pin_蒿",
+    "meaning": "蒿的意思",
+    "words": [
+      "蒿字",
+      "蒿词",
+      "用蒿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1077",
+    "character": "荷",
+    "pinyin": "pin_荷",
+    "meaning": "荷的意思",
+    "words": [
+      "荷字",
+      "荷词",
+      "用荷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1078",
+    "character": "苏",
+    "pinyin": "pin_苏",
+    "meaning": "苏的意思",
+    "words": [
+      "苏字",
+      "苏词",
+      "用苏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1079",
+    "character": "罗",
+    "pinyin": "pin_罗",
+    "meaning": "罗的意思",
+    "words": [
+      "罗字",
+      "罗词",
+      "用罗"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1080",
+    "character": "勒",
+    "pinyin": "pin_勒",
+    "meaning": "勒的意思",
+    "words": [
+      "勒字",
+      "勒词",
+      "用勒"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1081",
+    "character": "迷",
+    "pinyin": "pin_迷",
+    "meaning": "迷的意思",
+    "words": [
+      "迷字",
+      "迷词",
+      "用迷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1082",
+    "character": "迭",
+    "pinyin": "pin_迭",
+    "meaning": "迭的意思",
+    "words": [
+      "迭字",
+      "迭词",
+      "用迭"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1083",
+    "character": "玫",
+    "pinyin": "pin_玫",
+    "meaning": "玫的意思",
+    "words": [
+      "玫字",
+      "玫词",
+      "用玫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1084",
+    "character": "瑰",
+    "pinyin": "pin_瑰",
+    "meaning": "瑰的意思",
+    "words": [
+      "瑰字",
+      "瑰词",
+      "用瑰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1085",
+    "character": "牡",
+    "pinyin": "pin_牡",
+    "meaning": "牡的意思",
+    "words": [
+      "牡字",
+      "牡词",
+      "用牡"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1086",
+    "character": "丹",
+    "pinyin": "pin_丹",
+    "meaning": "丹的意思",
+    "words": [
+      "丹字",
+      "丹词",
+      "用丹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1087",
+    "character": "菊",
+    "pinyin": "pin_菊",
+    "meaning": "菊的意思",
+    "words": [
+      "菊字",
+      "菊词",
+      "用菊"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1088",
+    "character": "兰",
+    "pinyin": "pin_兰",
+    "meaning": "兰的意思",
+    "words": [
+      "兰字",
+      "兰词",
+      "用兰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1089",
+    "character": "仙",
+    "pinyin": "pin_仙",
+    "meaning": "仙的意思",
+    "words": [
+      "仙字",
+      "仙词",
+      "用仙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1090",
+    "character": "茉",
+    "pinyin": "pin_茉",
+    "meaning": "茉的意思",
+    "words": [
+      "茉字",
+      "茉词",
+      "用茉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1091",
+    "character": "莉",
+    "pinyin": "pin_莉",
+    "meaning": "莉的意思",
+    "words": [
+      "莉字",
+      "莉词",
+      "用莉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1092",
+    "character": "栀",
+    "pinyin": "pin_栀",
+    "meaning": "栀的意思",
+    "words": [
+      "栀字",
+      "栀词",
+      "用栀"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1093",
+    "character": "梅",
+    "pinyin": "pin_梅",
+    "meaning": "梅的意思",
+    "words": [
+      "梅字",
+      "梅词",
+      "用梅"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1094",
+    "character": "棠",
+    "pinyin": "pin_棠",
+    "meaning": "棠的意思",
+    "words": [
+      "棠字",
+      "棠词",
+      "用棠"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1095",
+    "character": "薇",
+    "pinyin": "pin_薇",
+    "meaning": "薇的意思",
+    "words": [
+      "薇字",
+      "薇词",
+      "用薇"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1096",
+    "character": "牵",
+    "pinyin": "pin_牵",
+    "meaning": "牵的意思",
+    "words": [
+      "牵字",
+      "牵词",
+      "用牵"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1097",
+    "character": "乃",
+    "pinyin": "pin_乃",
+    "meaning": "乃的意思",
+    "words": [
+      "乃字",
+      "乃词",
+      "用乃"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1098",
+    "character": "馨",
+    "pinyin": "pin_馨",
+    "meaning": "馨的意思",
+    "words": [
+      "馨字",
+      "馨词",
+      "用馨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1099",
+    "character": "星",
+    "pinyin": "pin_星",
+    "meaning": "星的意思",
+    "words": [
+      "星字",
+      "星词",
+      "用星"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1100",
+    "character": "勿",
+    "pinyin": "pin_勿",
+    "meaning": "勿的意思",
+    "words": [
+      "勿字",
+      "勿词",
+      "用勿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1101",
+    "character": "薰",
+    "pinyin": "pin_薰",
+    "meaning": "薰的意思",
+    "words": [
+      "薰字",
+      "薰词",
+      "用薰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1102",
+    "character": "含",
+    "pinyin": "pin_含",
+    "meaning": "含的意思",
+    "words": [
+      "含字",
+      "含词",
+      "用含"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1103",
+    "character": "羞",
+    "pinyin": "pin_羞",
+    "meaning": "羞的意思",
+    "words": [
+      "羞字",
+      "羞词",
+      "用羞"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1104",
+    "character": "叶",
+    "pinyin": "pin_叶",
+    "meaning": "叶的意思",
+    "words": [
+      "叶字",
+      "叶词",
+      "用叶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1105",
+    "character": "幸",
+    "pinyin": "pin_幸",
+    "meaning": "幸的意思",
+    "words": [
+      "幸字",
+      "幸词",
+      "用幸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1106",
+    "character": "尾",
+    "pinyin": "pin_尾",
+    "meaning": "尾的意思",
+    "words": [
+      "尾字",
+      "尾词",
+      "用尾"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1107",
+    "character": "苇",
+    "pinyin": "pin_苇",
+    "meaning": "苇的意思",
+    "words": [
+      "苇字",
+      "苇词",
+      "用苇"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1108",
+    "character": "蒲",
+    "pinyin": "pin_蒲",
+    "meaning": "蒲的意思",
+    "words": [
+      "蒲字",
+      "蒲词",
+      "用蒲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1109",
+    "character": "英",
+    "pinyin": "pin_英",
+    "meaning": "英的意思",
+    "words": [
+      "英字",
+      "英词",
+      "用英"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1110",
+    "character": "苋",
+    "pinyin": "pin_苋",
+    "meaning": "苋的意思",
+    "words": [
+      "苋字",
+      "苋词",
+      "用苋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1111",
+    "character": "野",
+    "pinyin": "pin_野",
+    "meaning": "野的意思",
+    "words": [
+      "野字",
+      "野词",
+      "用野"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1112",
+    "character": "蔷",
+    "pinyin": "pin_蔷",
+    "meaning": "蔷的意思",
+    "words": [
+      "蔷字",
+      "蔷词",
+      "用蔷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1113",
+    "character": "校",
+    "pinyin": "pin_校",
+    "meaning": "校的意思",
+    "words": [
+      "校字",
+      "校词",
+      "用校"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1114",
+    "character": "室",
+    "pinyin": "pin_室",
+    "meaning": "室的意思",
+    "words": [
+      "室字",
+      "室词",
+      "用室"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1115",
+    "character": "课",
+    "pinyin": "pin_课",
+    "meaning": "课的意思",
+    "words": [
+      "课字",
+      "课词",
+      "用课"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1116",
+    "character": "堂",
+    "pinyin": "pin_堂",
+    "meaning": "堂的意思",
+    "words": [
+      "堂字",
+      "堂词",
+      "用堂"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1117",
+    "character": "板",
+    "pinyin": "pin_板",
+    "meaning": "板的意思",
+    "words": [
+      "板字",
+      "板词",
+      "用板"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1118",
+    "character": "媒",
+    "pinyin": "pin_媒",
+    "meaning": "媒的意思",
+    "words": [
+      "媒字",
+      "媒词",
+      "用媒"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1119",
+    "character": "投",
+    "pinyin": "pin_投",
+    "meaning": "投的意思",
+    "words": [
+      "投字",
+      "投词",
+      "用投"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1120",
+    "character": "仪",
+    "pinyin": "pin_仪",
+    "meaning": "仪的意思",
+    "words": [
+      "仪字",
+      "仪词",
+      "用仪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1121",
+    "character": "智",
+    "pinyin": "pin_智",
+    "meaning": "智的意思",
+    "words": [
+      "智字",
+      "智词",
+      "用智"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1122",
+    "character": "镜",
+    "pinyin": "pin_镜",
+    "meaning": "镜的意思",
+    "words": [
+      "镜字",
+      "镜词",
+      "用镜"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1123",
+    "character": "虚",
+    "pinyin": "pin_虚",
+    "meaning": "虚的意思",
+    "words": [
+      "虚字",
+      "虚词",
+      "用虚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1124",
+    "character": "拟",
+    "pinyin": "pin_拟",
+    "meaning": "拟的意思",
+    "words": [
+      "拟字",
+      "拟词",
+      "用拟"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1125",
+    "character": "神",
+    "pinyin": "pin_神",
+    "meaning": "神的意思",
+    "words": [
+      "神字",
+      "神词",
+      "用神"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1126",
+    "character": "网",
+    "pinyin": "pin_网",
+    "meaning": "网的意思",
+    "words": [
+      "网字",
+      "网词",
+      "用网"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1127",
+    "character": "络",
+    "pinyin": "pin_络",
+    "meaning": "络的意思",
+    "words": [
+      "络字",
+      "络词",
+      "用络"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1128",
+    "character": "析",
+    "pinyin": "pin_析",
+    "meaning": "析的意思",
+    "words": [
+      "析字",
+      "析词",
+      "用析"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1129",
+    "character": "云",
+    "pinyin": "pin_云",
+    "meaning": "云的意思",
+    "words": [
+      "云字",
+      "云词",
+      "用云"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1130",
+    "character": "块",
+    "pinyin": "pin_块",
+    "meaning": "块的意思",
+    "words": [
+      "块字",
+      "块词",
+      "用块"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1131",
+    "character": "链",
+    "pinyin": "pin_链",
+    "meaning": "链的意思",
+    "words": [
+      "链字",
+      "链词",
+      "用链"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1132",
+    "character": "密",
+    "pinyin": "pin_密",
+    "meaning": "密的意思",
+    "words": [
+      "密字",
+      "密词",
+      "用密"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1133",
+    "character": "货",
+    "pinyin": "pin_货",
+    "meaning": "货的意思",
+    "words": [
+      "货字",
+      "货词",
+      "用货"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1134",
+    "character": "币",
+    "pinyin": "pin_币",
+    "meaning": "币的意思",
+    "words": [
+      "币字",
+      "币词",
+      "用币"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1135",
+    "character": "坊",
+    "pinyin": "pin_坊",
+    "meaning": "坊的意思",
+    "words": [
+      "坊字",
+      "坊词",
+      "用坊"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1136",
+    "character": "融",
+    "pinyin": "pin_融",
+    "meaning": "融的意思",
+    "words": [
+      "融字",
+      "融词",
+      "用融"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1137",
+    "character": "付",
+    "pinyin": "pin_付",
+    "meaning": "付的意思",
+    "words": [
+      "付字",
+      "付词",
+      "用付"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1138",
+    "character": "宝",
+    "pinyin": "pin_宝",
+    "meaning": "宝的意思",
+    "words": [
+      "宝字",
+      "宝词",
+      "用宝"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1139",
+    "character": "微",
+    "pinyin": "pin_微",
+    "meaning": "微的意思",
+    "words": [
+      "微字",
+      "微词",
+      "用微"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1140",
+    "character": "移",
+    "pinyin": "pin_移",
+    "meaning": "移的意思",
+    "words": [
+      "移字",
+      "移词",
+      "用移"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1141",
+    "character": "码",
+    "pinyin": "pin_码",
+    "meaning": "码的意思",
+    "words": [
+      "码字",
+      "码词",
+      "用码"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1142",
+    "character": "纹",
+    "pinyin": "pin_纹",
+    "meaning": "纹的意思",
+    "words": [
+      "纹字",
+      "纹词",
+      "用纹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1143",
+    "character": "球",
+    "pinyin": "pin_球",
+    "meaning": "球的意思",
+    "words": [
+      "球字",
+      "球词",
+      "用球"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1144",
+    "character": "脉",
+    "pinyin": "pin_脉",
+    "meaning": "脉的意思",
+    "words": [
+      "脉字",
+      "脉词",
+      "用脉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1145",
+    "character": "态",
+    "pinyin": "pin_态",
+    "meaning": "态的意思",
+    "words": [
+      "态字",
+      "态词",
+      "用态"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1146",
+    "character": "迹",
+    "pinyin": "pin_迹",
+    "meaning": "迹的意思",
+    "words": [
+      "迹字",
+      "迹词",
+      "用迹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1147",
+    "character": "签",
+    "pinyin": "pin_签",
+    "meaning": "签的意思",
+    "words": [
+      "签字",
+      "签词",
+      "用签"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1148",
+    "character": "D",
+    "pinyin": "pin_D",
+    "meaning": "D的意思",
+    "words": [
+      "D字",
+      "D词",
+      "用D"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1149",
+    "character": "N",
+    "pinyin": "pin_N",
+    "meaning": "N的意思",
+    "words": [
+      "N字",
+      "N词",
+      "用N"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1150",
+    "character": "A",
+    "pinyin": "pin_A",
+    "meaning": "A的意思",
+    "words": [
+      "A字",
+      "A词",
+      "用A"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1151",
+    "character": "胞",
+    "pinyin": "pin_胞",
+    "meaning": "胞的意思",
+    "words": [
+      "胞字",
+      "胞词",
+      "用胞"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1152",
+    "character": "艺",
+    "pinyin": "pin_艺",
+    "meaning": "艺的意思",
+    "words": [
+      "艺字",
+      "艺词",
+      "用艺"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1153",
+    "character": "蹈",
+    "pinyin": "pin_蹈",
+    "meaning": "蹈的意思",
+    "words": [
+      "蹈字",
+      "蹈词",
+      "用蹈"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1154",
+    "character": "戏",
+    "pinyin": "pin_戏",
+    "meaning": "戏的意思",
+    "words": [
+      "戏字",
+      "戏词",
+      "用戏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1155",
+    "character": "剧",
+    "pinyin": "pin_剧",
+    "meaning": "剧的意思",
+    "words": [
+      "剧字",
+      "剧词",
+      "用剧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1156",
+    "character": "视",
+    "pinyin": "pin_视",
+    "meaning": "视的意思",
+    "words": [
+      "视字",
+      "视词",
+      "用视"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1157",
+    "character": "综",
+    "pinyin": "pin_综",
+    "meaning": "综的意思",
+    "words": [
+      "综字",
+      "综词",
+      "用综"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1158",
+    "character": "闻",
+    "pinyin": "pin_闻",
+    "meaning": "闻的意思",
+    "words": [
+      "闻字",
+      "闻词",
+      "用闻"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1159",
+    "character": "童",
+    "pinyin": "pin_童",
+    "meaning": "童的意思",
+    "words": [
+      "童字",
+      "童词",
+      "用童"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1160",
+    "character": "偶",
+    "pinyin": "pin_偶",
+    "meaning": "偶的意思",
+    "words": [
+      "偶字",
+      "偶词",
+      "用偶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1161",
+    "character": "剪",
+    "pinyin": "pin_剪",
+    "meaning": "剪的意思",
+    "words": [
+      "剪字",
+      "剪词",
+      "用剪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1162",
+    "character": "昆",
+    "pinyin": "pin_昆",
+    "meaning": "昆的意思",
+    "words": [
+      "昆字",
+      "昆词",
+      "用昆"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1163",
+    "character": "曲",
+    "pinyin": "pin_曲",
+    "meaning": "曲的意思",
+    "words": [
+      "曲字",
+      "曲词",
+      "用曲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1164",
+    "character": "豫",
+    "pinyin": "pin_豫",
+    "meaning": "豫的意思",
+    "words": [
+      "豫字",
+      "豫词",
+      "用豫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1165",
+    "character": "评",
+    "pinyin": "pin_评",
+    "meaning": "评的意思",
+    "words": [
+      "评字",
+      "评词",
+      "用评"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1166",
+    "character": "川",
+    "pinyin": "pin_川",
+    "meaning": "川的意思",
+    "words": [
+      "川字",
+      "川词",
+      "用川"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1167",
+    "character": "粤",
+    "pinyin": "pin_粤",
+    "meaning": "粤的意思",
+    "words": [
+      "粤字",
+      "粤词",
+      "用粤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1168",
+    "character": "晋",
+    "pinyin": "pin_晋",
+    "meaning": "晋的意思",
+    "words": [
+      "晋字",
+      "晋词",
+      "用晋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1169",
+    "character": "秦",
+    "pinyin": "pin_秦",
+    "meaning": "秦的意思",
+    "words": [
+      "秦字",
+      "秦词",
+      "用秦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1170",
+    "character": "腔",
+    "pinyin": "pin_腔",
+    "meaning": "腔的意思",
+    "words": [
+      "腔字",
+      "腔词",
+      "用腔"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1171",
+    "character": "鼓",
+    "pinyin": "pin_鼓",
+    "meaning": "鼓的意思",
+    "words": [
+      "鼓字",
+      "鼓词",
+      "用鼓"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1172",
+    "character": "茶",
+    "pinyin": "pin_茶",
+    "meaning": "茶的意思",
+    "words": [
+      "茶字",
+      "茶词",
+      "用茶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1173",
+    "character": "秧",
+    "pinyin": "pin_秧",
+    "meaning": "秧的意思",
+    "words": [
+      "秧字",
+      "秧词",
+      "用秧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1174",
+    "character": "歌",
+    "pinyin": "pin_歌",
+    "meaning": "歌的意思",
+    "words": [
+      "歌字",
+      "歌词",
+      "用歌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1175",
+    "character": "杂",
+    "pinyin": "pin_杂",
+    "meaning": "杂的意思",
+    "words": [
+      "杂字",
+      "杂词",
+      "用杂"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1176",
+    "character": "魔",
+    "pinyin": "pin_魔",
+    "meaning": "魔的意思",
+    "words": [
+      "魔字",
+      "魔词",
+      "用魔"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1177",
+    "character": "喷",
+    "pinyin": "pin_喷",
+    "meaning": "喷的意思",
+    "words": [
+      "喷字",
+      "喷词",
+      "用喷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1178",
+    "character": "顶",
+    "pinyin": "pin_顶",
+    "meaning": "顶的意思",
+    "words": [
+      "顶字",
+      "顶词",
+      "用顶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1179",
+    "character": "碗",
+    "pinyin": "pin_碗",
+    "meaning": "碗的意思",
+    "words": [
+      "碗字",
+      "碗词",
+      "用碗"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1180",
+    "character": "钢",
+    "pinyin": "pin_钢",
+    "meaning": "钢的意思",
+    "words": [
+      "钢字",
+      "钢词",
+      "用钢"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1181",
+    "character": "绳",
+    "pinyin": "pin_绳",
+    "meaning": "绳的意思",
+    "words": [
+      "绳字",
+      "绳词",
+      "用绳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1182",
+    "character": "索",
+    "pinyin": "pin_索",
+    "meaning": "索的意思",
+    "words": [
+      "索字",
+      "索词",
+      "用索"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1183",
+    "character": "凳",
+    "pinyin": "pin_凳",
+    "meaning": "凳的意思",
+    "words": [
+      "凳字",
+      "凳词",
+      "用凳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1184",
+    "character": "吞",
+    "pinyin": "pin_吞",
+    "meaning": "吞的意思",
+    "words": [
+      "吞字",
+      "吞词",
+      "用吞"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1185",
+    "character": "剑",
+    "pinyin": "pin_剑",
+    "meaning": "剑的意思",
+    "words": [
+      "剑字",
+      "剑词",
+      "用剑"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1186",
+    "character": "针",
+    "pinyin": "pin_针",
+    "meaning": "针的意思",
+    "words": [
+      "针字",
+      "针词",
+      "用针"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1187",
+    "character": "功",
+    "pinyin": "pin_功",
+    "meaning": "功的意思",
+    "words": [
+      "功字",
+      "功词",
+      "用功"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1188",
+    "character": "武",
+    "pinyin": "pin_武",
+    "meaning": "武的意思",
+    "words": [
+      "武字",
+      "武词",
+      "用武"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1189",
+    "character": "夫",
+    "pinyin": "pin_夫",
+    "meaning": "夫的意思",
+    "words": [
+      "夫字",
+      "夫词",
+      "用夫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1190",
+    "character": "拳",
+    "pinyin": "pin_拳",
+    "meaning": "拳的意思",
+    "words": [
+      "拳字",
+      "拳词",
+      "用拳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1191",
+    "character": "掌",
+    "pinyin": "pin_掌",
+    "meaning": "掌的意思",
+    "words": [
+      "掌字",
+      "掌词",
+      "用掌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1192",
+    "character": "卦",
+    "pinyin": "pin_卦",
+    "meaning": "卦的意思",
+    "words": [
+      "卦字",
+      "卦词",
+      "用卦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1193",
+    "character": "咏",
+    "pinyin": "pin_咏",
+    "meaning": "咏的意思",
+    "words": [
+      "咏字",
+      "咏词",
+      "用咏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1194",
+    "character": "螳",
+    "pinyin": "pin_螳",
+    "meaning": "螳的意思",
+    "words": [
+      "螳字",
+      "螳词",
+      "用螳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1195",
+    "character": "螂",
+    "pinyin": "pin_螂",
+    "meaning": "螂的意思",
+    "words": [
+      "螂字",
+      "螂词",
+      "用螂"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1196",
+    "character": "爪",
+    "pinyin": "pin_爪",
+    "meaning": "爪的意思",
+    "words": [
+      "爪字",
+      "爪词",
+      "用爪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1197",
+    "character": "豹",
+    "pinyin": "pin_豹",
+    "meaning": "豹的意思",
+    "words": [
+      "豹字",
+      "豹词",
+      "用豹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1198",
+    "character": "蛙",
+    "pinyin": "pin_蛙",
+    "meaning": "蛙的意思",
+    "words": [
+      "蛙字",
+      "蛙词",
+      "用蛙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1199",
+    "character": "凰",
+    "pinyin": "pin_凰",
+    "meaning": "凰的意思",
+    "words": [
+      "凰字",
+      "凰词",
+      "用凰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1200",
+    "character": "足",
+    "pinyin": "pin_足",
+    "meaning": "足的意思",
+    "words": [
+      "足字",
+      "足词",
+      "用足"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1201",
+    "character": "假",
+    "pinyin": "pin_假",
+    "meaning": "假的意思",
+    "words": [
+      "假字",
+      "假词",
+      "用假"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1202",
+    "character": "错",
+    "pinyin": "pin_错",
+    "meaning": "错的意思",
+    "words": [
+      "错字",
+      "错词",
+      "用错"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1203",
+    "character": "辰",
+    "pinyin": "pin_辰",
+    "meaning": "辰的意思",
+    "words": [
+      "辰字",
+      "辰词",
+      "用辰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1204",
+    "character": "雨",
+    "pinyin": "pin_雨",
+    "meaning": "雨的意思",
+    "words": [
+      "雨字",
+      "雨词",
+      "用雨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1205",
+    "character": "雷",
+    "pinyin": "pin_雷",
+    "meaning": "雷的意思",
+    "words": [
+      "雷字",
+      "雷词",
+      "用雷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1206",
+    "character": "河",
+    "pinyin": "pin_河",
+    "meaning": "河的意思",
+    "words": [
+      "河字",
+      "河词",
+      "用河"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1207",
+    "character": "远",
+    "pinyin": "pin_远",
+    "meaning": "远的意思",
+    "words": [
+      "远字",
+      "远词",
+      "用远"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1208",
+    "character": "缤",
+    "pinyin": "pin_缤",
+    "meaning": "缤的意思",
+    "words": [
+      "缤字",
+      "缤词",
+      "用缤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1209",
+    "character": "纷",
+    "pinyin": "pin_纷",
+    "meaning": "纷的意思",
+    "words": [
+      "纷字",
+      "纷词",
+      "用纷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1210",
+    "character": "颜",
+    "pinyin": "pin_颜",
+    "meaning": "颜的意思",
+    "words": [
+      "颜字",
+      "颜词",
+      "用颜"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1211",
+    "character": "绚",
+    "pinyin": "pin_绚",
+    "meaning": "绚的意思",
+    "words": [
+      "绚字",
+      "绚词",
+      "用绚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1212",
+    "character": "丽",
+    "pinyin": "pin_丽",
+    "meaning": "丽的意思",
+    "words": [
+      "丽字",
+      "丽词",
+      "用丽"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1213",
+    "character": "姹",
+    "pinyin": "pin_姹",
+    "meaning": "姹的意思",
+    "words": [
+      "姹字",
+      "姹词",
+      "用姹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1214",
+    "character": "嫣",
+    "pinyin": "pin_嫣",
+    "meaning": "嫣的意思",
+    "words": [
+      "嫣字",
+      "嫣词",
+      "用嫣"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1215",
+    "character": "溢",
+    "pinyin": "pin_溢",
+    "meaning": "溢的意思",
+    "words": [
+      "溢字",
+      "溢词",
+      "用溢"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1216",
+    "character": "亿",
+    "pinyin": "pin_亿",
+    "meaning": "亿的意思",
+    "words": [
+      "亿字",
+      "亿词",
+      "用亿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1217",
+    "character": "兆",
+    "pinyin": "pin_兆",
+    "meaning": "兆的意思",
+    "words": [
+      "兆字",
+      "兆词",
+      "用兆"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1218",
+    "character": "爸",
+    "pinyin": "pin_爸",
+    "meaning": "爸的意思",
+    "words": [
+      "爸字",
+      "爸词",
+      "用爸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1219",
+    "character": "妈",
+    "pinyin": "pin_妈",
+    "meaning": "妈的意思",
+    "words": [
+      "妈字",
+      "妈词",
+      "用妈"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1220",
+    "character": "爷",
+    "pinyin": "pin_爷",
+    "meaning": "爷的意思",
+    "words": [
+      "爷字",
+      "爷词",
+      "用爷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1221",
+    "character": "婆",
+    "pinyin": "pin_婆",
+    "meaning": "婆的意思",
+    "words": [
+      "婆字",
+      "婆词",
+      "用婆"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1222",
+    "character": "叔",
+    "pinyin": "pin_叔",
+    "meaning": "叔的意思",
+    "words": [
+      "叔字",
+      "叔词",
+      "用叔"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1223",
+    "character": "阿",
+    "pinyin": "pin_阿",
+    "meaning": "阿的意思",
+    "words": [
+      "阿字",
+      "阿词",
+      "用阿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1224",
+    "character": "姨",
+    "pinyin": "pin_姨",
+    "meaning": "姨的意思",
+    "words": [
+      "姨字",
+      "姨词",
+      "用姨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1225",
+    "character": "哥",
+    "pinyin": "pin_哥",
+    "meaning": "哥的意思",
+    "words": [
+      "哥字",
+      "哥词",
+      "用哥"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1226",
+    "character": "姐",
+    "pinyin": "pin_姐",
+    "meaning": "姐的意思",
+    "words": [
+      "姐字",
+      "姐词",
+      "用姐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1227",
+    "character": "弟",
+    "pinyin": "pin_弟",
+    "meaning": "弟的意思",
+    "words": [
+      "弟字",
+      "弟词",
+      "用弟"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1228",
+    "character": "妹",
+    "pinyin": "pin_妹",
+    "meaning": "妹的意思",
+    "words": [
+      "妹字",
+      "妹词",
+      "用妹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1229",
+    "character": "伯",
+    "pinyin": "pin_伯",
+    "meaning": "伯的意思",
+    "words": [
+      "伯字",
+      "伯词",
+      "用伯"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1230",
+    "character": "舅",
+    "pinyin": "pin_舅",
+    "meaning": "舅的意思",
+    "words": [
+      "舅字",
+      "舅词",
+      "用舅"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1231",
+    "character": "姑",
+    "pinyin": "pin_姑",
+    "meaning": "姑的意思",
+    "words": [
+      "姑字",
+      "姑词",
+      "用姑"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1232",
+    "character": "婶",
+    "pinyin": "pin_婶",
+    "meaning": "婶的意思",
+    "words": [
+      "婶字",
+      "婶词",
+      "用婶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1233",
+    "character": "铅",
+    "pinyin": "pin_铅",
+    "meaning": "铅的意思",
+    "words": [
+      "铅字",
+      "铅词",
+      "用铅"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1234",
+    "character": "橡",
+    "pinyin": "pin_橡",
+    "meaning": "橡的意思",
+    "words": [
+      "橡字",
+      "橡词",
+      "用橡"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1235",
+    "character": "尺",
+    "pinyin": "pin_尺",
+    "meaning": "尺的意思",
+    "words": [
+      "尺字",
+      "尺词",
+      "用尺"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1236",
+    "character": "跃",
+    "pinyin": "pin_跃",
+    "meaning": "跃的意思",
+    "words": [
+      "跃字",
+      "跃词",
+      "用跃"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1237",
+    "character": "掷",
+    "pinyin": "pin_掷",
+    "meaning": "掷的意思",
+    "words": [
+      "掷字",
+      "掷词",
+      "用掷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1238",
+    "character": "泳",
+    "pinyin": "pin_泳",
+    "meaning": "泳的意思",
+    "words": [
+      "泳字",
+      "泳词",
+      "用泳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1239",
+    "character": "踢",
+    "pinyin": "pin_踢",
+    "meaning": "踢的意思",
+    "words": [
+      "踢字",
+      "踢词",
+      "用踢"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1240",
+    "character": "锻",
+    "pinyin": "pin_锻",
+    "meaning": "锻的意思",
+    "words": [
+      "锻字",
+      "锻词",
+      "用锻"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1241",
+    "character": "炼",
+    "pinyin": "pin_炼",
+    "meaning": "炼的意思",
+    "words": [
+      "炼字",
+      "炼词",
+      "用炼"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1242",
+    "character": "健",
+    "pinyin": "pin_健",
+    "meaning": "健的意思",
+    "words": [
+      "健字",
+      "健词",
+      "用健"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1243",
+    "character": "拾",
+    "pinyin": "pin_拾",
+    "meaning": "拾的意思",
+    "words": [
+      "拾字",
+      "拾词",
+      "用拾"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1244",
+    "character": "净",
+    "pinyin": "pin_净",
+    "meaning": "净的意思",
+    "words": [
+      "净字",
+      "净词",
+      "用净"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1245",
+    "character": "洁",
+    "pinyin": "pin_洁",
+    "meaning": "洁的意思",
+    "words": [
+      "洁字",
+      "洁词",
+      "用洁"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1246",
+    "character": "齐",
+    "pinyin": "pin_齐",
+    "meaning": "齐的意思",
+    "words": [
+      "齐字",
+      "齐词",
+      "用齐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1247",
+    "character": "季",
+    "pinyin": "pin_季",
+    "meaning": "季的意思",
+    "words": [
+      "季字",
+      "季词",
+      "用季"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1248",
+    "character": "晴",
+    "pinyin": "pin_晴",
+    "meaning": "晴的意思",
+    "words": [
+      "晴字",
+      "晴词",
+      "用晴"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1249",
+    "character": "朗",
+    "pinyin": "pin_朗",
+    "meaning": "朗的意思",
+    "words": [
+      "朗字",
+      "朗词",
+      "用朗"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1250",
+    "character": "刮",
+    "pinyin": "pin_刮",
+    "meaning": "刮的意思",
+    "words": [
+      "刮字",
+      "刮词",
+      "用刮"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1251",
+    "character": "闪",
+    "pinyin": "pin_闪",
+    "meaning": "闪的意思",
+    "words": [
+      "闪字",
+      "闪词",
+      "用闪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1252",
+    "character": "阳",
+    "pinyin": "pin_阳",
+    "meaning": "阳的意思",
+    "words": [
+      "阳字",
+      "阳词",
+      "用阳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1253",
+    "character": "虹",
+    "pinyin": "pin_虹",
+    "meaning": "虹的意思",
+    "words": [
+      "虹字",
+      "虹词",
+      "用虹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1254",
+    "character": "漂",
+    "pinyin": "pin_漂",
+    "meaning": "漂的意思",
+    "words": [
+      "漂字",
+      "漂词",
+      "用漂"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1255",
+    "character": "帅",
+    "pinyin": "pin_帅",
+    "meaning": "帅的意思",
+    "words": [
+      "帅字",
+      "帅词",
+      "用帅"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1256",
+    "character": "俊",
+    "pinyin": "pin_俊",
+    "meaning": "俊的意思",
+    "words": [
+      "俊字",
+      "俊词",
+      "用俊"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1257",
+    "character": "弹",
+    "pinyin": "pin_弹",
+    "meaning": "弹的意思",
+    "words": [
+      "弹字",
+      "弹词",
+      "用弹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1258",
+    "character": "琴",
+    "pinyin": "pin_琴",
+    "meaning": "琴的意思",
+    "words": [
+      "琴字",
+      "琴词",
+      "用琴"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1259",
+    "character": "棋",
+    "pinyin": "pin_棋",
+    "meaning": "棋的意思",
+    "words": [
+      "棋字",
+      "棋词",
+      "用棋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1260",
+    "character": "愉",
+    "pinyin": "pin_愉",
+    "meaning": "愉的意思",
+    "words": [
+      "愉字",
+      "愉词",
+      "用愉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1261",
+    "character": "奋",
+    "pinyin": "pin_奋",
+    "meaning": "奋的意思",
+    "words": [
+      "奋字",
+      "奋词",
+      "用奋"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1262",
+    "character": "激",
+    "pinyin": "pin_激",
+    "meaning": "激的意思",
+    "words": [
+      "激字",
+      "激词",
+      "用激"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1263",
+    "character": "悲",
+    "pinyin": "pin_悲",
+    "meaning": "悲的意思",
+    "words": [
+      "悲字",
+      "悲词",
+      "用悲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1264",
+    "character": "愤",
+    "pinyin": "pin_愤",
+    "meaning": "愤的意思",
+    "words": [
+      "愤字",
+      "愤词",
+      "用愤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1265",
+    "character": "怒",
+    "pinyin": "pin_怒",
+    "meaning": "怒的意思",
+    "words": [
+      "怒字",
+      "怒词",
+      "用怒"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1266",
+    "character": "紧",
+    "pinyin": "pin_紧",
+    "meaning": "紧的意思",
+    "words": [
+      "紧字",
+      "紧词",
+      "用紧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1267",
+    "character": "胖",
+    "pinyin": "pin_胖",
+    "meaning": "胖的意思",
+    "words": [
+      "胖字",
+      "胖词",
+      "用胖"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1268",
+    "character": "瘦",
+    "pinyin": "pin_瘦",
+    "meaning": "瘦的意思",
+    "words": [
+      "瘦字",
+      "瘦词",
+      "用瘦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1269",
+    "character": "旁",
+    "pinyin": "pin_旁",
+    "meaning": "旁的意思",
+    "words": [
+      "旁字",
+      "旁词",
+      "用旁"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1270",
+    "character": "围",
+    "pinyin": "pin_围",
+    "meaning": "围的意思",
+    "words": [
+      "围字",
+      "围词",
+      "用围"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1271",
+    "character": "附",
+    "pinyin": "pin_附",
+    "meaning": "附的意思",
+    "words": [
+      "附字",
+      "附词",
+      "用附"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1272",
+    "character": "昨",
+    "pinyin": "pin_昨",
+    "meaning": "昨的意思",
+    "words": [
+      "昨字",
+      "昨词",
+      "用昨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1273",
+    "character": "凌",
+    "pinyin": "pin_凌",
+    "meaning": "凌的意思",
+    "words": [
+      "凌字",
+      "凌词",
+      "用凌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1274",
+    "character": "晨",
+    "pinyin": "pin_晨",
+    "meaning": "晨的意思",
+    "words": [
+      "晨字",
+      "晨词",
+      "用晨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1275",
+    "character": "藏",
+    "pinyin": "pin_藏",
+    "meaning": "藏的意思",
+    "words": [
+      "藏字",
+      "藏词",
+      "用藏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1276",
+    "character": "考",
+    "pinyin": "pin_考",
+    "meaning": "考的意思",
+    "words": [
+      "考字",
+      "考词",
+      "用考"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1277",
+    "character": "践",
+    "pinyin": "pin_践",
+    "meaning": "践的意思",
+    "words": [
+      "践字",
+      "践词",
+      "用践"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1278",
+    "character": "培",
+    "pinyin": "pin_培",
+    "meaning": "培的意思",
+    "words": [
+      "培字",
+      "培词",
+      "用培"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1279",
+    "character": "祖",
+    "pinyin": "pin_祖",
+    "meaning": "祖的意思",
+    "words": [
+      "祖字",
+      "祖词",
+      "用祖"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1280",
+    "character": "护",
+    "pinyin": "pin_护",
+    "meaning": "护的意思",
+    "words": [
+      "护字",
+      "护词",
+      "用护"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1281",
+    "character": "遵",
+    "pinyin": "pin_遵",
+    "meaning": "遵的意思",
+    "words": [
+      "遵字",
+      "遵词",
+      "用遵"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1282",
+    "character": "守",
+    "pinyin": "pin_守",
+    "meaning": "守的意思",
+    "words": [
+      "守字",
+      "守词",
+      "用守"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1283",
+    "character": "纪",
+    "pinyin": "pin_纪",
+    "meaning": "纪的意思",
+    "words": [
+      "纪字",
+      "纪词",
+      "用纪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1284",
+    "character": "尊",
+    "pinyin": "pin_尊",
+    "meaning": "尊的意思",
+    "words": [
+      "尊字",
+      "尊词",
+      "用尊"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1285",
+    "character": "敬",
+    "pinyin": "pin_敬",
+    "meaning": "敬的意思",
+    "words": [
+      "敬字",
+      "敬词",
+      "用敬"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1286",
+    "character": "仔",
+    "pinyin": "pin_仔",
+    "meaning": "仔的意思",
+    "words": [
+      "仔字",
+      "仔词",
+      "用仔"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1287",
+    "character": "致",
+    "pinyin": "pin_致",
+    "meaning": "致的意思",
+    "words": [
+      "致字",
+      "致词",
+      "用致"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1288",
+    "character": "聚",
+    "pinyin": "pin_聚",
+    "meaning": "聚的意思",
+    "words": [
+      "聚字",
+      "聚词",
+      "用聚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1289",
+    "character": "苟",
+    "pinyin": "pin_苟",
+    "meaning": "苟的意思",
+    "words": [
+      "苟字",
+      "苟词",
+      "用苟"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1290",
+    "character": "益",
+    "pinyin": "pin_益",
+    "meaning": "益的意思",
+    "words": [
+      "益字",
+      "益词",
+      "用益"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1291",
+    "character": "诚",
+    "pinyin": "pin_诚",
+    "meaning": "诚的意思",
+    "words": [
+      "诚字",
+      "诚词",
+      "用诚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1292",
+    "character": "谦",
+    "pinyin": "pin_谦",
+    "meaning": "谦的意思",
+    "words": [
+      "谦字",
+      "谦词",
+      "用谦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1293",
+    "character": "谨",
+    "pinyin": "pin_谨",
+    "meaning": "谨的意思",
+    "words": [
+      "谨字",
+      "谨词",
+      "用谨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1294",
+    "character": "慎",
+    "pinyin": "pin_慎",
+    "meaning": "慎的意思",
+    "words": [
+      "慎字",
+      "慎词",
+      "用慎"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1295",
+    "character": "勤",
+    "pinyin": "pin_勤",
+    "meaning": "勤的意思",
+    "words": [
+      "勤字",
+      "勤词",
+      "用勤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1296",
+    "character": "刻",
+    "pinyin": "pin_刻",
+    "meaning": "刻的意思",
+    "words": [
+      "刻字",
+      "刻词",
+      "用刻"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1297",
+    "character": "努",
+    "pinyin": "pin_努",
+    "meaning": "努的意思",
+    "words": [
+      "努字",
+      "努词",
+      "用努"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1298",
+    "character": "坚",
+    "pinyin": "pin_坚",
+    "meaning": "坚的意思",
+    "words": [
+      "坚字",
+      "坚词",
+      "用坚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1299",
+    "character": "懈",
+    "pinyin": "pin_懈",
+    "meaning": "懈的意思",
+    "words": [
+      "懈字",
+      "懈词",
+      "用懈"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1300",
+    "character": "恒",
+    "pinyin": "pin_恒",
+    "meaning": "恒的意思",
+    "words": [
+      "恒字",
+      "恒词",
+      "用恒"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1301",
+    "character": "滴",
+    "pinyin": "pin_滴",
+    "meaning": "滴的意思",
+    "words": [
+      "滴字",
+      "滴词",
+      "用滴"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1302",
+    "character": "互",
+    "pinyin": "pin_互",
+    "meaning": "互的意思",
+    "words": [
+      "互字",
+      "互词",
+      "用互"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1303",
+    "character": "助",
+    "pinyin": "pin_助",
+    "meaning": "助的意思",
+    "words": [
+      "助字",
+      "助词",
+      "用助"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1304",
+    "character": "昧",
+    "pinyin": "pin_昧",
+    "meaning": "昧的意思",
+    "words": [
+      "昧字",
+      "昧词",
+      "用昧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1305",
+    "character": "勇",
+    "pinyin": "pin_勇",
+    "meaning": "勇的意思",
+    "words": [
+      "勇字",
+      "勇词",
+      "用勇"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1306",
+    "character": "环",
+    "pinyin": "pin_环",
+    "meaning": "环的意思",
+    "words": [
+      "环字",
+      "环词",
+      "用环"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1307",
+    "character": "境",
+    "pinyin": "pin_境",
+    "meaning": "境的意思",
+    "words": [
+      "境字",
+      "境词",
+      "用境"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1308",
+    "character": "讲",
+    "pinyin": "pin_讲",
+    "meaning": "讲的意思",
+    "words": [
+      "讲字",
+      "讲词",
+      "用讲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1309",
+    "character": "卫",
+    "pinyin": "pin_卫",
+    "meaning": "卫的意思",
+    "words": [
+      "卫字",
+      "卫词",
+      "用卫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1310",
+    "character": "礼",
+    "pinyin": "pin_礼",
+    "meaning": "礼的意思",
+    "words": [
+      "礼字",
+      "礼词",
+      "用礼"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1311",
+    "character": "貌",
+    "pinyin": "pin_貌",
+    "meaning": "貌的意思",
+    "words": [
+      "貌字",
+      "貌词",
+      "用貌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1312",
+    "character": "待",
+    "pinyin": "pin_待",
+    "meaning": "待的意思",
+    "words": [
+      "待字",
+      "待词",
+      "用待"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1313",
+    "character": "孝",
+    "pinyin": "pin_孝",
+    "meaning": "孝的意思",
+    "words": [
+      "孝字",
+      "孝词",
+      "用孝"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1314",
+    "character": "辈",
+    "pinyin": "pin_辈",
+    "meaning": "辈的意思",
+    "words": [
+      "辈字",
+      "辈词",
+      "用辈"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1315",
+    "character": "兄",
+    "pinyin": "pin_兄",
+    "meaning": "兄的意思",
+    "words": [
+      "兄字",
+      "兄词",
+      "用兄"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1316",
+    "character": "睦",
+    "pinyin": "pin_睦",
+    "meaning": "睦的意思",
+    "words": [
+      "睦字",
+      "睦词",
+      "用睦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1317",
+    "character": "邻",
+    "pinyin": "pin_邻",
+    "meaning": "邻的意思",
+    "words": [
+      "邻字",
+      "邻词",
+      "用邻"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1318",
+    "character": "减",
+    "pinyin": "pin_减",
+    "meaning": "减的意思",
+    "words": [
+      "减字",
+      "减词",
+      "用减"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1319",
+    "character": "排",
+    "pinyin": "pin_排",
+    "meaning": "排的意思",
+    "words": [
+      "排字",
+      "排词",
+      "用排"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1320",
+    "character": "碳",
+    "pinyin": "pin_碳",
+    "meaning": "碳的意思",
+    "words": [
+      "碳字",
+      "碳词",
+      "用碳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1321",
+    "character": "续",
+    "pinyin": "pin_续",
+    "meaning": "续的意思",
+    "words": [
+      "续字",
+      "续词",
+      "用续"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1322",
+    "character": "珍",
+    "pinyin": "pin_珍",
+    "meaning": "珍的意思",
+    "words": [
+      "珍字",
+      "珍词",
+      "用珍"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1323",
+    "character": "惜",
+    "pinyin": "pin_惜",
+    "meaning": "惜的意思",
+    "words": [
+      "惜字",
+      "惜词",
+      "用惜"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1324",
+    "character": "源",
+    "pinyin": "pin_源",
+    "meaning": "源的意思",
+    "words": [
+      "源字",
+      "源词",
+      "用源"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1325",
+    "character": "创",
+    "pinyin": "pin_创",
+    "meaning": "创的意思",
+    "words": [
+      "创字",
+      "创词",
+      "用创"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1326",
+    "character": "医",
+    "pinyin": "pin_医",
+    "meaning": "医的意思",
+    "words": [
+      "医字",
+      "医词",
+      "用医"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1327",
+    "character": "疗",
+    "pinyin": "pin_疗",
+    "meaning": "疗的意思",
+    "words": [
+      "疗字",
+      "疗词",
+      "用疗"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1328",
+    "character": "谐",
+    "pinyin": "pin_谐",
+    "meaning": "谐的意思",
+    "words": [
+      "谐字",
+      "谐词",
+      "用谐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1329",
+    "character": "善",
+    "pinyin": "pin_善",
+    "meaning": "善的意思",
+    "words": [
+      "善字",
+      "善词",
+      "用善"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1330",
+    "character": "奉",
+    "pinyin": "pin_奉",
+    "meaning": "奉的意思",
+    "words": [
+      "奉字",
+      "奉词",
+      "用奉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1331",
+    "character": "献",
+    "pinyin": "pin_献",
+    "meaning": "献的意思",
+    "words": [
+      "献字",
+      "献词",
+      "用献"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1332",
+    "character": "伟",
+    "pinyin": "pin_伟",
+    "meaning": "伟的意思",
+    "words": [
+      "伟字",
+      "伟词",
+      "用伟"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1333",
+    "character": "富",
+    "pinyin": "pin_富",
+    "meaning": "富的意思",
+    "words": [
+      "富字",
+      "富词",
+      "用富"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1334",
+    "character": "福",
+    "pinyin": "pin_福",
+    "meaning": "福的意思",
+    "words": [
+      "福字",
+      "福词",
+      "用福"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1335",
+    "character": "赢",
+    "pinyin": "pin_赢",
+    "meaning": "赢的意思",
+    "words": [
+      "赢字",
+      "赢词",
+      "用赢"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1336",
+    "character": "协",
+    "pinyin": "pin_协",
+    "meaning": "协的意思",
+    "words": [
+      "协字",
+      "协词",
+      "用协"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1337",
+    "character": "享",
+    "pinyin": "pin_享",
+    "meaning": "享的意思",
+    "words": [
+      "享字",
+      "享词",
+      "用享"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1338",
+    "character": "依",
+    "pinyin": "pin_依",
+    "meaning": "依的意思",
+    "words": [
+      "依字",
+      "依词",
+      "用依"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1339",
+    "character": "策",
+    "pinyin": "pin_策",
+    "meaning": "策的意思",
+    "words": [
+      "策字",
+      "策词",
+      "用策"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1340",
+    "character": "监",
+    "pinyin": "pin_监",
+    "meaning": "监的意思",
+    "words": [
+      "监字",
+      "监词",
+      "用监"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1341",
+    "character": "督",
+    "pinyin": "pin_督",
+    "meaning": "督的意思",
+    "words": [
+      "督字",
+      "督词",
+      "用督"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1342",
+    "character": "域",
+    "pinyin": "pin_域",
+    "meaning": "域的意思",
+    "words": [
+      "域字",
+      "域词",
+      "用域"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1343",
+    "character": "银",
+    "pinyin": "pin_银",
+    "meaning": "银的意思",
+    "words": [
+      "银字",
+      "银词",
+      "用银"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1344",
+    "character": "险",
+    "pinyin": "pin_险",
+    "meaning": "险的意思",
+    "words": [
+      "险字",
+      "险词",
+      "用险"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1345",
+    "character": "券",
+    "pinyin": "pin_券",
+    "meaning": "券的意思",
+    "words": [
+      "券字",
+      "券词",
+      "用券"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1346",
+    "character": "筑",
+    "pinyin": "pin_筑",
+    "meaning": "筑的意思",
+    "words": [
+      "筑字",
+      "筑词",
+      "用筑"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1347",
+    "character": "零",
+    "pinyin": "pin_零",
+    "meaning": "零的意思",
+    "words": [
+      "零字",
+      "零词",
+      "用零"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1348",
+    "character": "售",
+    "pinyin": "pin_售",
+    "meaning": "售的意思",
+    "words": [
+      "售字",
+      "售词",
+      "用售"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1349",
+    "character": "批",
+    "pinyin": "pin_批",
+    "meaning": "批的意思",
+    "words": [
+      "批字",
+      "批词",
+      "用批"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1350",
+    "character": "输",
+    "pinyin": "pin_输",
+    "meaning": "输的意思",
+    "words": [
+      "输字",
+      "输词",
+      "用输"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1351",
+    "character": "旅",
+    "pinyin": "pin_旅",
+    "meaning": "旅的意思",
+    "words": [
+      "旅字",
+      "旅词",
+      "用旅"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1352",
+    "character": "餐",
+    "pinyin": "pin_餐",
+    "meaning": "餐的意思",
+    "words": [
+      "餐字",
+      "餐词",
+      "用餐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1353",
+    "character": "饮",
+    "pinyin": "pin_饮",
+    "meaning": "饮的意思",
+    "words": [
+      "饮字",
+      "饮词",
+      "用饮"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1354",
+    "character": "宿",
+    "pinyin": "pin_宿",
+    "meaning": "宿的意思",
+    "words": [
+      "宿字",
+      "宿词",
+      "用宿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1355",
+    "character": "娱",
+    "pinyin": "pin_娱",
+    "meaning": "娱的意思",
+    "words": [
+      "娱字",
+      "娱词",
+      "用娱"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1356",
+    "character": "汽",
+    "pinyin": "pin_汽",
+    "meaning": "汽的意思",
+    "words": [
+      "汽字",
+      "汽词",
+      "用汽"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1357",
+    "character": "航",
+    "pinyin": "pin_航",
+    "meaning": "航的意思",
+    "words": [
+      "航字",
+      "航词",
+      "用航"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1358",
+    "character": "船",
+    "pinyin": "pin_船",
+    "meaning": "船的意思",
+    "words": [
+      "船字",
+      "船词",
+      "用船"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1359",
+    "character": "舶",
+    "pinyin": "pin_舶",
+    "meaning": "舶的意思",
+    "words": [
+      "舶字",
+      "舶词",
+      "用舶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1360",
+    "character": "防",
+    "pinyin": "pin_防",
+    "meaning": "防的意思",
+    "words": [
+      "防字",
+      "防词",
+      "用防"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1361",
+    "character": "煤",
+    "pinyin": "pin_煤",
+    "meaning": "煤的意思",
+    "words": [
+      "煤字",
+      "煤词",
+      "用煤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1362",
+    "character": "炭",
+    "pinyin": "pin_炭",
+    "meaning": "炭的意思",
+    "words": [
+      "炭字",
+      "炭词",
+      "用炭"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1363",
+    "character": "材",
+    "pinyin": "pin_材",
+    "meaning": "材的意思",
+    "words": [
+      "材字",
+      "材词",
+      "用材"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1364",
+    "character": "循",
+    "pinyin": "pin_循",
+    "meaning": "循的意思",
+    "words": [
+      "循字",
+      "循词",
+      "用循"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1365",
+    "character": "慧",
+    "pinyin": "pin_慧",
+    "meaning": "慧的意思",
+    "words": [
+      "慧字",
+      "慧词",
+      "用慧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1366",
+    "character": "城",
+    "pinyin": "pin_城",
+    "meaning": "城的意思",
+    "words": [
+      "城字",
+      "城词",
+      "用城"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1367",
+    "character": "芯",
+    "pinyin": "pin_芯",
+    "meaning": "芯的意思",
+    "words": [
+      "芯字",
+      "芯词",
+      "用芯"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1368",
+    "character": "纤",
+    "pinyin": "pin_纤",
+    "meaning": "纤的意思",
+    "words": [
+      "纤字",
+      "纤词",
+      "用纤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1369",
+    "character": "储",
+    "pinyin": "pin_储",
+    "meaning": "储的意思",
+    "words": [
+      "储字",
+      "储词",
+      "用储"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1370",
+    "character": "库",
+    "pinyin": "pin_库",
+    "meaning": "库的意思",
+    "words": [
+      "库字",
+      "库词",
+      "用库"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1371",
+    "character": "操",
+    "pinyin": "pin_操",
+    "meaning": "操的意思",
+    "words": [
+      "操字",
+      "操词",
+      "用操"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1372",
+    "character": "测",
+    "pinyin": "pin_测",
+    "meaning": "测的意思",
+    "words": [
+      "测字",
+      "测词",
+      "用测"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1373",
+    "character": "试",
+    "pinyin": "pin_试",
+    "meaning": "试的意思",
+    "words": [
+      "试字",
+      "试词",
+      "用试"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1374",
+    "character": "病",
+    "pinyin": "pin_病",
+    "meaning": "病的意思",
+    "words": [
+      "病字",
+      "病词",
+      "用病"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1375",
+    "character": "毒",
+    "pinyin": "pin_毒",
+    "meaning": "毒的意思",
+    "words": [
+      "毒字",
+      "毒词",
+      "用毒"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1376",
+    "character": "墙",
+    "pinyin": "pin_墙",
+    "meaning": "墙的意思",
+    "words": [
+      "墙字",
+      "墙词",
+      "用墙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1377",
+    "character": "份",
+    "pinyin": "pin_份",
+    "meaning": "份的意思",
+    "words": [
+      "份字",
+      "份词",
+      "用份"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1378",
+    "character": "访",
+    "pinyin": "pin_访",
+    "meaning": "访的意思",
+    "words": [
+      "访字",
+      "访词",
+      "用访"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1379",
+    "character": "控",
+    "pinyin": "pin_控",
+    "meaning": "控的意思",
+    "words": [
+      "控字",
+      "控词",
+      "用控"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1380",
+    "character": "隐",
+    "pinyin": "pin_隐",
+    "meaning": "隐的意思",
+    "words": [
+      "隐字",
+      "隐词",
+      "用隐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1381",
+    "character": "私",
+    "pinyin": "pin_私",
+    "meaning": "私的意思",
+    "words": [
+      "私字",
+      "私词",
+      "用私"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1382",
+    "character": "企",
+    "pinyin": "pin_企",
+    "meaning": "企的意思",
+    "words": [
+      "企字",
+      "企词",
+      "用企"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1383",
+    "character": "卧",
+    "pinyin": "pin_卧",
+    "meaning": "卧的意思",
+    "words": [
+      "卧字",
+      "卧词",
+      "用卧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1384",
+    "character": "卨",
+    "pinyin": "pin_卨",
+    "meaning": "卨的意思",
+    "words": [
+      "卨字",
+      "卨词",
+      "用卨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1385",
+    "character": "卩",
+    "pinyin": "pin_卩",
+    "meaning": "卩的意思",
+    "words": [
+      "卩字",
+      "卩词",
+      "用卩"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1386",
+    "character": "卪",
+    "pinyin": "pin_卪",
+    "meaning": "卪的意思",
+    "words": [
+      "卪字",
+      "卪词",
+      "用卪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1387",
+    "character": "卫",
+    "pinyin": "pin_卫",
+    "meaning": "卫的意思",
+    "words": [
+      "卫字",
+      "卫词",
+      "用卫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1388",
+    "character": "卬",
+    "pinyin": "pin_卬",
+    "meaning": "卬的意思",
+    "words": [
+      "卬字",
+      "卬词",
+      "用卬"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1389",
+    "character": "卭",
+    "pinyin": "pin_卭",
+    "meaning": "卭的意思",
+    "words": [
+      "卭字",
+      "卭词",
+      "用卭"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1390",
+    "character": "卮",
+    "pinyin": "pin_卮",
+    "meaning": "卮的意思",
+    "words": [
+      "卮字",
+      "卮词",
+      "用卮"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1391",
+    "character": "卯",
+    "pinyin": "pin_卯",
+    "meaning": "卯的意思",
+    "words": [
+      "卯字",
+      "卯词",
+      "用卯"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1392",
+    "character": "印",
+    "pinyin": "pin_印",
+    "meaning": "印的意思",
+    "words": [
+      "印字",
+      "印词",
+      "用印"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1393",
+    "character": "危",
+    "pinyin": "pin_危",
+    "meaning": "危的意思",
+    "words": [
+      "危字",
+      "危词",
+      "用危"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1394",
+    "character": "卲",
+    "pinyin": "pin_卲",
+    "meaning": "卲的意思",
+    "words": [
+      "卲字",
+      "卲词",
+      "用卲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1395",
+    "character": "即",
+    "pinyin": "pin_即",
+    "meaning": "即的意思",
+    "words": [
+      "即字",
+      "即词",
+      "用即"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1396",
+    "character": "却",
+    "pinyin": "pin_却",
+    "meaning": "却的意思",
+    "words": [
+      "却字",
+      "却词",
+      "用却"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1397",
+    "character": "卵",
+    "pinyin": "pin_卵",
+    "meaning": "卵的意思",
+    "words": [
+      "卵字",
+      "卵词",
+      "用卵"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1398",
+    "character": "卶",
+    "pinyin": "pin_卶",
+    "meaning": "卶的意思",
+    "words": [
+      "卶字",
+      "卶词",
+      "用卶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1399",
+    "character": "卷",
+    "pinyin": "pin_卷",
+    "meaning": "卷的意思",
+    "words": [
+      "卷字",
+      "卷词",
+      "用卷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1400",
+    "character": "卸",
+    "pinyin": "pin_卸",
+    "meaning": "卸的意思",
+    "words": [
+      "卸字",
+      "卸词",
+      "用卸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1401",
+    "character": "卹",
+    "pinyin": "pin_卹",
+    "meaning": "卹的意思",
+    "words": [
+      "卹字",
+      "卹词",
+      "用卹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1402",
+    "character": "卺",
+    "pinyin": "pin_卺",
+    "meaning": "卺的意思",
+    "words": [
+      "卺字",
+      "卺词",
+      "用卺"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1403",
+    "character": "卻",
+    "pinyin": "pin_卻",
+    "meaning": "卻的意思",
+    "words": [
+      "卻字",
+      "卻词",
+      "用卻"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1404",
+    "character": "卼",
+    "pinyin": "pin_卼",
+    "meaning": "卼的意思",
+    "words": [
+      "卼字",
+      "卼词",
+      "用卼"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1405",
+    "character": "卽",
+    "pinyin": "pin_卽",
+    "meaning": "卽的意思",
+    "words": [
+      "卽字",
+      "卽词",
+      "用卽"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1406",
+    "character": "卾",
+    "pinyin": "pin_卾",
+    "meaning": "卾的意思",
+    "words": [
+      "卾字",
+      "卾词",
+      "用卾"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1407",
+    "character": "卿",
+    "pinyin": "pin_卿",
+    "meaning": "卿的意思",
+    "words": [
+      "卿字",
+      "卿词",
+      "用卿"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1408",
+    "character": "厀",
+    "pinyin": "pin_厀",
+    "meaning": "厀的意思",
+    "words": [
+      "厀字",
+      "厀词",
+      "用厀"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1409",
+    "character": "厁",
+    "pinyin": "pin_厁",
+    "meaning": "厁的意思",
+    "words": [
+      "厁字",
+      "厁词",
+      "用厁"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1410",
+    "character": "厂",
+    "pinyin": "pin_厂",
+    "meaning": "厂的意思",
+    "words": [
+      "厂字",
+      "厂词",
+      "用厂"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1411",
+    "character": "厃",
+    "pinyin": "pin_厃",
+    "meaning": "厃的意思",
+    "words": [
+      "厃字",
+      "厃词",
+      "用厃"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1412",
+    "character": "厄",
+    "pinyin": "pin_厄",
+    "meaning": "厄的意思",
+    "words": [
+      "厄字",
+      "厄词",
+      "用厄"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1413",
+    "character": "厅",
+    "pinyin": "pin_厅",
+    "meaning": "厅的意思",
+    "words": [
+      "厅字",
+      "厅词",
+      "用厅"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1414",
+    "character": "历",
+    "pinyin": "pin_历",
+    "meaning": "历的意思",
+    "words": [
+      "历字",
+      "历词",
+      "用历"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1415",
+    "character": "厇",
+    "pinyin": "pin_厇",
+    "meaning": "厇的意思",
+    "words": [
+      "厇字",
+      "厇词",
+      "用厇"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1416",
+    "character": "厈",
+    "pinyin": "pin_厈",
+    "meaning": "厈的意思",
+    "words": [
+      "厈字",
+      "厈词",
+      "用厈"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1417",
+    "character": "厉",
+    "pinyin": "pin_厉",
+    "meaning": "厉的意思",
+    "words": [
+      "厉字",
+      "厉词",
+      "用厉"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1418",
+    "character": "厊",
+    "pinyin": "pin_厊",
+    "meaning": "厊的意思",
+    "words": [
+      "厊字",
+      "厊词",
+      "用厊"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1419",
+    "character": "压",
+    "pinyin": "pin_压",
+    "meaning": "压的意思",
+    "words": [
+      "压字",
+      "压词",
+      "用压"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1420",
+    "character": "厌",
+    "pinyin": "pin_厌",
+    "meaning": "厌的意思",
+    "words": [
+      "厌字",
+      "厌词",
+      "用厌"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1421",
+    "character": "厍",
+    "pinyin": "pin_厍",
+    "meaning": "厍的意思",
+    "words": [
+      "厍字",
+      "厍词",
+      "用厍"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1422",
+    "character": "厎",
+    "pinyin": "pin_厎",
+    "meaning": "厎的意思",
+    "words": [
+      "厎字",
+      "厎词",
+      "用厎"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1423",
+    "character": "厏",
+    "pinyin": "pin_厏",
+    "meaning": "厏的意思",
+    "words": [
+      "厏字",
+      "厏词",
+      "用厏"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1424",
+    "character": "厐",
+    "pinyin": "pin_厐",
+    "meaning": "厐的意思",
+    "words": [
+      "厐字",
+      "厐词",
+      "用厐"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1425",
+    "character": "厑",
+    "pinyin": "pin_厑",
+    "meaning": "厑的意思",
+    "words": [
+      "厑字",
+      "厑词",
+      "用厑"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1426",
+    "character": "厒",
+    "pinyin": "pin_厒",
+    "meaning": "厒的意思",
+    "words": [
+      "厒字",
+      "厒词",
+      "用厒"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1427",
+    "character": "厓",
+    "pinyin": "pin_厓",
+    "meaning": "厓的意思",
+    "words": [
+      "厓字",
+      "厓词",
+      "用厓"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1428",
+    "character": "厔",
+    "pinyin": "pin_厔",
+    "meaning": "厔的意思",
+    "words": [
+      "厔字",
+      "厔词",
+      "用厔"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1429",
+    "character": "厕",
+    "pinyin": "pin_厕",
+    "meaning": "厕的意思",
+    "words": [
+      "厕字",
+      "厕词",
+      "用厕"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1430",
+    "character": "厖",
+    "pinyin": "pin_厖",
+    "meaning": "厖的意思",
+    "words": [
+      "厖字",
+      "厖词",
+      "用厖"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1431",
+    "character": "厗",
+    "pinyin": "pin_厗",
+    "meaning": "厗的意思",
+    "words": [
+      "厗字",
+      "厗词",
+      "用厗"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1432",
+    "character": "厘",
+    "pinyin": "pin_厘",
+    "meaning": "厘的意思",
+    "words": [
+      "厘字",
+      "厘词",
+      "用厘"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1433",
+    "character": "厙",
+    "pinyin": "pin_厙",
+    "meaning": "厙的意思",
+    "words": [
+      "厙字",
+      "厙词",
+      "用厙"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1434",
+    "character": "厚",
+    "pinyin": "pin_厚",
+    "meaning": "厚的意思",
+    "words": [
+      "厚字",
+      "厚词",
+      "用厚"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1435",
+    "character": "厛",
+    "pinyin": "pin_厛",
+    "meaning": "厛的意思",
+    "words": [
+      "厛字",
+      "厛词",
+      "用厛"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1436",
+    "character": "厜",
+    "pinyin": "pin_厜",
+    "meaning": "厜的意思",
+    "words": [
+      "厜字",
+      "厜词",
+      "用厜"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1437",
+    "character": "厝",
+    "pinyin": "pin_厝",
+    "meaning": "厝的意思",
+    "words": [
+      "厝字",
+      "厝词",
+      "用厝"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1438",
+    "character": "厞",
+    "pinyin": "pin_厞",
+    "meaning": "厞的意思",
+    "words": [
+      "厞字",
+      "厞词",
+      "用厞"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1439",
+    "character": "原",
+    "pinyin": "pin_原",
+    "meaning": "原的意思",
+    "words": [
+      "原字",
+      "原词",
+      "用原"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1440",
+    "character": "厠",
+    "pinyin": "pin_厠",
+    "meaning": "厠的意思",
+    "words": [
+      "厠字",
+      "厠词",
+      "用厠"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1441",
+    "character": "厡",
+    "pinyin": "pin_厡",
+    "meaning": "厡的意思",
+    "words": [
+      "厡字",
+      "厡词",
+      "用厡"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1442",
+    "character": "厢",
+    "pinyin": "pin_厢",
+    "meaning": "厢的意思",
+    "words": [
+      "厢字",
+      "厢词",
+      "用厢"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1443",
+    "character": "厣",
+    "pinyin": "pin_厣",
+    "meaning": "厣的意思",
+    "words": [
+      "厣字",
+      "厣词",
+      "用厣"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1444",
+    "character": "厤",
+    "pinyin": "pin_厤",
+    "meaning": "厤的意思",
+    "words": [
+      "厤字",
+      "厤词",
+      "用厤"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1445",
+    "character": "厥",
+    "pinyin": "pin_厥",
+    "meaning": "厥的意思",
+    "words": [
+      "厥字",
+      "厥词",
+      "用厥"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1446",
+    "character": "厦",
+    "pinyin": "pin_厦",
+    "meaning": "厦的意思",
+    "words": [
+      "厦字",
+      "厦词",
+      "用厦"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1447",
+    "character": "厧",
+    "pinyin": "pin_厧",
+    "meaning": "厧的意思",
+    "words": [
+      "厧字",
+      "厧词",
+      "用厧"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1448",
+    "character": "厨",
+    "pinyin": "pin_厨",
+    "meaning": "厨的意思",
+    "words": [
+      "厨字",
+      "厨词",
+      "用厨"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1449",
+    "character": "厩",
+    "pinyin": "pin_厩",
+    "meaning": "厩的意思",
+    "words": [
+      "厩字",
+      "厩词",
+      "用厩"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1450",
+    "character": "厪",
+    "pinyin": "pin_厪",
+    "meaning": "厪的意思",
+    "words": [
+      "厪字",
+      "厪词",
+      "用厪"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1451",
+    "character": "厫",
+    "pinyin": "pin_厫",
+    "meaning": "厫的意思",
+    "words": [
+      "厫字",
+      "厫词",
+      "用厫"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1452",
+    "character": "厬",
+    "pinyin": "pin_厬",
+    "meaning": "厬的意思",
+    "words": [
+      "厬字",
+      "厬词",
+      "用厬"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1453",
+    "character": "厭",
+    "pinyin": "pin_厭",
+    "meaning": "厭的意思",
+    "words": [
+      "厭字",
+      "厭词",
+      "用厭"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1454",
+    "character": "厮",
+    "pinyin": "pin_厮",
+    "meaning": "厮的意思",
+    "words": [
+      "厮字",
+      "厮词",
+      "用厮"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1455",
+    "character": "厯",
+    "pinyin": "pin_厯",
+    "meaning": "厯的意思",
+    "words": [
+      "厯字",
+      "厯词",
+      "用厯"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1456",
+    "character": "厰",
+    "pinyin": "pin_厰",
+    "meaning": "厰的意思",
+    "words": [
+      "厰字",
+      "厰词",
+      "用厰"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1457",
+    "character": "厱",
+    "pinyin": "pin_厱",
+    "meaning": "厱的意思",
+    "words": [
+      "厱字",
+      "厱词",
+      "用厱"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1458",
+    "character": "厲",
+    "pinyin": "pin_厲",
+    "meaning": "厲的意思",
+    "words": [
+      "厲字",
+      "厲词",
+      "用厲"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1459",
+    "character": "厳",
+    "pinyin": "pin_厳",
+    "meaning": "厳的意思",
+    "words": [
+      "厳字",
+      "厳词",
+      "用厳"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1460",
+    "character": "厴",
+    "pinyin": "pin_厴",
+    "meaning": "厴的意思",
+    "words": [
+      "厴字",
+      "厴词",
+      "用厴"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1461",
+    "character": "厵",
+    "pinyin": "pin_厵",
+    "meaning": "厵的意思",
+    "words": [
+      "厵字",
+      "厵词",
+      "用厵"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1462",
+    "character": "厶",
+    "pinyin": "pin_厶",
+    "meaning": "厶的意思",
+    "words": [
+      "厶字",
+      "厶词",
+      "用厶"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1463",
+    "character": "厷",
+    "pinyin": "pin_厷",
+    "meaning": "厷的意思",
+    "words": [
+      "厷字",
+      "厷词",
+      "用厷"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1464",
+    "character": "厸",
+    "pinyin": "pin_厸",
+    "meaning": "厸的意思",
+    "words": [
+      "厸字",
+      "厸词",
+      "用厸"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  },
+  {
+    "id": "word-1465",
+    "character": "厹",
+    "pinyin": "pin_厹",
+    "meaning": "厹的意思",
+    "words": [
+      "厹字",
+      "厹词",
+      "用厹"
+    ],
+    "category": "三年级",
+    "difficulty": 2
+  }
+]
