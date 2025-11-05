@@ -176,12 +176,12 @@ defineExpose({
 
 <style scoped>
 .word-card {
-  min-height: 280px;
+  min-height: 450px;
 }
 
 @media (min-width: 768px) {
   .word-card {
-    min-height: 320px;
+    min-height: 520px;
   }
 }
 </style>
