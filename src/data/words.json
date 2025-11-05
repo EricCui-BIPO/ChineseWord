@@ -1,6 +1,6 @@
 [
   {
-    "id": "word-001",
+    "id": "word-0001",
     "character": "爱",
     "pinyin": "ài",
     "meaning": "对人或事物有深厚的感情",
@@ -13,7 +13,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-002",
+    "id": "word-0002",
     "character": "雪",
     "pinyin": "xuě",
     "meaning": "天空中飘落的白色结晶体",
@@ -26,7 +26,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-003",
+    "id": "word-0003",
     "character": "冰",
     "pinyin": "bīng",
     "meaning": "水在零度以下结成的固体",
@@ -39,7 +39,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-004",
+    "id": "word-0004",
     "character": "美",
     "pinyin": "měi",
     "meaning": "好看，漂亮",
@@ -52,7 +52,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-005",
+    "id": "word-0005",
     "character": "好",
     "pinyin": "hǎo",
     "meaning": "优点多的，令人满意的",
@@ -65,7 +65,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-006",
+    "id": "word-0006",
     "character": "学",
     "pinyin": "xué",
     "meaning": "学习，获得知识",
@@ -78,7 +78,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-007",
+    "id": "word-0007",
     "character": "习",
     "pinyin": "xí",
     "meaning": "反复地学习",
@@ -91,7 +91,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-008",
+    "id": "word-0008",
     "character": "花",
     "pinyin": "huā",
     "meaning": "植物的花朵",
@@ -104,7 +104,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-009",
+    "id": "word-0009",
     "character": "家",
     "pinyin": "jiā",
     "meaning": "家庭，住所",
@@ -117,7 +117,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-010",
+    "id": "word-0010",
     "character": "水",
     "pinyin": "shuǐ",
     "meaning": "无色无味的液体",
@@ -130,7 +130,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-011",
+    "id": "word-0011",
     "character": "天",
     "pinyin": "tiān",
     "meaning": "天空",
@@ -143,7 +143,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-012",
+    "id": "word-0012",
     "character": "地",
     "pinyin": "dì",
     "meaning": "地球，地面",
@@ -156,7 +156,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-013",
+    "id": "word-0013",
     "character": "人",
     "pinyin": "rén",
     "meaning": "人类",
@@ -169,7 +169,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-014",
+    "id": "word-0014",
     "character": "大",
     "pinyin": "dà",
     "meaning": "体积、面积、数量等超过一般",
@@ -182,7 +182,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-015",
+    "id": "word-0015",
     "character": "小",
     "pinyin": "xiǎo",
     "meaning": "体积、面积、数量等不及一般",
@@ -195,7 +195,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-016",
+    "id": "word-0016",
     "character": "月",
     "pinyin": "yuè",
     "meaning": "月亮，月份",
@@ -208,7 +208,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-017",
+    "id": "word-0017",
     "character": "日",
     "pinyin": "rì",
     "meaning": "太阳，白天",
@@ -221,7 +221,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-018",
+    "id": "word-0018",
     "character": "山",
     "pinyin": "shān",
     "meaning": "地面上由土石构成的高耸部分",
@@ -234,7 +234,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-019",
+    "id": "word-0019",
     "character": "火",
     "pinyin": "huǒ",
     "meaning": "物体燃烧时发出的光和焰",
@@ -247,7 +247,7 @@
     "difficulty": 1
   },
   {
-    "id": "word-020",
+    "id": "word-0020",
     "character": "风",
     "pinyin": "fēng",
     "meaning": "空气流动的现象",
@@ -2622,8 +2622,8 @@
       "员词",
       "用员"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0203",
@@ -2635,8 +2635,8 @@
       "革词",
       "用革"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0204",
@@ -2648,8 +2648,8 @@
       "位词",
       "用位"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0205",
@@ -2882,8 +2882,8 @@
       "基词",
       "用基"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0223",
@@ -2895,8 +2895,8 @@
       "资词",
       "用资"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0224",
@@ -2986,8 +2986,8 @@
       "统词",
       "用统"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0231",
@@ -3168,8 +3168,8 @@
       "论词",
       "用论"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0245",
@@ -3194,8 +3194,8 @@
       "农词",
       "用农"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0247",
@@ -3571,8 +3571,8 @@
       "治词",
       "用治"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0276",
@@ -3597,8 +3597,8 @@
       "造词",
       "用造"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0278",
@@ -3714,8 +3714,8 @@
       "导词",
       "用导"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0287",
@@ -4390,8 +4390,8 @@
       "积词",
       "用积"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0339",
@@ -4702,8 +4702,8 @@
       "况词",
       "用况"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0363",
@@ -5014,8 +5014,8 @@
       "织词",
       "用织"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0387",
@@ -5053,8 +5053,8 @@
       "算词",
       "用算"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0390",
@@ -5144,8 +5144,8 @@
       "复词",
       "用复"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0397",
@@ -5196,8 +5196,8 @@
       "际词",
       "用际"
     ],
-    "category": "二年级",
-    "difficulty": 2
+    "category": "四年级",
+    "difficulty": 4
   },
   {
     "id": "word-0401",
@@ -5213,7 +5213,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1001",
+    "id": "word-0402",
     "character": " walk",
     "pinyin": "",
     "meaning": " walk的意思",
@@ -5226,7 +5226,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0402",
+    "id": "word-0403",
     "character": "非",
     "pinyin": "fēi",
     "meaning": "非的意思",
@@ -5235,11 +5235,11 @@
       "非词",
       "用非"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0403",
+    "id": "word-0404",
     "character": "验",
     "pinyin": "yàn",
     "meaning": "验的意思",
@@ -5248,11 +5248,11 @@
       "验词",
       "用验"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0404",
+    "id": "word-0405",
     "character": "连",
     "pinyin": "lián",
     "meaning": "连的意思",
@@ -5265,7 +5265,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0405",
+    "id": "word-0406",
     "character": "断",
     "pinyin": "duàn",
     "meaning": "断的意思",
@@ -5278,7 +5278,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0406",
+    "id": "word-0407",
     "character": "深",
     "pinyin": "shēn",
     "meaning": "深的意思",
@@ -5291,7 +5291,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0407",
+    "id": "word-0408",
     "character": "难",
     "pinyin": "nán",
     "meaning": "难的意思",
@@ -5304,7 +5304,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0408",
+    "id": "word-0409",
     "character": "近",
     "pinyin": "jìn",
     "meaning": "近的意思",
@@ -5317,7 +5317,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0409",
+    "id": "word-0410",
     "character": "矿",
     "pinyin": "kuàng",
     "meaning": "矿的意思",
@@ -5326,11 +5326,11 @@
       "矿词",
       "用矿"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0410",
+    "id": "word-0411",
     "character": "千",
     "pinyin": "qiān",
     "meaning": "千的意思",
@@ -5343,7 +5343,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0411",
+    "id": "word-0412",
     "character": "周",
     "pinyin": "zhōu",
     "meaning": "周的意思",
@@ -5356,7 +5356,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0412",
+    "id": "word-0413",
     "character": "委",
     "pinyin": "wěi",
     "meaning": "委的意思",
@@ -5369,7 +5369,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0413",
+    "id": "word-0414",
     "character": "素",
     "pinyin": "sù",
     "meaning": "素的意思",
@@ -5382,7 +5382,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0414",
+    "id": "word-0415",
     "character": "技",
     "pinyin": "jì",
     "meaning": "技的意思",
@@ -5395,7 +5395,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0415",
+    "id": "word-0416",
     "character": "备",
     "pinyin": "bèi",
     "meaning": "备的意思",
@@ -5408,7 +5408,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0416",
+    "id": "word-0417",
     "character": "半",
     "pinyin": "bàn",
     "meaning": "半的意思",
@@ -5421,7 +5421,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0417",
+    "id": "word-0418",
     "character": "办",
     "pinyin": "bàn",
     "meaning": "办的意思",
@@ -5434,7 +5434,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0418",
+    "id": "word-0419",
     "character": "青",
     "pinyin": "qīng",
     "meaning": "青的意思",
@@ -5447,7 +5447,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0419",
+    "id": "word-0420",
     "character": "省",
     "pinyin": "shěng",
     "meaning": "省的意思",
@@ -5460,7 +5460,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0420",
+    "id": "word-0421",
     "character": "列",
     "pinyin": "liè",
     "meaning": "列的意思",
@@ -5473,7 +5473,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0421",
+    "id": "word-0422",
     "character": "响",
     "pinyin": "xiǎng",
     "meaning": "响的意思",
@@ -5486,7 +5486,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0422",
+    "id": "word-0423",
     "character": "约",
     "pinyin": "yuē",
     "meaning": "约的意思",
@@ -5495,11 +5495,11 @@
       "约词",
       "用约"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0423",
+    "id": "word-0424",
     "character": "支",
     "pinyin": "zhī",
     "meaning": "支的意思",
@@ -5512,7 +5512,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0424",
+    "id": "word-0425",
     "character": "般",
     "pinyin": "bān",
     "meaning": "般的意思",
@@ -5525,7 +5525,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0425",
+    "id": "word-0426",
     "character": "史",
     "pinyin": "shǐ",
     "meaning": "史的意思",
@@ -5534,11 +5534,11 @@
       "史词",
       "用史"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0426",
+    "id": "word-0427",
     "character": "感",
     "pinyin": "gǎn",
     "meaning": "感的意思",
@@ -5551,7 +5551,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0427",
+    "id": "word-0428",
     "character": "劳",
     "pinyin": "láo",
     "meaning": "劳的意思",
@@ -5564,7 +5564,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0428",
+    "id": "word-0429",
     "character": "便",
     "pinyin": "biàn",
     "meaning": "便的意思",
@@ -5577,7 +5577,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0429",
+    "id": "word-0430",
     "character": "团",
     "pinyin": "tuán",
     "meaning": "团的意思",
@@ -5590,7 +5590,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0430",
+    "id": "word-0431",
     "character": "往",
     "pinyin": "wǎng",
     "meaning": "往的意思",
@@ -5603,7 +5603,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0431",
+    "id": "word-0432",
     "character": "酸",
     "pinyin": "suān",
     "meaning": "酸的意思",
@@ -5616,7 +5616,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0432",
+    "id": "word-0433",
     "character": "历",
     "pinyin": "lì",
     "meaning": "历的意思",
@@ -5629,7 +5629,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0433",
+    "id": "word-0434",
     "character": "市",
     "pinyin": "shì",
     "meaning": "市的意思",
@@ -5642,7 +5642,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0434",
+    "id": "word-0435",
     "character": "克",
     "pinyin": "kè",
     "meaning": "克的意思",
@@ -5655,7 +5655,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0435",
+    "id": "word-0436",
     "character": "何",
     "pinyin": "hé",
     "meaning": "何的意思",
@@ -5668,7 +5668,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0436",
+    "id": "word-0437",
     "character": "除",
     "pinyin": "chú",
     "meaning": "除的意思",
@@ -5681,7 +5681,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0437",
+    "id": "word-0438",
     "character": "消",
     "pinyin": "xiāo",
     "meaning": "消的意思",
@@ -5690,11 +5690,11 @@
       "消词",
       "用消"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0438",
+    "id": "word-0439",
     "character": "构",
     "pinyin": "gòu",
     "meaning": "构的意思",
@@ -5703,11 +5703,11 @@
       "构词",
       "用构"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0439",
+    "id": "word-0440",
     "character": "府",
     "pinyin": "fǔ",
     "meaning": "府的意思",
@@ -5716,11 +5716,11 @@
       "府词",
       "用府"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0440",
+    "id": "word-0441",
     "character": "称",
     "pinyin": "chēng",
     "meaning": "称的意思",
@@ -5733,7 +5733,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0441",
+    "id": "word-0442",
     "character": "太",
     "pinyin": "tài",
     "meaning": "太的意思",
@@ -5746,7 +5746,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0442",
+    "id": "word-0443",
     "character": "准",
     "pinyin": "zhǔn",
     "meaning": "准的意思",
@@ -5759,7 +5759,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0443",
+    "id": "word-0444",
     "character": "精",
     "pinyin": "jīng",
     "meaning": "精的意思",
@@ -5772,7 +5772,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0444",
+    "id": "word-0445",
     "character": "值",
     "pinyin": "zhí",
     "meaning": "值的意思",
@@ -5785,7 +5785,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0445",
+    "id": "word-0446",
     "character": "号",
     "pinyin": "hào",
     "meaning": "号的意思",
@@ -5798,7 +5798,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0446",
+    "id": "word-0447",
     "character": "率",
     "pinyin": "lǜ",
     "meaning": "率的意思",
@@ -5811,7 +5811,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0447",
+    "id": "word-0448",
     "character": "族",
     "pinyin": "zú",
     "meaning": "族的意思",
@@ -5820,11 +5820,11 @@
       "族词",
       "用族"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0448",
+    "id": "word-0449",
     "character": "维",
     "pinyin": "wéi",
     "meaning": "维的意思",
@@ -5833,11 +5833,11 @@
       "维词",
       "用维"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0449",
+    "id": "word-0450",
     "character": "划",
     "pinyin": "huà",
     "meaning": "划的意思",
@@ -5846,11 +5846,11 @@
       "划词",
       "用划"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0450",
+    "id": "word-0451",
     "character": "选",
     "pinyin": "xuǎn",
     "meaning": "选的意思",
@@ -5863,7 +5863,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0451",
+    "id": "word-0452",
     "character": "标",
     "pinyin": "biāo",
     "meaning": "标的意思",
@@ -5876,7 +5876,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0452",
+    "id": "word-0453",
     "character": "写",
     "pinyin": "xiě",
     "meaning": "写的意思",
@@ -5889,7 +5889,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0453",
+    "id": "word-0454",
     "character": "存",
     "pinyin": "cún",
     "meaning": "存的意思",
@@ -5902,7 +5902,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0454",
+    "id": "word-0455",
     "character": "候",
     "pinyin": "hòu",
     "meaning": "候的意思",
@@ -5915,7 +5915,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0455",
+    "id": "word-0456",
     "character": "毛",
     "pinyin": "máo",
     "meaning": "毛的意思",
@@ -5928,7 +5928,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0456",
+    "id": "word-0457",
     "character": "亲",
     "pinyin": "qīn",
     "meaning": "亲的意思",
@@ -5941,7 +5941,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0457",
+    "id": "word-0458",
     "character": "快",
     "pinyin": "kuài",
     "meaning": "快的意思",
@@ -5954,7 +5954,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0458",
+    "id": "word-0459",
     "character": "效",
     "pinyin": "xiào",
     "meaning": "效的意思",
@@ -5967,7 +5967,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0459",
+    "id": "word-0460",
     "character": "斯",
     "pinyin": "sī",
     "meaning": "斯的意思",
@@ -5980,7 +5980,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0460",
+    "id": "word-0461",
     "character": "院",
     "pinyin": "yuàn",
     "meaning": "院的意思",
@@ -5993,7 +5993,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0461",
+    "id": "word-0462",
     "character": "查",
     "pinyin": "chá",
     "meaning": "查的意思",
@@ -6006,7 +6006,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0462",
+    "id": "word-0463",
     "character": "江",
     "pinyin": "jiāng",
     "meaning": "江的意思",
@@ -6019,7 +6019,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0463",
+    "id": "word-0464",
     "character": "型",
     "pinyin": "xíng",
     "meaning": "型的意思",
@@ -6032,7 +6032,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0464",
+    "id": "word-0465",
     "character": "眼",
     "pinyin": "yǎn",
     "meaning": "眼的意思",
@@ -6045,7 +6045,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0465",
+    "id": "word-0466",
     "character": "王",
     "pinyin": "wáng",
     "meaning": "王的意思",
@@ -6058,7 +6058,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0466",
+    "id": "word-0467",
     "character": "按",
     "pinyin": "àn",
     "meaning": "按的意思",
@@ -6071,7 +6071,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0467",
+    "id": "word-0468",
     "character": "格",
     "pinyin": "gé",
     "meaning": "格的意思",
@@ -6084,7 +6084,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0468",
+    "id": "word-0469",
     "character": "养",
     "pinyin": "yǎng",
     "meaning": "养的意思",
@@ -6097,7 +6097,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0469",
+    "id": "word-0470",
     "character": "易",
     "pinyin": "yì",
     "meaning": "易的意思",
@@ -6110,7 +6110,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0470",
+    "id": "word-0471",
     "character": "置",
     "pinyin": "zhì",
     "meaning": "置的意思",
@@ -6123,7 +6123,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0471",
+    "id": "word-0472",
     "character": "派",
     "pinyin": "pài",
     "meaning": "派的意思",
@@ -6136,7 +6136,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0472",
+    "id": "word-0473",
     "character": "层",
     "pinyin": "céng",
     "meaning": "层的意思",
@@ -6145,11 +6145,11 @@
       "层词",
       "用层"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0473",
+    "id": "word-0474",
     "character": "片",
     "pinyin": "piàn",
     "meaning": "片的意思",
@@ -6162,7 +6162,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0474",
+    "id": "word-0475",
     "character": "始",
     "pinyin": "shǐ",
     "meaning": "始的意思",
@@ -6175,7 +6175,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0475",
+    "id": "word-0476",
     "character": "却",
     "pinyin": "què",
     "meaning": "却的意思",
@@ -6188,7 +6188,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0476",
+    "id": "word-0477",
     "character": "专",
     "pinyin": "zhuān",
     "meaning": "专的意思",
@@ -6201,7 +6201,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0477",
+    "id": "word-0478",
     "character": "状",
     "pinyin": "zhuàng",
     "meaning": "状的意思",
@@ -6214,7 +6214,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0478",
+    "id": "word-0479",
     "character": "育",
     "pinyin": "yù",
     "meaning": "育的意思",
@@ -6227,7 +6227,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0479",
+    "id": "word-0480",
     "character": "厂",
     "pinyin": "chǎng",
     "meaning": "厂的意思",
@@ -6240,7 +6240,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0480",
+    "id": "word-0481",
     "character": "京",
     "pinyin": "jīng",
     "meaning": "京的意思",
@@ -6253,7 +6253,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0481",
+    "id": "word-0482",
     "character": "识",
     "pinyin": "shí",
     "meaning": "识的意思",
@@ -6266,7 +6266,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0482",
+    "id": "word-0483",
     "character": "适",
     "pinyin": "shì",
     "meaning": "适的意思",
@@ -6279,7 +6279,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0483",
+    "id": "word-0484",
     "character": "属",
     "pinyin": "shǔ",
     "meaning": "属的意思",
@@ -6292,7 +6292,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0484",
+    "id": "word-0485",
     "character": "圆",
     "pinyin": "yuán",
     "meaning": "圆的意思",
@@ -6305,7 +6305,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0485",
+    "id": "word-0486",
     "character": "包",
     "pinyin": "bāo",
     "meaning": "包的意思",
@@ -6318,7 +6318,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0486",
+    "id": "word-0487",
     "character": "住",
     "pinyin": "zhù",
     "meaning": "住的意思",
@@ -6331,7 +6331,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0487",
+    "id": "word-0488",
     "character": "调",
     "pinyin": "diào",
     "meaning": "调的意思",
@@ -6344,7 +6344,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0488",
+    "id": "word-0489",
     "character": "满",
     "pinyin": "mǎn",
     "meaning": "满的意思",
@@ -6357,7 +6357,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0489",
+    "id": "word-0490",
     "character": "县",
     "pinyin": "xiàn",
     "meaning": "县的意思",
@@ -6370,7 +6370,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0490",
+    "id": "word-0491",
     "character": "局",
     "pinyin": "jú",
     "meaning": "局的意思",
@@ -6383,7 +6383,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0491",
+    "id": "word-0492",
     "character": "照",
     "pinyin": "zhào",
     "meaning": "照的意思",
@@ -6396,7 +6396,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0492",
+    "id": "word-0493",
     "character": "参",
     "pinyin": "cān",
     "meaning": "参的意思",
@@ -6409,7 +6409,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0493",
+    "id": "word-0494",
     "character": "红",
     "pinyin": "hóng",
     "meaning": "红的意思",
@@ -6422,7 +6422,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0494",
+    "id": "word-0495",
     "character": "细",
     "pinyin": "xì",
     "meaning": "细的意思",
@@ -6435,7 +6435,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0495",
+    "id": "word-0496",
     "character": "引",
     "pinyin": "yǐn",
     "meaning": "引的意思",
@@ -6448,7 +6448,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0496",
+    "id": "word-0497",
     "character": "听",
     "pinyin": "tīng",
     "meaning": "听的意思",
@@ -6461,7 +6461,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0497",
+    "id": "word-0498",
     "character": "该",
     "pinyin": "gāi",
     "meaning": "该的意思",
@@ -6474,7 +6474,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0498",
+    "id": "word-0499",
     "character": "铁",
     "pinyin": "tiě",
     "meaning": "铁的意思",
@@ -6487,7 +6487,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0499",
+    "id": "word-0500",
     "character": "价",
     "pinyin": "jià",
     "meaning": "价的意思",
@@ -6500,7 +6500,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0500",
+    "id": "word-0501",
     "character": "严",
     "pinyin": "yán",
     "meaning": "严的意思",
@@ -6513,7 +6513,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0501",
+    "id": "word-0502",
     "character": "龙",
     "pinyin": "lóng",
     "meaning": "龙的意思",
@@ -6526,7 +6526,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0502",
+    "id": "word-0503",
     "character": "飞",
     "pinyin": "fēi",
     "meaning": "飞的意思",
@@ -6539,7 +6539,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0503",
+    "id": "word-0504",
     "character": "父",
     "pinyin": "fù",
     "meaning": "父的意思",
@@ -6552,7 +6552,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0504",
+    "id": "word-0505",
     "character": "母",
     "pinyin": "mǔ",
     "meaning": "母的意思",
@@ -6565,7 +6565,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0505",
+    "id": "word-0506",
     "character": "孩",
     "pinyin": "hái",
     "meaning": "孩的意思",
@@ -6578,7 +6578,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0506",
+    "id": "word-0507",
     "character": "子",
     "pinyin": "zǐ",
     "meaning": "孩子",
@@ -6591,7 +6591,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0507",
+    "id": "word-0508",
     "character": "孩",
     "pinyin": "hái",
     "meaning": "孩的意思",
@@ -6604,7 +6604,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0508",
+    "id": "word-0509",
     "character": "女",
     "pinyin": "nǚ",
     "meaning": "女的意思",
@@ -6617,7 +6617,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0509",
+    "id": "word-0510",
     "character": "男",
     "pinyin": "nán",
     "meaning": "男的意思",
@@ -6630,7 +6630,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0510",
+    "id": "word-0511",
     "character": "老",
     "pinyin": "lǎo",
     "meaning": "老的意思",
@@ -6639,11 +6639,11 @@
       "老词",
       "用老"
     ],
-    "category": "三年级",
+    "category": "二年级",
     "difficulty": 2
   },
   {
-    "id": "word-0511",
+    "id": "word-0512",
     "character": "少",
     "pinyin": "shǎo",
     "meaning": "少的意思",
@@ -6652,11 +6652,11 @@
       "少词",
       "用少"
     ],
-    "category": "三年级",
+    "category": "二年级",
     "difficulty": 2
   },
   {
-    "id": "word-0512",
+    "id": "word-0513",
     "character": "幼",
     "pinyin": "yòu",
     "meaning": "幼的意思",
@@ -6669,7 +6669,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0513",
+    "id": "word-0514",
     "character": "师",
     "pinyin": "shī",
     "meaning": "师的意思",
@@ -6682,7 +6682,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0514",
+    "id": "word-0515",
     "character": "生",
     "pinyin": "shēng",
     "meaning": "生活，产生",
@@ -6695,7 +6695,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0515",
+    "id": "word-0516",
     "character": "同",
     "pinyin": "tóng",
     "meaning": "相同",
@@ -6708,7 +6708,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0516",
+    "id": "word-0517",
     "character": "朋",
     "pinyin": "péng",
     "meaning": "朋的意思",
@@ -6721,7 +6721,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0517",
+    "id": "word-0518",
     "character": "友",
     "pinyin": "yǒu",
     "meaning": "友的意思",
@@ -6734,7 +6734,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0518",
+    "id": "word-0519",
     "character": "庭",
     "pinyin": "tíng",
     "meaning": "庭的意思",
@@ -6747,7 +6747,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0519",
+    "id": "word-0520",
     "character": "房",
     "pinyin": "fáng",
     "meaning": "房的意思",
@@ -6760,7 +6760,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0520",
+    "id": "word-0521",
     "character": "屋",
     "pinyin": "wū",
     "meaning": "屋的意思",
@@ -6773,7 +6773,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0521",
+    "id": "word-0522",
     "character": "门",
     "pinyin": "mén",
     "meaning": "门的意思",
@@ -6786,7 +6786,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0522",
+    "id": "word-0523",
     "character": "窗",
     "pinyin": "chuāng",
     "meaning": "窗的意思",
@@ -6799,7 +6799,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0523",
+    "id": "word-0524",
     "character": "床",
     "pinyin": "chuáng",
     "meaning": "床的意思",
@@ -6812,7 +6812,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0524",
+    "id": "word-0525",
     "character": "桌",
     "pinyin": "zhuō",
     "meaning": "桌的意思",
@@ -6825,7 +6825,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0525",
+    "id": "word-0526",
     "character": "椅",
     "pinyin": "yǐ",
     "meaning": "椅的意思",
@@ -6838,7 +6838,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0526",
+    "id": "word-0527",
     "character": "书",
     "pinyin": "shū",
     "meaning": "书的意思",
@@ -6851,7 +6851,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0527",
+    "id": "word-0528",
     "character": "本",
     "pinyin": "běn",
     "meaning": "本的意思",
@@ -6864,7 +6864,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0528",
+    "id": "word-0529",
     "character": "笔",
     "pinyin": "bǐ",
     "meaning": "笔的意思",
@@ -6877,7 +6877,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0529",
+    "id": "word-0530",
     "character": "纸",
     "pinyin": "zhǐ",
     "meaning": "纸的意思",
@@ -6890,7 +6890,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0530",
+    "id": "word-0531",
     "character": "字",
     "pinyin": "zì",
     "meaning": "字的意思",
@@ -6903,7 +6903,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0531",
+    "id": "word-0532",
     "character": "词",
     "pinyin": "cí",
     "meaning": "词的意思",
@@ -6916,7 +6916,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0532",
+    "id": "word-0533",
     "character": "句",
     "pinyin": "jù",
     "meaning": "句的意思",
@@ -6929,7 +6929,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0533",
+    "id": "word-0534",
     "character": "话",
     "pinyin": "huà",
     "meaning": "话的意思",
@@ -6942,7 +6942,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0534",
+    "id": "word-0535",
     "character": "说",
     "pinyin": "shuō",
     "meaning": "说话",
@@ -6955,7 +6955,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0535",
+    "id": "word-0536",
     "character": "听",
     "pinyin": "tīng",
     "meaning": "听的意思",
@@ -6968,7 +6968,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0536",
+    "id": "word-0537",
     "character": "读",
     "pinyin": "dú",
     "meaning": "读的意思",
@@ -6981,7 +6981,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0537",
+    "id": "word-0538",
     "character": "写",
     "pinyin": "xiě",
     "meaning": "写的意思",
@@ -6994,7 +6994,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0538",
+    "id": "word-0539",
     "character": "看",
     "pinyin": "kàn",
     "meaning": "看的意思",
@@ -7007,7 +7007,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0539",
+    "id": "word-0540",
     "character": "画",
     "pinyin": "huà",
     "meaning": "画的意思",
@@ -7020,7 +7020,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0540",
+    "id": "word-0541",
     "character": "色",
     "pinyin": "sè",
     "meaning": "色的意思",
@@ -7033,7 +7033,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0541",
+    "id": "word-0542",
     "character": "彩",
     "pinyin": "cǎi",
     "meaning": "彩的意思",
@@ -7046,7 +7046,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0542",
+    "id": "word-0543",
     "character": "红",
     "pinyin": "hóng",
     "meaning": "红的意思",
@@ -7059,7 +7059,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0543",
+    "id": "word-0544",
     "character": "橙",
     "pinyin": "chéng",
     "meaning": "橙的意思",
@@ -7072,7 +7072,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0544",
+    "id": "word-0545",
     "character": "黄",
     "pinyin": "huáng",
     "meaning": "黄的意思",
@@ -7085,7 +7085,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0545",
+    "id": "word-0546",
     "character": "绿",
     "pinyin": "lǜ",
     "meaning": "绿的意思",
@@ -7098,7 +7098,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0546",
+    "id": "word-0547",
     "character": "青",
     "pinyin": "qīng",
     "meaning": "青的意思",
@@ -7111,7 +7111,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0547",
+    "id": "word-0548",
     "character": "蓝",
     "pinyin": "lán",
     "meaning": "蓝的意思",
@@ -7124,7 +7124,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0548",
+    "id": "word-0549",
     "character": "紫",
     "pinyin": "zǐ",
     "meaning": "紫的意思",
@@ -7137,7 +7137,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0549",
+    "id": "word-0550",
     "character": "黑",
     "pinyin": "hēi",
     "meaning": "黑的意思",
@@ -7150,7 +7150,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0550",
+    "id": "word-0551",
     "character": "白",
     "pinyin": "bái",
     "meaning": "白的意思",
@@ -7163,7 +7163,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0551",
+    "id": "word-0552",
     "character": "灰",
     "pinyin": "huī",
     "meaning": "灰的意思",
@@ -7176,7 +7176,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0552",
+    "id": "word-0553",
     "character": "粉",
     "pinyin": "fěn",
     "meaning": "粉的意思",
@@ -7189,7 +7189,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0553",
+    "id": "word-0554",
     "character": "棕",
     "pinyin": "zōng",
     "meaning": "棕的意思",
@@ -7202,7 +7202,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0554",
+    "id": "word-0555",
     "character": "春",
     "pinyin": "chūn",
     "meaning": "春的意思",
@@ -7215,7 +7215,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0555",
+    "id": "word-0556",
     "character": "夏",
     "pinyin": "xià",
     "meaning": "夏的意思",
@@ -7228,7 +7228,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0556",
+    "id": "word-0557",
     "character": "秋",
     "pinyin": "qiū",
     "meaning": "秋的意思",
@@ -7241,7 +7241,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0557",
+    "id": "word-0558",
     "character": "冬",
     "pinyin": "dōng",
     "meaning": "冬的意思",
@@ -7254,7 +7254,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0558",
+    "id": "word-0559",
     "character": "年",
     "pinyin": "nián",
     "meaning": "年份",
@@ -7267,7 +7267,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0559",
+    "id": "word-0560",
     "character": "时",
     "pinyin": "shí",
     "meaning": "时间",
@@ -7280,7 +7280,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0560",
+    "id": "word-0561",
     "character": "分",
     "pinyin": "fēn",
     "meaning": "分开",
@@ -7293,7 +7293,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0561",
+    "id": "word-0562",
     "character": "秒",
     "pinyin": "miǎo",
     "meaning": "秒的意思",
@@ -7306,7 +7306,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0562",
+    "id": "word-0563",
     "character": "早",
     "pinyin": "zǎo",
     "meaning": "早的意思",
@@ -7319,7 +7319,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0563",
+    "id": "word-0564",
     "character": "晚",
     "pinyin": "wǎn",
     "meaning": "晚的意思",
@@ -7332,7 +7332,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0564",
+    "id": "word-0565",
     "character": "午",
     "pinyin": "wǔ",
     "meaning": "午的意思",
@@ -7345,7 +7345,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0565",
+    "id": "word-0566",
     "character": "夜",
     "pinyin": "yè",
     "meaning": "夜的意思",
@@ -7358,7 +7358,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0566",
+    "id": "word-0567",
     "character": "东",
     "pinyin": "dōng",
     "meaning": "东的意思",
@@ -7371,7 +7371,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0567",
+    "id": "word-0568",
     "character": "南",
     "pinyin": "nán",
     "meaning": "南的意思",
@@ -7384,7 +7384,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0568",
+    "id": "word-0569",
     "character": "西",
     "pinyin": "xī",
     "meaning": "西的意思",
@@ -7397,7 +7397,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0569",
+    "id": "word-0570",
     "character": "北",
     "pinyin": "běi",
     "meaning": "北的意思",
@@ -7410,7 +7410,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0570",
+    "id": "word-0571",
     "character": "前",
     "pinyin": "qián",
     "meaning": "前的意思",
@@ -7423,7 +7423,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0571",
+    "id": "word-0572",
     "character": "后",
     "pinyin": "hòu",
     "meaning": "后面",
@@ -7436,7 +7436,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0572",
+    "id": "word-0573",
     "character": "左",
     "pinyin": "zuǒ",
     "meaning": "左的意思",
@@ -7449,7 +7449,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0573",
+    "id": "word-0574",
     "character": "右",
     "pinyin": "yòu",
     "meaning": "右的意思",
@@ -7462,7 +7462,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0574",
+    "id": "word-0575",
     "character": "上",
     "pinyin": "shàng",
     "meaning": "方位词",
@@ -7475,7 +7475,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0575",
+    "id": "word-0576",
     "character": "下",
     "pinyin": "xià",
     "meaning": "下面",
@@ -7488,7 +7488,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0576",
+    "id": "word-0577",
     "character": "中",
     "pinyin": "zhōng",
     "meaning": "中间",
@@ -7501,7 +7501,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0577",
+    "id": "word-0578",
     "character": "间",
     "pinyin": "jiān",
     "meaning": "间的意思",
@@ -7514,7 +7514,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0578",
+    "id": "word-0579",
     "character": "里",
     "pinyin": "lǐ",
     "meaning": "里的意思",
@@ -7527,7 +7527,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0579",
+    "id": "word-0580",
     "character": "外",
     "pinyin": "wài",
     "meaning": "外的意思",
@@ -7540,7 +7540,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0580",
+    "id": "word-0581",
     "character": "高",
     "pinyin": "gāo",
     "meaning": "高的意思",
@@ -7553,7 +7553,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0581",
+    "id": "word-0582",
     "character": "低",
     "pinyin": "dī",
     "meaning": "低的意思",
@@ -7566,7 +7566,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0582",
+    "id": "word-0583",
     "character": "长",
     "pinyin": "cháng",
     "meaning": "长的意思",
@@ -7575,11 +7575,11 @@
       "长词",
       "用长"
     ],
-    "category": "三年级",
+    "category": "二年级",
     "difficulty": 2
   },
   {
-    "id": "word-0583",
+    "id": "word-0584",
     "character": "短",
     "pinyin": "duǎn",
     "meaning": "短的意思",
@@ -7592,7 +7592,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0584",
+    "id": "word-0585",
     "character": "宽",
     "pinyin": "kuān",
     "meaning": "宽的意思",
@@ -7605,7 +7605,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0585",
+    "id": "word-0586",
     "character": "窄",
     "pinyin": "zhǎi",
     "meaning": "窄的意思",
@@ -7618,7 +7618,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0586",
+    "id": "word-0587",
     "character": "厚",
     "pinyin": "hòu",
     "meaning": "厚的意思",
@@ -7631,7 +7631,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0587",
+    "id": "word-0588",
     "character": "薄",
     "pinyin": "báo",
     "meaning": "薄的意思",
@@ -7644,7 +7644,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0588",
+    "id": "word-0589",
     "character": "粗",
     "pinyin": "cū",
     "meaning": "粗的意思",
@@ -7657,7 +7657,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0589",
+    "id": "word-0590",
     "character": "细",
     "pinyin": "xì",
     "meaning": "细的意思",
@@ -7670,7 +7670,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0590",
+    "id": "word-0591",
     "character": "新",
     "pinyin": "xīn",
     "meaning": "新的意思",
@@ -7683,7 +7683,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0591",
+    "id": "word-0592",
     "character": "旧",
     "pinyin": "jiù",
     "meaning": "旧的意思",
@@ -7696,7 +7696,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0592",
+    "id": "word-0593",
     "character": "坏",
     "pinyin": "huài",
     "meaning": "坏的意思",
@@ -7705,11 +7705,11 @@
       "坏词",
       "用坏"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-0593",
+    "id": "word-0594",
     "character": "丑",
     "pinyin": "chǒu",
     "meaning": "丑的意思",
@@ -7722,7 +7722,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0594",
+    "id": "word-0595",
     "character": "快",
     "pinyin": "kuài",
     "meaning": "快的意思",
@@ -7735,7 +7735,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0595",
+    "id": "word-0596",
     "character": "慢",
     "pinyin": "màn",
     "meaning": "慢的意思",
@@ -7748,7 +7748,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0596",
+    "id": "word-0597",
     "character": "多",
     "pinyin": "duō",
     "meaning": "数量大",
@@ -7761,7 +7761,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0597",
+    "id": "word-0598",
     "character": "少",
     "pinyin": "shǎo",
     "meaning": "少的意思",
@@ -7770,11 +7770,11 @@
       "少词",
       "用少"
     ],
-    "category": "三年级",
+    "category": "二年级",
     "difficulty": 2
   },
   {
-    "id": "word-0598",
+    "id": "word-0599",
     "character": "轻",
     "pinyin": "qīng",
     "meaning": "轻的意思",
@@ -7787,7 +7787,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0599",
+    "id": "word-0600",
     "character": "重",
     "pinyin": "zhòng",
     "meaning": "重的意思",
@@ -7800,7 +7800,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0600",
+    "id": "word-0601",
     "character": "软",
     "pinyin": "ruǎn",
     "meaning": "软的意思",
@@ -7813,7 +7813,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-0601",
+    "id": "word-0602",
     "character": "硬",
     "pinyin": "yìng",
     "meaning": "硬的意思",
@@ -7826,7 +7826,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1002",
+    "id": "word-0603",
     "character": "拌",
     "pinyin": "bàn",
     "meaning": "拌的意思",
@@ -7839,7 +7839,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1003",
+    "id": "word-0604",
     "character": "刀",
     "pinyin": "dāo",
     "meaning": "刀的意思",
@@ -7852,7 +7852,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1004",
+    "id": "word-0605",
     "character": "削",
     "pinyin": "xuē",
     "meaning": "削的意思",
@@ -7865,7 +7865,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1005",
+    "id": "word-0606",
     "character": "擀",
     "pinyin": "gǎn",
     "meaning": "擀的意思",
@@ -7878,7 +7878,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1006",
+    "id": "word-0607",
     "character": "扁",
     "pinyin": "biǎn",
     "meaning": "扁的意思",
@@ -7891,7 +7891,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1007",
+    "id": "word-0608",
     "character": "食",
     "pinyin": "shí",
     "meaning": "食的意思",
@@ -7904,7 +7904,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1008",
+    "id": "word-0609",
     "character": "鸟",
     "pinyin": "niǎo",
     "meaning": "鸟的意思",
@@ -7917,7 +7917,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1009",
+    "id": "word-0610",
     "character": "兽",
     "pinyin": "shòu",
     "meaning": "兽的意思",
@@ -7930,7 +7930,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1010",
+    "id": "word-0611",
     "character": "虫",
     "pinyin": "chóng",
     "meaning": "虫的意思",
@@ -7943,7 +7943,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1011",
+    "id": "word-0612",
     "character": "猫",
     "pinyin": "māo",
     "meaning": "猫的意思",
@@ -7956,7 +7956,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1012",
+    "id": "word-0613",
     "character": "兔",
     "pinyin": "tù",
     "meaning": "兔的意思",
@@ -7969,7 +7969,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1013",
+    "id": "word-0614",
     "character": "鼠",
     "pinyin": "shǔ",
     "meaning": "鼠的意思",
@@ -7982,7 +7982,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1014",
+    "id": "word-0615",
     "character": "猴",
     "pinyin": "hóu",
     "meaning": "猴的意思",
@@ -7995,7 +7995,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1015",
+    "id": "word-0616",
     "character": "熊",
     "pinyin": "xióng",
     "meaning": "熊的意思",
@@ -8008,7 +8008,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1016",
+    "id": "word-0617",
     "character": "虎",
     "pinyin": "hǔ",
     "meaning": "虎的意思",
@@ -8021,7 +8021,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1017",
+    "id": "word-0618",
     "character": "狮",
     "pinyin": "shī",
     "meaning": "狮的意思",
@@ -8034,7 +8034,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1018",
+    "id": "word-0619",
     "character": "鹿",
     "pinyin": "lù",
     "meaning": "鹿的意思",
@@ -8047,7 +8047,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1019",
+    "id": "word-0620",
     "character": "狼",
     "pinyin": "láng",
     "meaning": "狼的意思",
@@ -8060,7 +8060,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1020",
+    "id": "word-0621",
     "character": "狐",
     "pinyin": "hú",
     "meaning": "狐的意思",
@@ -8073,7 +8073,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1021",
+    "id": "word-0622",
     "character": "狸",
     "pinyin": "lí",
     "meaning": "狸的意思",
@@ -8086,7 +8086,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1022",
+    "id": "word-0623",
     "character": "蛇",
     "pinyin": "shé",
     "meaning": "蛇的意思",
@@ -8099,7 +8099,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1023",
+    "id": "word-0624",
     "character": "凤",
     "pinyin": "fèng",
     "meaning": "凤的意思",
@@ -8112,7 +8112,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1024",
+    "id": "word-0625",
     "character": "雀",
     "pinyin": "què",
     "meaning": "雀的意思",
@@ -8125,7 +8125,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1025",
+    "id": "word-0626",
     "character": "鹰",
     "pinyin": "yīng",
     "meaning": "鹰的意思",
@@ -8138,7 +8138,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1026",
+    "id": "word-0627",
     "character": "鸽",
     "pinyin": "gē",
     "meaning": "鸽的意思",
@@ -8151,7 +8151,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1027",
+    "id": "word-0628",
     "character": "燕",
     "pinyin": "yàn",
     "meaning": "燕的意思",
@@ -8164,7 +8164,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1028",
+    "id": "word-0629",
     "character": "雁",
     "pinyin": "yàn",
     "meaning": "雁的意思",
@@ -8177,7 +8177,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1029",
+    "id": "word-0630",
     "character": "鹤",
     "pinyin": "hè",
     "meaning": "鹤的意思",
@@ -8190,7 +8190,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1030",
+    "id": "word-0631",
     "character": "螺",
     "pinyin": "luó",
     "meaning": "螺的意思",
@@ -8203,7 +8203,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1031",
+    "id": "word-0632",
     "character": "蚌",
     "pinyin": "bàng",
     "meaning": "蚌的意思",
@@ -8216,7 +8216,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1032",
+    "id": "word-0633",
     "character": "龟",
     "pinyin": "guī",
     "meaning": "龟的意思",
@@ -8229,7 +8229,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1033",
+    "id": "word-0634",
     "character": "鳖",
     "pinyin": "biē",
     "meaning": "鳖的意思",
@@ -8242,7 +8242,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1034",
+    "id": "word-0635",
     "character": "鲤",
     "pinyin": "lǐ",
     "meaning": "鲤的意思",
@@ -8255,7 +8255,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1035",
+    "id": "word-0636",
     "character": "鲫",
     "pinyin": "jì",
     "meaning": "鲫的意思",
@@ -8268,7 +8268,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1036",
+    "id": "word-0637",
     "character": "鲢",
     "pinyin": "lián",
     "meaning": "鲢的意思",
@@ -8281,7 +8281,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1037",
+    "id": "word-0638",
     "character": "鳙",
     "pinyin": "yōng",
     "meaning": "鳙的意思",
@@ -8294,7 +8294,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1038",
+    "id": "word-0639",
     "character": "鲶",
     "pinyin": "nián",
     "meaning": "鲶的意思",
@@ -8307,7 +8307,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1039",
+    "id": "word-0640",
     "character": "鲈",
     "pinyin": "lú",
     "meaning": "鲈的意思",
@@ -8320,7 +8320,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1040",
+    "id": "word-0641",
     "character": "枪",
     "pinyin": "qiāng",
     "meaning": "枪的意思",
@@ -8333,7 +8333,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1041",
+    "id": "word-0642",
     "character": "沙",
     "pinyin": "shā",
     "meaning": "沙的意思",
@@ -8346,7 +8346,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1042",
+    "id": "word-0643",
     "character": "植",
     "pinyin": "zhí",
     "meaning": "植的意思",
@@ -8359,7 +8359,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1043",
+    "id": "word-0644",
     "character": "树",
     "pinyin": "shù",
     "meaning": "树的意思",
@@ -8372,7 +8372,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1044",
+    "id": "word-0645",
     "character": "竹",
     "pinyin": "zhú",
     "meaning": "竹的意思",
@@ -8385,7 +8385,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1045",
+    "id": "word-0646",
     "character": "柏",
     "pinyin": "bǎi",
     "meaning": "柏的意思",
@@ -8398,7 +8398,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1046",
+    "id": "word-0647",
     "character": "柳",
     "pinyin": "liǔ",
     "meaning": "柳的意思",
@@ -8411,7 +8411,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1047",
+    "id": "word-0648",
     "character": "杨",
     "pinyin": "yáng",
     "meaning": "杨的意思",
@@ -8424,7 +8424,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1048",
+    "id": "word-0649",
     "character": "槐",
     "pinyin": "huái",
     "meaning": "槐的意思",
@@ -8437,7 +8437,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1049",
+    "id": "word-0650",
     "character": "榆",
     "pinyin": "yú",
     "meaning": "榆的意思",
@@ -8450,7 +8450,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1050",
+    "id": "word-0651",
     "character": "桐",
     "pinyin": "tóng",
     "meaning": "桐的意思",
@@ -8463,7 +8463,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1051",
+    "id": "word-0652",
     "character": "枫",
     "pinyin": "fēng",
     "meaning": "枫的意思",
@@ -8476,7 +8476,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1052",
+    "id": "word-0653",
     "character": "梧",
     "pinyin": "wú",
     "meaning": "梧的意思",
@@ -8489,7 +8489,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1053",
+    "id": "word-0654",
     "character": "榕",
     "pinyin": "róng",
     "meaning": "榕的意思",
@@ -8502,7 +8502,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1054",
+    "id": "word-0655",
     "character": "樟",
     "pinyin": "zhāng",
     "meaning": "樟的意思",
@@ -8515,7 +8515,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1055",
+    "id": "word-0656",
     "character": "杉",
     "pinyin": "shān",
     "meaning": "杉的意思",
@@ -8528,7 +8528,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1056",
+    "id": "word-0657",
     "character": "桂",
     "pinyin": "guì",
     "meaning": "桂的意思",
@@ -8541,7 +8541,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1057",
+    "id": "word-0658",
     "character": "柑",
     "pinyin": "gān",
     "meaning": "柑的意思",
@@ -8554,7 +8554,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1058",
+    "id": "word-0659",
     "character": "莲",
     "pinyin": "lián",
     "meaning": "莲的意思",
@@ -8567,7 +8567,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1059",
+    "id": "word-0660",
     "character": "藕",
     "pinyin": "ǒu",
     "meaning": "藕的意思",
@@ -8580,7 +8580,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1060",
+    "id": "word-0661",
     "character": "菱",
     "pinyin": "líng",
     "meaning": "菱的意思",
@@ -8593,7 +8593,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1061",
+    "id": "word-0662",
     "character": "荸",
     "pinyin": "bí",
     "meaning": "荸的意思",
@@ -8606,7 +8606,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1062",
+    "id": "word-0663",
     "character": "荠",
     "pinyin": "jì",
     "meaning": "荠的意思",
@@ -8619,7 +8619,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1063",
+    "id": "word-0664",
     "character": "慈",
     "pinyin": "cí",
     "meaning": "慈的意思",
@@ -8632,7 +8632,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1064",
+    "id": "word-0665",
     "character": "芋",
     "pinyin": "yù",
     "meaning": "芋的意思",
@@ -8645,7 +8645,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1065",
+    "id": "word-0666",
     "character": "药",
     "pinyin": "yào",
     "meaning": "药的意思",
@@ -8658,7 +8658,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1066",
+    "id": "word-0667",
     "character": "薯",
     "pinyin": "shǔ",
     "meaning": "薯的意思",
@@ -8671,7 +8671,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1067",
+    "id": "word-0668",
     "character": "葫",
     "pinyin": "hú",
     "meaning": "葫的意思",
@@ -8684,7 +8684,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1068",
+    "id": "word-0669",
     "character": "芦",
     "pinyin": "lú",
     "meaning": "芦的意思",
@@ -8697,7 +8697,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1069",
+    "id": "word-0670",
     "character": "蚕",
     "pinyin": "cán",
     "meaning": "蚕的意思",
@@ -8710,7 +8710,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1070",
+    "id": "word-0671",
     "character": "芝",
     "pinyin": "zhī",
     "meaning": "芝的意思",
@@ -8723,7 +8723,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1071",
+    "id": "word-0672",
     "character": "麻",
     "pinyin": "má",
     "meaning": "麻的意思",
@@ -8736,7 +8736,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1072",
+    "id": "word-0673",
     "character": "葵",
     "pinyin": "kuí",
     "meaning": "葵的意思",
@@ -8749,7 +8749,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1073",
+    "id": "word-0674",
     "character": "甘",
     "pinyin": "gān",
     "meaning": "甘的意思",
@@ -8762,7 +8762,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1074",
+    "id": "word-0675",
     "character": "麦",
     "pinyin": "mài",
     "meaning": "麦的意思",
@@ -8775,7 +8775,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1075",
+    "id": "word-0676",
     "character": "茼",
     "pinyin": "tóng",
     "meaning": "茼的意思",
@@ -8788,7 +8788,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1076",
+    "id": "word-0677",
     "character": "蒿",
     "pinyin": "hāo",
     "meaning": "蒿的意思",
@@ -8801,7 +8801,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1077",
+    "id": "word-0678",
     "character": "荷",
     "pinyin": "hé",
     "meaning": "荷的意思",
@@ -8814,7 +8814,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1078",
+    "id": "word-0679",
     "character": "苏",
     "pinyin": "sū",
     "meaning": "苏的意思",
@@ -8827,7 +8827,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1079",
+    "id": "word-0680",
     "character": "罗",
     "pinyin": "luó",
     "meaning": "罗的意思",
@@ -8840,7 +8840,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1080",
+    "id": "word-0681",
     "character": "勒",
     "pinyin": "lè",
     "meaning": "勒的意思",
@@ -8853,7 +8853,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1081",
+    "id": "word-0682",
     "character": "迷",
     "pinyin": "mí",
     "meaning": "迷的意思",
@@ -8866,7 +8866,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1082",
+    "id": "word-0683",
     "character": "迭",
     "pinyin": "dié",
     "meaning": "迭的意思",
@@ -8879,7 +8879,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1083",
+    "id": "word-0684",
     "character": "玫",
     "pinyin": "méi",
     "meaning": "玫的意思",
@@ -8892,7 +8892,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1084",
+    "id": "word-0685",
     "character": "瑰",
     "pinyin": "guī",
     "meaning": "瑰的意思",
@@ -8905,7 +8905,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1085",
+    "id": "word-0686",
     "character": "牡",
     "pinyin": "mǔ",
     "meaning": "牡的意思",
@@ -8918,7 +8918,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1086",
+    "id": "word-0687",
     "character": "丹",
     "pinyin": "dān",
     "meaning": "丹的意思",
@@ -8931,7 +8931,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1087",
+    "id": "word-0688",
     "character": "菊",
     "pinyin": "jú",
     "meaning": "菊的意思",
@@ -8944,7 +8944,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1088",
+    "id": "word-0689",
     "character": "兰",
     "pinyin": "lán",
     "meaning": "兰的意思",
@@ -8957,7 +8957,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1089",
+    "id": "word-0690",
     "character": "仙",
     "pinyin": "xiān",
     "meaning": "仙的意思",
@@ -8970,7 +8970,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1090",
+    "id": "word-0691",
     "character": "茉",
     "pinyin": "mò",
     "meaning": "茉的意思",
@@ -8983,7 +8983,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1091",
+    "id": "word-0692",
     "character": "莉",
     "pinyin": "lì",
     "meaning": "莉的意思",
@@ -8996,7 +8996,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1092",
+    "id": "word-0693",
     "character": "栀",
     "pinyin": "zhī",
     "meaning": "栀的意思",
@@ -9009,7 +9009,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1093",
+    "id": "word-0694",
     "character": "梅",
     "pinyin": "méi",
     "meaning": "梅的意思",
@@ -9022,7 +9022,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1094",
+    "id": "word-0695",
     "character": "棠",
     "pinyin": "táng",
     "meaning": "棠的意思",
@@ -9035,7 +9035,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1095",
+    "id": "word-0696",
     "character": "薇",
     "pinyin": "wēi",
     "meaning": "薇的意思",
@@ -9048,7 +9048,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1096",
+    "id": "word-0697",
     "character": "牵",
     "pinyin": "qiān",
     "meaning": "牵的意思",
@@ -9061,7 +9061,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1097",
+    "id": "word-0698",
     "character": "乃",
     "pinyin": "nǎi",
     "meaning": "乃的意思",
@@ -9074,7 +9074,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1098",
+    "id": "word-0699",
     "character": "馨",
     "pinyin": "xīn",
     "meaning": "馨的意思",
@@ -9087,7 +9087,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1099",
+    "id": "word-0700",
     "character": "星",
     "pinyin": "xīng",
     "meaning": "星的意思",
@@ -9100,7 +9100,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1100",
+    "id": "word-0701",
     "character": "勿",
     "pinyin": "wù",
     "meaning": "勿的意思",
@@ -9113,7 +9113,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1101",
+    "id": "word-0702",
     "character": "薰",
     "pinyin": "xūn",
     "meaning": "薰的意思",
@@ -9126,7 +9126,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1102",
+    "id": "word-0703",
     "character": "含",
     "pinyin": "hán",
     "meaning": "含的意思",
@@ -9139,7 +9139,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1103",
+    "id": "word-0704",
     "character": "羞",
     "pinyin": "xiū",
     "meaning": "羞的意思",
@@ -9152,7 +9152,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1104",
+    "id": "word-0705",
     "character": "叶",
     "pinyin": "yè",
     "meaning": "叶的意思",
@@ -9165,7 +9165,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1105",
+    "id": "word-0706",
     "character": "幸",
     "pinyin": "xìng",
     "meaning": "幸的意思",
@@ -9178,7 +9178,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1106",
+    "id": "word-0707",
     "character": "尾",
     "pinyin": "wěi",
     "meaning": "尾的意思",
@@ -9191,7 +9191,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1107",
+    "id": "word-0708",
     "character": "苇",
     "pinyin": "wěi",
     "meaning": "苇的意思",
@@ -9204,7 +9204,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1108",
+    "id": "word-0709",
     "character": "蒲",
     "pinyin": "pú",
     "meaning": "蒲的意思",
@@ -9217,7 +9217,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1109",
+    "id": "word-0710",
     "character": "英",
     "pinyin": "yīng",
     "meaning": "英的意思",
@@ -9230,7 +9230,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1110",
+    "id": "word-0711",
     "character": "苋",
     "pinyin": "xiàn",
     "meaning": "苋的意思",
@@ -9243,7 +9243,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1111",
+    "id": "word-0712",
     "character": "野",
     "pinyin": "yě",
     "meaning": "野的意思",
@@ -9256,7 +9256,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1112",
+    "id": "word-0713",
     "character": "蔷",
     "pinyin": "qiáng",
     "meaning": "蔷的意思",
@@ -9269,7 +9269,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1113",
+    "id": "word-0714",
     "character": "校",
     "pinyin": "xiào",
     "meaning": "校的意思",
@@ -9282,7 +9282,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1114",
+    "id": "word-0715",
     "character": "室",
     "pinyin": "shì",
     "meaning": "室的意思",
@@ -9295,7 +9295,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1115",
+    "id": "word-0716",
     "character": "课",
     "pinyin": "kè",
     "meaning": "课的意思",
@@ -9308,7 +9308,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1116",
+    "id": "word-0717",
     "character": "堂",
     "pinyin": "táng",
     "meaning": "堂的意思",
@@ -9321,7 +9321,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1117",
+    "id": "word-0718",
     "character": "板",
     "pinyin": "bǎn",
     "meaning": "板的意思",
@@ -9334,7 +9334,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1118",
+    "id": "word-0719",
     "character": "媒",
     "pinyin": "méi",
     "meaning": "媒的意思",
@@ -9347,7 +9347,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1119",
+    "id": "word-0720",
     "character": "投",
     "pinyin": "tóu",
     "meaning": "投的意思",
@@ -9360,7 +9360,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1120",
+    "id": "word-0721",
     "character": "仪",
     "pinyin": "yí",
     "meaning": "仪的意思",
@@ -9373,7 +9373,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1121",
+    "id": "word-0722",
     "character": "智",
     "pinyin": "zhì",
     "meaning": "智的意思",
@@ -9386,7 +9386,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1122",
+    "id": "word-0723",
     "character": "镜",
     "pinyin": "jìng",
     "meaning": "镜的意思",
@@ -9399,7 +9399,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1123",
+    "id": "word-0724",
     "character": "虚",
     "pinyin": "xū",
     "meaning": "虚的意思",
@@ -9412,7 +9412,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1124",
+    "id": "word-0725",
     "character": "拟",
     "pinyin": "nǐ",
     "meaning": "拟的意思",
@@ -9425,7 +9425,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1125",
+    "id": "word-0726",
     "character": "神",
     "pinyin": "shén",
     "meaning": "神的意思",
@@ -9438,7 +9438,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1126",
+    "id": "word-0727",
     "character": "网",
     "pinyin": "wǎng",
     "meaning": "网的意思",
@@ -9451,7 +9451,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1127",
+    "id": "word-0728",
     "character": "络",
     "pinyin": "luò",
     "meaning": "络的意思",
@@ -9464,7 +9464,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1128",
+    "id": "word-0729",
     "character": "析",
     "pinyin": "xī",
     "meaning": "析的意思",
@@ -9477,7 +9477,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1129",
+    "id": "word-0730",
     "character": "云",
     "pinyin": "yún",
     "meaning": "云的意思",
@@ -9490,7 +9490,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1130",
+    "id": "word-0731",
     "character": "块",
     "pinyin": "kuài",
     "meaning": "块的意思",
@@ -9503,7 +9503,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1131",
+    "id": "word-0732",
     "character": "链",
     "pinyin": "liàn",
     "meaning": "链的意思",
@@ -9516,7 +9516,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1132",
+    "id": "word-0733",
     "character": "密",
     "pinyin": "mì",
     "meaning": "密的意思",
@@ -9529,7 +9529,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1133",
+    "id": "word-0734",
     "character": "货",
     "pinyin": "huò",
     "meaning": "货的意思",
@@ -9542,7 +9542,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1134",
+    "id": "word-0735",
     "character": "币",
     "pinyin": "bì",
     "meaning": "币的意思",
@@ -9555,7 +9555,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1135",
+    "id": "word-0736",
     "character": "坊",
     "pinyin": "fāng",
     "meaning": "坊的意思",
@@ -9568,7 +9568,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1136",
+    "id": "word-0737",
     "character": "融",
     "pinyin": "róng",
     "meaning": "融的意思",
@@ -9581,7 +9581,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1137",
+    "id": "word-0738",
     "character": "付",
     "pinyin": "fù",
     "meaning": "付的意思",
@@ -9594,7 +9594,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1138",
+    "id": "word-0739",
     "character": "宝",
     "pinyin": "bǎo",
     "meaning": "宝的意思",
@@ -9607,7 +9607,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1139",
+    "id": "word-0740",
     "character": "微",
     "pinyin": "wēi",
     "meaning": "微的意思",
@@ -9620,7 +9620,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1140",
+    "id": "word-0741",
     "character": "移",
     "pinyin": "yí",
     "meaning": "移的意思",
@@ -9633,7 +9633,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1141",
+    "id": "word-0742",
     "character": "码",
     "pinyin": "mǎ",
     "meaning": "码的意思",
@@ -9646,7 +9646,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1142",
+    "id": "word-0743",
     "character": "纹",
     "pinyin": "wén",
     "meaning": "纹的意思",
@@ -9659,7 +9659,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1143",
+    "id": "word-0744",
     "character": "球",
     "pinyin": "qiú",
     "meaning": "球的意思",
@@ -9672,7 +9672,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1144",
+    "id": "word-0745",
     "character": "脉",
     "pinyin": "mài",
     "meaning": "脉的意思",
@@ -9685,7 +9685,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1145",
+    "id": "word-0746",
     "character": "态",
     "pinyin": "tài",
     "meaning": "态的意思",
@@ -9694,11 +9694,11 @@
       "态词",
       "用态"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-1146",
+    "id": "word-0747",
     "character": "迹",
     "pinyin": "jì",
     "meaning": "迹的意思",
@@ -9711,7 +9711,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1147",
+    "id": "word-0748",
     "character": "签",
     "pinyin": "qiān",
     "meaning": "签的意思",
@@ -9724,7 +9724,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1148",
+    "id": "word-0749",
     "character": "D",
     "pinyin": "D",
     "meaning": "D的意思",
@@ -9737,7 +9737,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1149",
+    "id": "word-0750",
     "character": "N",
     "pinyin": "N",
     "meaning": "N的意思",
@@ -9750,7 +9750,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1150",
+    "id": "word-0751",
     "character": "A",
     "pinyin": "A",
     "meaning": "A的意思",
@@ -9763,7 +9763,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1151",
+    "id": "word-0752",
     "character": "胞",
     "pinyin": "bāo",
     "meaning": "胞的意思",
@@ -9776,7 +9776,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1152",
+    "id": "word-0753",
     "character": "艺",
     "pinyin": "yì",
     "meaning": "艺的意思",
@@ -9789,7 +9789,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1153",
+    "id": "word-0754",
     "character": "蹈",
     "pinyin": "dǎo",
     "meaning": "蹈的意思",
@@ -9802,7 +9802,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1154",
+    "id": "word-0755",
     "character": "戏",
     "pinyin": "xì",
     "meaning": "戏的意思",
@@ -9815,7 +9815,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1155",
+    "id": "word-0756",
     "character": "剧",
     "pinyin": "jù",
     "meaning": "剧的意思",
@@ -9828,7 +9828,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1156",
+    "id": "word-0757",
     "character": "视",
     "pinyin": "shì",
     "meaning": "视的意思",
@@ -9841,7 +9841,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1157",
+    "id": "word-0758",
     "character": "综",
     "pinyin": "zōng",
     "meaning": "综的意思",
@@ -9854,7 +9854,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1158",
+    "id": "word-0759",
     "character": "闻",
     "pinyin": "wén",
     "meaning": "闻的意思",
@@ -9867,7 +9867,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1159",
+    "id": "word-0760",
     "character": "童",
     "pinyin": "tóng",
     "meaning": "童的意思",
@@ -9880,7 +9880,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1160",
+    "id": "word-0761",
     "character": "偶",
     "pinyin": "ǒu",
     "meaning": "偶的意思",
@@ -9893,7 +9893,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1161",
+    "id": "word-0762",
     "character": "剪",
     "pinyin": "jiǎn",
     "meaning": "剪的意思",
@@ -9906,7 +9906,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1162",
+    "id": "word-0763",
     "character": "昆",
     "pinyin": "kūn",
     "meaning": "昆的意思",
@@ -9919,7 +9919,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1163",
+    "id": "word-0764",
     "character": "曲",
     "pinyin": "qū",
     "meaning": "曲的意思",
@@ -9932,7 +9932,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1164",
+    "id": "word-0765",
     "character": "豫",
     "pinyin": "yù",
     "meaning": "豫的意思",
@@ -9945,7 +9945,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1165",
+    "id": "word-0766",
     "character": "评",
     "pinyin": "píng",
     "meaning": "评的意思",
@@ -9958,7 +9958,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1166",
+    "id": "word-0767",
     "character": "川",
     "pinyin": "chuān",
     "meaning": "川的意思",
@@ -9971,7 +9971,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1167",
+    "id": "word-0768",
     "character": "粤",
     "pinyin": "yuè",
     "meaning": "粤的意思",
@@ -9984,7 +9984,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1168",
+    "id": "word-0769",
     "character": "晋",
     "pinyin": "jìn",
     "meaning": "晋的意思",
@@ -9997,7 +9997,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1169",
+    "id": "word-0770",
     "character": "秦",
     "pinyin": "qín",
     "meaning": "秦的意思",
@@ -10010,7 +10010,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1170",
+    "id": "word-0771",
     "character": "腔",
     "pinyin": "qiāng",
     "meaning": "腔的意思",
@@ -10023,7 +10023,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1171",
+    "id": "word-0772",
     "character": "鼓",
     "pinyin": "gǔ",
     "meaning": "鼓的意思",
@@ -10036,7 +10036,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1172",
+    "id": "word-0773",
     "character": "茶",
     "pinyin": "chá",
     "meaning": "茶的意思",
@@ -10049,7 +10049,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1173",
+    "id": "word-0774",
     "character": "秧",
     "pinyin": "yāng",
     "meaning": "秧的意思",
@@ -10062,7 +10062,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1174",
+    "id": "word-0775",
     "character": "歌",
     "pinyin": "gē",
     "meaning": "歌的意思",
@@ -10075,7 +10075,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1175",
+    "id": "word-0776",
     "character": "杂",
     "pinyin": "zá",
     "meaning": "杂的意思",
@@ -10088,7 +10088,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1176",
+    "id": "word-0777",
     "character": "魔",
     "pinyin": "mó",
     "meaning": "魔的意思",
@@ -10101,7 +10101,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1177",
+    "id": "word-0778",
     "character": "喷",
     "pinyin": "pēn",
     "meaning": "喷的意思",
@@ -10114,7 +10114,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1178",
+    "id": "word-0779",
     "character": "顶",
     "pinyin": "dǐng",
     "meaning": "顶的意思",
@@ -10127,7 +10127,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1179",
+    "id": "word-0780",
     "character": "碗",
     "pinyin": "wǎn",
     "meaning": "碗的意思",
@@ -10140,7 +10140,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1180",
+    "id": "word-0781",
     "character": "钢",
     "pinyin": "gāng",
     "meaning": "钢的意思",
@@ -10153,7 +10153,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1181",
+    "id": "word-0782",
     "character": "绳",
     "pinyin": "shéng",
     "meaning": "绳的意思",
@@ -10166,7 +10166,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1182",
+    "id": "word-0783",
     "character": "索",
     "pinyin": "suǒ",
     "meaning": "索的意思",
@@ -10179,7 +10179,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1183",
+    "id": "word-0784",
     "character": "凳",
     "pinyin": "dèng",
     "meaning": "凳的意思",
@@ -10192,7 +10192,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1184",
+    "id": "word-0785",
     "character": "吞",
     "pinyin": "tūn",
     "meaning": "吞的意思",
@@ -10205,7 +10205,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1185",
+    "id": "word-0786",
     "character": "剑",
     "pinyin": "jiàn",
     "meaning": "剑的意思",
@@ -10218,7 +10218,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1186",
+    "id": "word-0787",
     "character": "针",
     "pinyin": "zhēn",
     "meaning": "针的意思",
@@ -10231,7 +10231,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1187",
+    "id": "word-0788",
     "character": "功",
     "pinyin": "gōng",
     "meaning": "功的意思",
@@ -10244,7 +10244,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1188",
+    "id": "word-0789",
     "character": "武",
     "pinyin": "wǔ",
     "meaning": "武的意思",
@@ -10257,7 +10257,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1189",
+    "id": "word-0790",
     "character": "夫",
     "pinyin": "fū",
     "meaning": "夫的意思",
@@ -10270,7 +10270,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1190",
+    "id": "word-0791",
     "character": "拳",
     "pinyin": "quán",
     "meaning": "拳的意思",
@@ -10283,7 +10283,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1191",
+    "id": "word-0792",
     "character": "掌",
     "pinyin": "zhǎng",
     "meaning": "掌的意思",
@@ -10296,7 +10296,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1192",
+    "id": "word-0793",
     "character": "卦",
     "pinyin": "guà",
     "meaning": "卦的意思",
@@ -10309,7 +10309,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1193",
+    "id": "word-0794",
     "character": "咏",
     "pinyin": "yǒng",
     "meaning": "咏的意思",
@@ -10322,7 +10322,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1194",
+    "id": "word-0795",
     "character": "螳",
     "pinyin": "táng",
     "meaning": "螳的意思",
@@ -10335,7 +10335,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1195",
+    "id": "word-0796",
     "character": "螂",
     "pinyin": "láng",
     "meaning": "螂的意思",
@@ -10348,7 +10348,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1196",
+    "id": "word-0797",
     "character": "爪",
     "pinyin": "zhǎo",
     "meaning": "爪的意思",
@@ -10361,7 +10361,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1197",
+    "id": "word-0798",
     "character": "豹",
     "pinyin": "bào",
     "meaning": "豹的意思",
@@ -10374,7 +10374,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1198",
+    "id": "word-0799",
     "character": "蛙",
     "pinyin": "wā",
     "meaning": "蛙的意思",
@@ -10387,7 +10387,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1199",
+    "id": "word-0800",
     "character": "凰",
     "pinyin": "huáng",
     "meaning": "凰的意思",
@@ -10400,7 +10400,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1200",
+    "id": "word-0801",
     "character": "足",
     "pinyin": "zú",
     "meaning": "足的意思",
@@ -10413,7 +10413,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1201",
+    "id": "word-0802",
     "character": "假",
     "pinyin": "jiǎ",
     "meaning": "假的意思",
@@ -10426,7 +10426,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1202",
+    "id": "word-0803",
     "character": "错",
     "pinyin": "cuò",
     "meaning": "错的意思",
@@ -10439,7 +10439,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1203",
+    "id": "word-0804",
     "character": "辰",
     "pinyin": "chén",
     "meaning": "辰的意思",
@@ -10452,7 +10452,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1204",
+    "id": "word-0805",
     "character": "雨",
     "pinyin": "yǔ",
     "meaning": "雨的意思",
@@ -10465,7 +10465,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1205",
+    "id": "word-0806",
     "character": "雷",
     "pinyin": "léi",
     "meaning": "雷的意思",
@@ -10478,7 +10478,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1206",
+    "id": "word-0807",
     "character": "河",
     "pinyin": "hé",
     "meaning": "河的意思",
@@ -10491,7 +10491,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1207",
+    "id": "word-0808",
     "character": "远",
     "pinyin": "yuǎn",
     "meaning": "远的意思",
@@ -10504,7 +10504,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1208",
+    "id": "word-0809",
     "character": "缤",
     "pinyin": "bīn",
     "meaning": "缤的意思",
@@ -10517,7 +10517,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1209",
+    "id": "word-0810",
     "character": "纷",
     "pinyin": "fēn",
     "meaning": "纷的意思",
@@ -10530,7 +10530,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1210",
+    "id": "word-0811",
     "character": "颜",
     "pinyin": "yán",
     "meaning": "颜的意思",
@@ -10543,7 +10543,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1211",
+    "id": "word-0812",
     "character": "绚",
     "pinyin": "xuàn",
     "meaning": "绚的意思",
@@ -10556,7 +10556,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1212",
+    "id": "word-0813",
     "character": "丽",
     "pinyin": "lì",
     "meaning": "丽的意思",
@@ -10569,7 +10569,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1213",
+    "id": "word-0814",
     "character": "姹",
     "pinyin": "chà",
     "meaning": "姹的意思",
@@ -10582,7 +10582,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1214",
+    "id": "word-0815",
     "character": "嫣",
     "pinyin": "yān",
     "meaning": "嫣的意思",
@@ -10595,7 +10595,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1215",
+    "id": "word-0816",
     "character": "溢",
     "pinyin": "yì",
     "meaning": "溢的意思",
@@ -10608,7 +10608,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1216",
+    "id": "word-0817",
     "character": "亿",
     "pinyin": "yì",
     "meaning": "亿的意思",
@@ -10621,7 +10621,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1217",
+    "id": "word-0818",
     "character": "兆",
     "pinyin": "zhào",
     "meaning": "兆的意思",
@@ -10634,7 +10634,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1218",
+    "id": "word-0819",
     "character": "爸",
     "pinyin": "bà",
     "meaning": "爸的意思",
@@ -10647,7 +10647,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1219",
+    "id": "word-0820",
     "character": "妈",
     "pinyin": "mā",
     "meaning": "妈的意思",
@@ -10660,7 +10660,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1220",
+    "id": "word-0821",
     "character": "爷",
     "pinyin": "yé",
     "meaning": "爷的意思",
@@ -10673,7 +10673,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1221",
+    "id": "word-0822",
     "character": "婆",
     "pinyin": "pó",
     "meaning": "婆的意思",
@@ -10686,7 +10686,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1222",
+    "id": "word-0823",
     "character": "叔",
     "pinyin": "shū",
     "meaning": "叔的意思",
@@ -10699,7 +10699,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1223",
+    "id": "word-0824",
     "character": "阿",
     "pinyin": "ā",
     "meaning": "阿的意思",
@@ -10712,7 +10712,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1224",
+    "id": "word-0825",
     "character": "姨",
     "pinyin": "yí",
     "meaning": "姨的意思",
@@ -10725,7 +10725,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1225",
+    "id": "word-0826",
     "character": "哥",
     "pinyin": "gē",
     "meaning": "哥的意思",
@@ -10738,7 +10738,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1226",
+    "id": "word-0827",
     "character": "姐",
     "pinyin": "jiě",
     "meaning": "姐的意思",
@@ -10751,7 +10751,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1227",
+    "id": "word-0828",
     "character": "弟",
     "pinyin": "dì",
     "meaning": "弟的意思",
@@ -10764,7 +10764,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1228",
+    "id": "word-0829",
     "character": "妹",
     "pinyin": "mèi",
     "meaning": "妹的意思",
@@ -10777,7 +10777,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1229",
+    "id": "word-0830",
     "character": "伯",
     "pinyin": "bó",
     "meaning": "伯的意思",
@@ -10790,7 +10790,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1230",
+    "id": "word-0831",
     "character": "舅",
     "pinyin": "jiù",
     "meaning": "舅的意思",
@@ -10803,7 +10803,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1231",
+    "id": "word-0832",
     "character": "姑",
     "pinyin": "gū",
     "meaning": "姑的意思",
@@ -10816,7 +10816,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1232",
+    "id": "word-0833",
     "character": "婶",
     "pinyin": "shěn",
     "meaning": "婶的意思",
@@ -10829,7 +10829,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1233",
+    "id": "word-0834",
     "character": "铅",
     "pinyin": "qiān",
     "meaning": "铅的意思",
@@ -10842,7 +10842,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1234",
+    "id": "word-0835",
     "character": "橡",
     "pinyin": "xiàng",
     "meaning": "橡的意思",
@@ -10855,7 +10855,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1235",
+    "id": "word-0836",
     "character": "尺",
     "pinyin": "chǐ",
     "meaning": "尺的意思",
@@ -10868,7 +10868,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1236",
+    "id": "word-0837",
     "character": "跃",
     "pinyin": "yuè",
     "meaning": "跃的意思",
@@ -10881,7 +10881,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1237",
+    "id": "word-0838",
     "character": "掷",
     "pinyin": "zhì",
     "meaning": "掷的意思",
@@ -10894,7 +10894,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1238",
+    "id": "word-0839",
     "character": "泳",
     "pinyin": "yǒng",
     "meaning": "泳的意思",
@@ -10907,7 +10907,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1239",
+    "id": "word-0840",
     "character": "踢",
     "pinyin": "tī",
     "meaning": "踢的意思",
@@ -10920,7 +10920,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1240",
+    "id": "word-0841",
     "character": "锻",
     "pinyin": "duàn",
     "meaning": "锻的意思",
@@ -10933,7 +10933,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1241",
+    "id": "word-0842",
     "character": "炼",
     "pinyin": "liàn",
     "meaning": "炼的意思",
@@ -10946,7 +10946,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1242",
+    "id": "word-0843",
     "character": "健",
     "pinyin": "jiàn",
     "meaning": "健的意思",
@@ -10959,7 +10959,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1243",
+    "id": "word-0844",
     "character": "拾",
     "pinyin": "shí",
     "meaning": "拾的意思",
@@ -10972,7 +10972,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1244",
+    "id": "word-0845",
     "character": "净",
     "pinyin": "jìng",
     "meaning": "净的意思",
@@ -10985,7 +10985,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1245",
+    "id": "word-0846",
     "character": "洁",
     "pinyin": "jié",
     "meaning": "洁的意思",
@@ -10998,7 +10998,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1246",
+    "id": "word-0847",
     "character": "齐",
     "pinyin": "qí",
     "meaning": "齐的意思",
@@ -11011,7 +11011,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1247",
+    "id": "word-0848",
     "character": "季",
     "pinyin": "jì",
     "meaning": "季的意思",
@@ -11024,7 +11024,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1248",
+    "id": "word-0849",
     "character": "晴",
     "pinyin": "qíng",
     "meaning": "晴的意思",
@@ -11037,7 +11037,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1249",
+    "id": "word-0850",
     "character": "朗",
     "pinyin": "lǎng",
     "meaning": "朗的意思",
@@ -11050,7 +11050,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1250",
+    "id": "word-0851",
     "character": "刮",
     "pinyin": "guā",
     "meaning": "刮的意思",
@@ -11063,7 +11063,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1251",
+    "id": "word-0852",
     "character": "闪",
     "pinyin": "shǎn",
     "meaning": "闪的意思",
@@ -11076,7 +11076,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1252",
+    "id": "word-0853",
     "character": "阳",
     "pinyin": "yáng",
     "meaning": "阳的意思",
@@ -11089,7 +11089,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1253",
+    "id": "word-0854",
     "character": "虹",
     "pinyin": "hóng",
     "meaning": "虹的意思",
@@ -11102,7 +11102,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1254",
+    "id": "word-0855",
     "character": "漂",
     "pinyin": "piāo",
     "meaning": "漂的意思",
@@ -11115,7 +11115,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1255",
+    "id": "word-0856",
     "character": "帅",
     "pinyin": "shuài",
     "meaning": "帅的意思",
@@ -11128,7 +11128,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1256",
+    "id": "word-0857",
     "character": "俊",
     "pinyin": "jùn",
     "meaning": "俊的意思",
@@ -11141,7 +11141,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1257",
+    "id": "word-0858",
     "character": "弹",
     "pinyin": "dàn",
     "meaning": "弹的意思",
@@ -11154,7 +11154,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1258",
+    "id": "word-0859",
     "character": "琴",
     "pinyin": "qín",
     "meaning": "琴的意思",
@@ -11167,7 +11167,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1259",
+    "id": "word-0860",
     "character": "棋",
     "pinyin": "qí",
     "meaning": "棋的意思",
@@ -11180,7 +11180,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1260",
+    "id": "word-0861",
     "character": "愉",
     "pinyin": "yú",
     "meaning": "愉的意思",
@@ -11193,7 +11193,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1261",
+    "id": "word-0862",
     "character": "奋",
     "pinyin": "fèn",
     "meaning": "奋的意思",
@@ -11206,7 +11206,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1262",
+    "id": "word-0863",
     "character": "激",
     "pinyin": "jī",
     "meaning": "激的意思",
@@ -11219,7 +11219,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1263",
+    "id": "word-0864",
     "character": "悲",
     "pinyin": "bēi",
     "meaning": "悲的意思",
@@ -11232,7 +11232,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1264",
+    "id": "word-0865",
     "character": "愤",
     "pinyin": "fèn",
     "meaning": "愤的意思",
@@ -11245,7 +11245,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1265",
+    "id": "word-0866",
     "character": "怒",
     "pinyin": "nù",
     "meaning": "怒的意思",
@@ -11258,7 +11258,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1266",
+    "id": "word-0867",
     "character": "紧",
     "pinyin": "jǐn",
     "meaning": "紧的意思",
@@ -11271,7 +11271,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1267",
+    "id": "word-0868",
     "character": "胖",
     "pinyin": "pàng",
     "meaning": "胖的意思",
@@ -11284,7 +11284,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1268",
+    "id": "word-0869",
     "character": "瘦",
     "pinyin": "shòu",
     "meaning": "瘦的意思",
@@ -11297,7 +11297,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1269",
+    "id": "word-0870",
     "character": "旁",
     "pinyin": "páng",
     "meaning": "旁的意思",
@@ -11310,7 +11310,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1270",
+    "id": "word-0871",
     "character": "围",
     "pinyin": "wéi",
     "meaning": "围的意思",
@@ -11323,7 +11323,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1271",
+    "id": "word-0872",
     "character": "附",
     "pinyin": "fù",
     "meaning": "附的意思",
@@ -11336,7 +11336,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1272",
+    "id": "word-0873",
     "character": "昨",
     "pinyin": "zuó",
     "meaning": "昨的意思",
@@ -11349,7 +11349,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1273",
+    "id": "word-0874",
     "character": "凌",
     "pinyin": "líng",
     "meaning": "凌的意思",
@@ -11362,7 +11362,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1274",
+    "id": "word-0875",
     "character": "晨",
     "pinyin": "chén",
     "meaning": "晨的意思",
@@ -11375,7 +11375,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1275",
+    "id": "word-0876",
     "character": "藏",
     "pinyin": "cáng",
     "meaning": "藏的意思",
@@ -11388,7 +11388,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1276",
+    "id": "word-0877",
     "character": "考",
     "pinyin": "kǎo",
     "meaning": "考的意思",
@@ -11401,7 +11401,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1277",
+    "id": "word-0878",
     "character": "践",
     "pinyin": "jiàn",
     "meaning": "践的意思",
@@ -11414,7 +11414,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1278",
+    "id": "word-0879",
     "character": "培",
     "pinyin": "péi",
     "meaning": "培的意思",
@@ -11427,7 +11427,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1279",
+    "id": "word-0880",
     "character": "祖",
     "pinyin": "zǔ",
     "meaning": "祖的意思",
@@ -11440,7 +11440,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1280",
+    "id": "word-0881",
     "character": "护",
     "pinyin": "hù",
     "meaning": "护的意思",
@@ -11453,7 +11453,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1281",
+    "id": "word-0882",
     "character": "遵",
     "pinyin": "zūn",
     "meaning": "遵的意思",
@@ -11466,7 +11466,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1282",
+    "id": "word-0883",
     "character": "守",
     "pinyin": "shǒu",
     "meaning": "守的意思",
@@ -11479,7 +11479,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1283",
+    "id": "word-0884",
     "character": "纪",
     "pinyin": "jì",
     "meaning": "纪的意思",
@@ -11492,7 +11492,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1284",
+    "id": "word-0885",
     "character": "尊",
     "pinyin": "zūn",
     "meaning": "尊的意思",
@@ -11505,7 +11505,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1285",
+    "id": "word-0886",
     "character": "敬",
     "pinyin": "jìng",
     "meaning": "敬的意思",
@@ -11518,7 +11518,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1286",
+    "id": "word-0887",
     "character": "仔",
     "pinyin": "zǎi",
     "meaning": "仔的意思",
@@ -11531,7 +11531,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1287",
+    "id": "word-0888",
     "character": "致",
     "pinyin": "zhì",
     "meaning": "致的意思",
@@ -11540,11 +11540,11 @@
       "致词",
       "用致"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-1288",
+    "id": "word-0889",
     "character": "聚",
     "pinyin": "jù",
     "meaning": "聚的意思",
@@ -11557,7 +11557,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1289",
+    "id": "word-0890",
     "character": "苟",
     "pinyin": "gǒu",
     "meaning": "苟的意思",
@@ -11570,7 +11570,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1290",
+    "id": "word-0891",
     "character": "益",
     "pinyin": "yì",
     "meaning": "益的意思",
@@ -11583,7 +11583,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1291",
+    "id": "word-0892",
     "character": "诚",
     "pinyin": "chéng",
     "meaning": "诚的意思",
@@ -11596,7 +11596,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1292",
+    "id": "word-0893",
     "character": "谦",
     "pinyin": "qiān",
     "meaning": "谦的意思",
@@ -11609,7 +11609,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1293",
+    "id": "word-0894",
     "character": "谨",
     "pinyin": "jǐn",
     "meaning": "谨的意思",
@@ -11622,7 +11622,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1294",
+    "id": "word-0895",
     "character": "慎",
     "pinyin": "shèn",
     "meaning": "慎的意思",
@@ -11635,7 +11635,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1295",
+    "id": "word-0896",
     "character": "勤",
     "pinyin": "qín",
     "meaning": "勤的意思",
@@ -11648,7 +11648,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1296",
+    "id": "word-0897",
     "character": "刻",
     "pinyin": "kè",
     "meaning": "刻的意思",
@@ -11661,7 +11661,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1297",
+    "id": "word-0898",
     "character": "努",
     "pinyin": "nǔ",
     "meaning": "努的意思",
@@ -11674,7 +11674,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1298",
+    "id": "word-0899",
     "character": "坚",
     "pinyin": "jiān",
     "meaning": "坚的意思",
@@ -11687,7 +11687,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1299",
+    "id": "word-0900",
     "character": "懈",
     "pinyin": "xiè",
     "meaning": "懈的意思",
@@ -11700,7 +11700,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1300",
+    "id": "word-0901",
     "character": "恒",
     "pinyin": "héng",
     "meaning": "恒的意思",
@@ -11713,7 +11713,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1301",
+    "id": "word-0902",
     "character": "滴",
     "pinyin": "dī",
     "meaning": "滴的意思",
@@ -11726,7 +11726,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1302",
+    "id": "word-0903",
     "character": "互",
     "pinyin": "hù",
     "meaning": "互的意思",
@@ -11739,7 +11739,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1303",
+    "id": "word-0904",
     "character": "助",
     "pinyin": "zhù",
     "meaning": "助的意思",
@@ -11752,7 +11752,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1304",
+    "id": "word-0905",
     "character": "昧",
     "pinyin": "mèi",
     "meaning": "昧的意思",
@@ -11765,7 +11765,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1305",
+    "id": "word-0906",
     "character": "勇",
     "pinyin": "yǒng",
     "meaning": "勇的意思",
@@ -11778,7 +11778,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1306",
+    "id": "word-0907",
     "character": "环",
     "pinyin": "huán",
     "meaning": "环的意思",
@@ -11791,7 +11791,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1307",
+    "id": "word-0908",
     "character": "境",
     "pinyin": "jìng",
     "meaning": "境的意思",
@@ -11804,7 +11804,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1308",
+    "id": "word-0909",
     "character": "讲",
     "pinyin": "jiǎng",
     "meaning": "讲的意思",
@@ -11817,7 +11817,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1309",
+    "id": "word-0910",
     "character": "卫",
     "pinyin": "wèi",
     "meaning": "卫的意思",
@@ -11830,7 +11830,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1310",
+    "id": "word-0911",
     "character": "礼",
     "pinyin": "lǐ",
     "meaning": "礼的意思",
@@ -11843,7 +11843,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1311",
+    "id": "word-0912",
     "character": "貌",
     "pinyin": "mào",
     "meaning": "貌的意思",
@@ -11856,7 +11856,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1312",
+    "id": "word-0913",
     "character": "待",
     "pinyin": "dài",
     "meaning": "待的意思",
@@ -11869,7 +11869,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1313",
+    "id": "word-0914",
     "character": "孝",
     "pinyin": "xiào",
     "meaning": "孝的意思",
@@ -11882,7 +11882,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1314",
+    "id": "word-0915",
     "character": "辈",
     "pinyin": "bèi",
     "meaning": "辈的意思",
@@ -11895,7 +11895,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1315",
+    "id": "word-0916",
     "character": "兄",
     "pinyin": "xiōng",
     "meaning": "兄的意思",
@@ -11908,7 +11908,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1316",
+    "id": "word-0917",
     "character": "睦",
     "pinyin": "mù",
     "meaning": "睦的意思",
@@ -11921,7 +11921,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1317",
+    "id": "word-0918",
     "character": "邻",
     "pinyin": "lín",
     "meaning": "邻的意思",
@@ -11934,7 +11934,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1318",
+    "id": "word-0919",
     "character": "减",
     "pinyin": "jiǎn",
     "meaning": "减的意思",
@@ -11947,7 +11947,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1319",
+    "id": "word-0920",
     "character": "排",
     "pinyin": "pái",
     "meaning": "排的意思",
@@ -11960,7 +11960,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1320",
+    "id": "word-0921",
     "character": "碳",
     "pinyin": "tàn",
     "meaning": "碳的意思",
@@ -11973,7 +11973,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1321",
+    "id": "word-0922",
     "character": "续",
     "pinyin": "xù",
     "meaning": "续的意思",
@@ -11986,7 +11986,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1322",
+    "id": "word-0923",
     "character": "珍",
     "pinyin": "zhēn",
     "meaning": "珍的意思",
@@ -11999,7 +11999,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1323",
+    "id": "word-0924",
     "character": "惜",
     "pinyin": "xī",
     "meaning": "惜的意思",
@@ -12012,7 +12012,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1324",
+    "id": "word-0925",
     "character": "源",
     "pinyin": "yuán",
     "meaning": "源的意思",
@@ -12025,7 +12025,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1325",
+    "id": "word-0926",
     "character": "创",
     "pinyin": "chuàng",
     "meaning": "创的意思",
@@ -12034,11 +12034,11 @@
       "创词",
       "用创"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-1326",
+    "id": "word-0927",
     "character": "医",
     "pinyin": "yī",
     "meaning": "医的意思",
@@ -12051,7 +12051,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1327",
+    "id": "word-0928",
     "character": "疗",
     "pinyin": "liáo",
     "meaning": "疗的意思",
@@ -12064,7 +12064,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1328",
+    "id": "word-0929",
     "character": "谐",
     "pinyin": "xié",
     "meaning": "谐的意思",
@@ -12077,7 +12077,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1329",
+    "id": "word-0930",
     "character": "善",
     "pinyin": "shàn",
     "meaning": "善的意思",
@@ -12090,7 +12090,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1330",
+    "id": "word-0931",
     "character": "奉",
     "pinyin": "fèng",
     "meaning": "奉的意思",
@@ -12103,7 +12103,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1331",
+    "id": "word-0932",
     "character": "献",
     "pinyin": "xiàn",
     "meaning": "献的意思",
@@ -12116,7 +12116,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1332",
+    "id": "word-0933",
     "character": "伟",
     "pinyin": "wěi",
     "meaning": "伟的意思",
@@ -12129,7 +12129,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1333",
+    "id": "word-0934",
     "character": "富",
     "pinyin": "fù",
     "meaning": "富的意思",
@@ -12142,7 +12142,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1334",
+    "id": "word-0935",
     "character": "福",
     "pinyin": "fú",
     "meaning": "福的意思",
@@ -12155,7 +12155,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1335",
+    "id": "word-0936",
     "character": "赢",
     "pinyin": "yíng",
     "meaning": "赢的意思",
@@ -12168,7 +12168,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1336",
+    "id": "word-0937",
     "character": "协",
     "pinyin": "xié",
     "meaning": "协的意思",
@@ -12181,7 +12181,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1337",
+    "id": "word-0938",
     "character": "享",
     "pinyin": "xiǎng",
     "meaning": "享的意思",
@@ -12194,7 +12194,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1338",
+    "id": "word-0939",
     "character": "依",
     "pinyin": "yī",
     "meaning": "依的意思",
@@ -12207,7 +12207,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1339",
+    "id": "word-0940",
     "character": "策",
     "pinyin": "cè",
     "meaning": "策的意思",
@@ -12220,7 +12220,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1340",
+    "id": "word-0941",
     "character": "监",
     "pinyin": "jiān",
     "meaning": "监的意思",
@@ -12233,7 +12233,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1341",
+    "id": "word-0942",
     "character": "督",
     "pinyin": "dū",
     "meaning": "督的意思",
@@ -12246,7 +12246,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1342",
+    "id": "word-0943",
     "character": "域",
     "pinyin": "yù",
     "meaning": "域的意思",
@@ -12259,7 +12259,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1343",
+    "id": "word-0944",
     "character": "银",
     "pinyin": "yín",
     "meaning": "银的意思",
@@ -12272,7 +12272,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1344",
+    "id": "word-0945",
     "character": "险",
     "pinyin": "xiǎn",
     "meaning": "险的意思",
@@ -12281,11 +12281,11 @@
       "险词",
       "用险"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-1345",
+    "id": "word-0946",
     "character": "券",
     "pinyin": "quàn",
     "meaning": "券的意思",
@@ -12298,7 +12298,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1346",
+    "id": "word-0947",
     "character": "筑",
     "pinyin": "zhù",
     "meaning": "筑的意思",
@@ -12311,7 +12311,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1347",
+    "id": "word-0948",
     "character": "零",
     "pinyin": "líng",
     "meaning": "零的意思",
@@ -12324,7 +12324,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1348",
+    "id": "word-0949",
     "character": "售",
     "pinyin": "shòu",
     "meaning": "售的意思",
@@ -12337,7 +12337,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1349",
+    "id": "word-0950",
     "character": "批",
     "pinyin": "pī",
     "meaning": "批的意思",
@@ -12350,7 +12350,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1350",
+    "id": "word-0951",
     "character": "输",
     "pinyin": "shū",
     "meaning": "输的意思",
@@ -12363,7 +12363,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1351",
+    "id": "word-0952",
     "character": "旅",
     "pinyin": "lǚ",
     "meaning": "旅的意思",
@@ -12376,7 +12376,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1352",
+    "id": "word-0953",
     "character": "餐",
     "pinyin": "cān",
     "meaning": "餐的意思",
@@ -12389,7 +12389,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1353",
+    "id": "word-0954",
     "character": "饮",
     "pinyin": "yǐn",
     "meaning": "饮的意思",
@@ -12402,7 +12402,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1354",
+    "id": "word-0955",
     "character": "宿",
     "pinyin": "sù",
     "meaning": "宿的意思",
@@ -12415,7 +12415,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1355",
+    "id": "word-0956",
     "character": "娱",
     "pinyin": "yú",
     "meaning": "娱的意思",
@@ -12428,7 +12428,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1356",
+    "id": "word-0957",
     "character": "汽",
     "pinyin": "qì",
     "meaning": "汽的意思",
@@ -12441,7 +12441,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1357",
+    "id": "word-0958",
     "character": "航",
     "pinyin": "háng",
     "meaning": "航的意思",
@@ -12454,7 +12454,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1358",
+    "id": "word-0959",
     "character": "船",
     "pinyin": "chuán",
     "meaning": "船的意思",
@@ -12467,7 +12467,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1359",
+    "id": "word-0960",
     "character": "舶",
     "pinyin": "bó",
     "meaning": "舶的意思",
@@ -12480,7 +12480,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1360",
+    "id": "word-0961",
     "character": "防",
     "pinyin": "fáng",
     "meaning": "防的意思",
@@ -12493,7 +12493,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1361",
+    "id": "word-0962",
     "character": "煤",
     "pinyin": "méi",
     "meaning": "煤的意思",
@@ -12506,7 +12506,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1362",
+    "id": "word-0963",
     "character": "炭",
     "pinyin": "tàn",
     "meaning": "炭的意思",
@@ -12519,7 +12519,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1363",
+    "id": "word-0964",
     "character": "材",
     "pinyin": "cái",
     "meaning": "材的意思",
@@ -12528,11 +12528,11 @@
       "材词",
       "用材"
     ],
-    "category": "三年级",
-    "difficulty": 2
+    "category": "五年级",
+    "difficulty": 5
   },
   {
-    "id": "word-1364",
+    "id": "word-0965",
     "character": "循",
     "pinyin": "xún",
     "meaning": "循的意思",
@@ -12545,7 +12545,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1365",
+    "id": "word-0966",
     "character": "慧",
     "pinyin": "huì",
     "meaning": "慧的意思",
@@ -12558,7 +12558,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1366",
+    "id": "word-0967",
     "character": "城",
     "pinyin": "chéng",
     "meaning": "城的意思",
@@ -12571,7 +12571,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1367",
+    "id": "word-0968",
     "character": "芯",
     "pinyin": "xīn",
     "meaning": "芯的意思",
@@ -12584,7 +12584,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1368",
+    "id": "word-0969",
     "character": "纤",
     "pinyin": "xiān",
     "meaning": "纤的意思",
@@ -12597,7 +12597,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1369",
+    "id": "word-0970",
     "character": "储",
     "pinyin": "chǔ",
     "meaning": "储的意思",
@@ -12610,7 +12610,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1370",
+    "id": "word-0971",
     "character": "库",
     "pinyin": "kù",
     "meaning": "库的意思",
@@ -12623,7 +12623,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1371",
+    "id": "word-0972",
     "character": "操",
     "pinyin": "cāo",
     "meaning": "操的意思",
@@ -12636,7 +12636,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1372",
+    "id": "word-0973",
     "character": "测",
     "pinyin": "cè",
     "meaning": "测的意思",
@@ -12649,7 +12649,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1373",
+    "id": "word-0974",
     "character": "试",
     "pinyin": "shì",
     "meaning": "试的意思",
@@ -12662,7 +12662,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1374",
+    "id": "word-0975",
     "character": "病",
     "pinyin": "bìng",
     "meaning": "病的意思",
@@ -12675,7 +12675,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1375",
+    "id": "word-0976",
     "character": "毒",
     "pinyin": "dú",
     "meaning": "毒的意思",
@@ -12688,7 +12688,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1376",
+    "id": "word-0977",
     "character": "墙",
     "pinyin": "qiáng",
     "meaning": "墙的意思",
@@ -12701,7 +12701,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1377",
+    "id": "word-0978",
     "character": "份",
     "pinyin": "fèn",
     "meaning": "份的意思",
@@ -12714,7 +12714,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1378",
+    "id": "word-0979",
     "character": "访",
     "pinyin": "fǎng",
     "meaning": "访的意思",
@@ -12727,7 +12727,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1379",
+    "id": "word-0980",
     "character": "控",
     "pinyin": "kòng",
     "meaning": "控的意思",
@@ -12740,7 +12740,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1380",
+    "id": "word-0981",
     "character": "隐",
     "pinyin": "yǐn",
     "meaning": "隐的意思",
@@ -12753,7 +12753,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1381",
+    "id": "word-0982",
     "character": "私",
     "pinyin": "sī",
     "meaning": "私的意思",
@@ -12766,7 +12766,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1382",
+    "id": "word-0983",
     "character": "企",
     "pinyin": "qǐ",
     "meaning": "企的意思",
@@ -12779,7 +12779,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1383",
+    "id": "word-0984",
     "character": "卧",
     "pinyin": "wò",
     "meaning": "卧的意思",
@@ -12792,7 +12792,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1384",
+    "id": "word-0985",
     "character": "卨",
     "pinyin": "xiè",
     "meaning": "卨的意思",
@@ -12805,7 +12805,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1385",
+    "id": "word-0986",
     "character": "卩",
     "pinyin": "jié",
     "meaning": "卩的意思",
@@ -12818,7 +12818,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1386",
+    "id": "word-0987",
     "character": "卪",
     "pinyin": "jié",
     "meaning": "卪的意思",
@@ -12831,7 +12831,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1387",
+    "id": "word-0988",
     "character": "卫",
     "pinyin": "wèi",
     "meaning": "卫的意思",
@@ -12844,7 +12844,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1388",
+    "id": "word-0989",
     "character": "卬",
     "pinyin": "áng",
     "meaning": "卬的意思",
@@ -12857,7 +12857,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1389",
+    "id": "word-0990",
     "character": "卭",
     "pinyin": "qióng",
     "meaning": "卭的意思",
@@ -12870,7 +12870,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1390",
+    "id": "word-0991",
     "character": "卮",
     "pinyin": "zhī",
     "meaning": "卮的意思",
@@ -12883,7 +12883,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1391",
+    "id": "word-0992",
     "character": "卯",
     "pinyin": "mǎo",
     "meaning": "卯的意思",
@@ -12896,7 +12896,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1392",
+    "id": "word-0993",
     "character": "印",
     "pinyin": "yìn",
     "meaning": "印的意思",
@@ -12909,7 +12909,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1393",
+    "id": "word-0994",
     "character": "危",
     "pinyin": "wēi",
     "meaning": "危的意思",
@@ -12922,7 +12922,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1394",
+    "id": "word-0995",
     "character": "卲",
     "pinyin": "shào",
     "meaning": "卲的意思",
@@ -12935,7 +12935,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1395",
+    "id": "word-0996",
     "character": "即",
     "pinyin": "jí",
     "meaning": "即的意思",
@@ -12948,7 +12948,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1396",
+    "id": "word-0997",
     "character": "却",
     "pinyin": "què",
     "meaning": "却的意思",
@@ -12961,7 +12961,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1397",
+    "id": "word-0998",
     "character": "卵",
     "pinyin": "luǎn",
     "meaning": "卵的意思",
@@ -12974,7 +12974,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1398",
+    "id": "word-0999",
     "character": "卶",
     "pinyin": "chǐ",
     "meaning": "卶的意思",
@@ -12987,7 +12987,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1399",
+    "id": "word-1000",
     "character": "卷",
     "pinyin": "juǎn",
     "meaning": "卷的意思",
@@ -13000,7 +13000,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1400",
+    "id": "word-1001",
     "character": "卸",
     "pinyin": "xiè",
     "meaning": "卸的意思",
@@ -13013,7 +13013,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1401",
+    "id": "word-1002",
     "character": "卹",
     "pinyin": "xù",
     "meaning": "卹的意思",
@@ -13026,7 +13026,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1402",
+    "id": "word-1003",
     "character": "卺",
     "pinyin": "jǐn",
     "meaning": "卺的意思",
@@ -13039,7 +13039,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1403",
+    "id": "word-1004",
     "character": "卻",
     "pinyin": "què",
     "meaning": "卻的意思",
@@ -13052,7 +13052,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1404",
+    "id": "word-1005",
     "character": "卼",
     "pinyin": "wù",
     "meaning": "卼的意思",
@@ -13065,7 +13065,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1405",
+    "id": "word-1006",
     "character": "卽",
     "pinyin": "jí",
     "meaning": "卽的意思",
@@ -13078,7 +13078,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1406",
+    "id": "word-1007",
     "character": "卾",
     "pinyin": "è",
     "meaning": "卾的意思",
@@ -13091,7 +13091,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1407",
+    "id": "word-1008",
     "character": "卿",
     "pinyin": "qīng",
     "meaning": "卿的意思",
@@ -13104,7 +13104,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1408",
+    "id": "word-1009",
     "character": "厀",
     "pinyin": "xī",
     "meaning": "厀的意思",
@@ -13117,7 +13117,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1409",
+    "id": "word-1010",
     "character": "厁",
     "pinyin": "sān",
     "meaning": "厁的意思",
@@ -13130,7 +13130,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1410",
+    "id": "word-1011",
     "character": "厂",
     "pinyin": "chǎng",
     "meaning": "厂的意思",
@@ -13143,7 +13143,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1411",
+    "id": "word-1012",
     "character": "厃",
     "pinyin": "wěi",
     "meaning": "厃的意思",
@@ -13156,7 +13156,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1412",
+    "id": "word-1013",
     "character": "厄",
     "pinyin": "è",
     "meaning": "厄的意思",
@@ -13169,7 +13169,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1413",
+    "id": "word-1014",
     "character": "厅",
     "pinyin": "tīng",
     "meaning": "厅的意思",
@@ -13182,7 +13182,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1414",
+    "id": "word-1015",
     "character": "历",
     "pinyin": "lì",
     "meaning": "历的意思",
@@ -13195,7 +13195,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1415",
+    "id": "word-1016",
     "character": "厇",
     "pinyin": "zhé",
     "meaning": "厇的意思",
@@ -13208,7 +13208,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1416",
+    "id": "word-1017",
     "character": "厈",
     "pinyin": "hǎn",
     "meaning": "厈的意思",
@@ -13221,7 +13221,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1417",
+    "id": "word-1018",
     "character": "厉",
     "pinyin": "lì",
     "meaning": "厉的意思",
@@ -13234,7 +13234,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1418",
+    "id": "word-1019",
     "character": "厊",
     "pinyin": "yǎ",
     "meaning": "厊的意思",
@@ -13247,7 +13247,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1419",
+    "id": "word-1020",
     "character": "压",
     "pinyin": "yā",
     "meaning": "压的意思",
@@ -13260,7 +13260,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1420",
+    "id": "word-1021",
     "character": "厌",
     "pinyin": "yàn",
     "meaning": "厌的意思",
@@ -13273,7 +13273,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1421",
+    "id": "word-1022",
     "character": "厍",
     "pinyin": "shè",
     "meaning": "厍的意思",
@@ -13286,7 +13286,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1422",
+    "id": "word-1023",
     "character": "厎",
     "pinyin": "dǐ",
     "meaning": "厎的意思",
@@ -13299,7 +13299,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1423",
+    "id": "word-1024",
     "character": "厏",
     "pinyin": "zhǎ",
     "meaning": "厏的意思",
@@ -13312,7 +13312,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1424",
+    "id": "word-1025",
     "character": "厐",
     "pinyin": "páng",
     "meaning": "厐的意思",
@@ -13325,7 +13325,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1425",
+    "id": "word-1026",
     "character": "厑",
     "pinyin": "yá",
     "meaning": "厑的意思",
@@ -13338,7 +13338,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1426",
+    "id": "word-1027",
     "character": "厒",
     "pinyin": "qiè",
     "meaning": "厒的意思",
@@ -13351,7 +13351,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1427",
+    "id": "word-1028",
     "character": "厓",
     "pinyin": "yá",
     "meaning": "厓的意思",
@@ -13364,7 +13364,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1428",
+    "id": "word-1029",
     "character": "厔",
     "pinyin": "zhì",
     "meaning": "厔的意思",
@@ -13377,7 +13377,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1429",
+    "id": "word-1030",
     "character": "厕",
     "pinyin": "cè",
     "meaning": "厕的意思",
@@ -13390,7 +13390,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1430",
+    "id": "word-1031",
     "character": "厖",
     "pinyin": "páng",
     "meaning": "厖的意思",
@@ -13403,7 +13403,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1431",
+    "id": "word-1032",
     "character": "厗",
     "pinyin": "tí",
     "meaning": "厗的意思",
@@ -13416,7 +13416,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1432",
+    "id": "word-1033",
     "character": "厘",
     "pinyin": "lí",
     "meaning": "厘的意思",
@@ -13429,7 +13429,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1433",
+    "id": "word-1034",
     "character": "厙",
     "pinyin": "shè",
     "meaning": "厙的意思",
@@ -13442,7 +13442,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1434",
+    "id": "word-1035",
     "character": "厚",
     "pinyin": "hòu",
     "meaning": "厚的意思",
@@ -13455,7 +13455,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1435",
+    "id": "word-1036",
     "character": "厛",
     "pinyin": "tīng",
     "meaning": "厛的意思",
@@ -13468,7 +13468,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1436",
+    "id": "word-1037",
     "character": "厜",
     "pinyin": "zuī",
     "meaning": "厜的意思",
@@ -13481,7 +13481,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1437",
+    "id": "word-1038",
     "character": "厝",
     "pinyin": "cuò",
     "meaning": "厝的意思",
@@ -13494,7 +13494,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1438",
+    "id": "word-1039",
     "character": "厞",
     "pinyin": "fèi",
     "meaning": "厞的意思",
@@ -13507,7 +13507,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1439",
+    "id": "word-1040",
     "character": "原",
     "pinyin": "yuán",
     "meaning": "原的意思",
@@ -13520,7 +13520,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1440",
+    "id": "word-1041",
     "character": "厠",
     "pinyin": "cè",
     "meaning": "厠的意思",
@@ -13533,7 +13533,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1441",
+    "id": "word-1042",
     "character": "厡",
     "pinyin": "yuán",
     "meaning": "厡的意思",
@@ -13546,7 +13546,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1442",
+    "id": "word-1043",
     "character": "厢",
     "pinyin": "xiāng",
     "meaning": "厢的意思",
@@ -13559,7 +13559,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1443",
+    "id": "word-1044",
     "character": "厣",
     "pinyin": "yǎn",
     "meaning": "厣的意思",
@@ -13572,7 +13572,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1444",
+    "id": "word-1045",
     "character": "厤",
     "pinyin": "lì",
     "meaning": "厤的意思",
@@ -13585,7 +13585,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1445",
+    "id": "word-1046",
     "character": "厥",
     "pinyin": "jué",
     "meaning": "厥的意思",
@@ -13598,7 +13598,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1446",
+    "id": "word-1047",
     "character": "厦",
     "pinyin": "shà",
     "meaning": "厦的意思",
@@ -13611,7 +13611,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1447",
+    "id": "word-1048",
     "character": "厧",
     "pinyin": "diān",
     "meaning": "厧的意思",
@@ -13624,7 +13624,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1448",
+    "id": "word-1049",
     "character": "厨",
     "pinyin": "chú",
     "meaning": "厨的意思",
@@ -13637,7 +13637,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1449",
+    "id": "word-1050",
     "character": "厩",
     "pinyin": "jiù",
     "meaning": "厩的意思",
@@ -13650,7 +13650,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1450",
+    "id": "word-1051",
     "character": "厪",
     "pinyin": "jǐn",
     "meaning": "厪的意思",
@@ -13663,7 +13663,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1451",
+    "id": "word-1052",
     "character": "厫",
     "pinyin": "áo",
     "meaning": "厫的意思",
@@ -13676,7 +13676,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1452",
+    "id": "word-1053",
     "character": "厬",
     "pinyin": "guǐ",
     "meaning": "厬的意思",
@@ -13689,7 +13689,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1453",
+    "id": "word-1054",
     "character": "厭",
     "pinyin": "yàn",
     "meaning": "厭的意思",
@@ -13702,7 +13702,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1454",
+    "id": "word-1055",
     "character": "厮",
     "pinyin": "sī",
     "meaning": "厮的意思",
@@ -13715,7 +13715,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1455",
+    "id": "word-1056",
     "character": "厯",
     "pinyin": "lì",
     "meaning": "厯的意思",
@@ -13728,7 +13728,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1456",
+    "id": "word-1057",
     "character": "厰",
     "pinyin": "chǎng",
     "meaning": "厰的意思",
@@ -13741,7 +13741,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1457",
+    "id": "word-1058",
     "character": "厱",
     "pinyin": "lán",
     "meaning": "厱的意思",
@@ -13754,7 +13754,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1458",
+    "id": "word-1059",
     "character": "厲",
     "pinyin": "lì",
     "meaning": "厲的意思",
@@ -13767,7 +13767,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1459",
+    "id": "word-1060",
     "character": "厳",
     "pinyin": "yán",
     "meaning": "厳的意思",
@@ -13780,7 +13780,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1460",
+    "id": "word-1061",
     "character": "厴",
     "pinyin": "yǎn",
     "meaning": "厴的意思",
@@ -13793,7 +13793,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1461",
+    "id": "word-1062",
     "character": "厵",
     "pinyin": "yuán",
     "meaning": "厵的意思",
@@ -13806,7 +13806,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1462",
+    "id": "word-1063",
     "character": "厶",
     "pinyin": "sī",
     "meaning": "厶的意思",
@@ -13819,7 +13819,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1463",
+    "id": "word-1064",
     "character": "厷",
     "pinyin": "gōng",
     "meaning": "厷的意思",
@@ -13832,7 +13832,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1464",
+    "id": "word-1065",
     "character": "厸",
     "pinyin": "lín",
     "meaning": "厸的意思",
@@ -13845,7 +13845,7 @@
     "difficulty": 2
   },
   {
-    "id": "word-1465",
+    "id": "word-1066",
     "character": "厹",
     "pinyin": "róu",
     "meaning": "厹的意思",
