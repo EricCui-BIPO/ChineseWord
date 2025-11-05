@@ -43,11 +43,26 @@
           </svg>
         </div>
 
-        <div class="text-4xl md:text-5xl lg:text-6xl font-bold text-elsa-blue-600 mb-1 md:mb-2 text-center">
+        <div class="text-4xl md:text-5xl lg:text-6xl font-bold text-elsa-blue-600 mb-2 md:mb-3 text-center">
           {{ idiom.text }}
         </div>
-        <div class="text-xs md:text-sm text-elsa-purple-500 opacity-70">
-          点击翻转卡片
+
+        <!-- 拼音 - 正面显示 -->
+        <div class="mb-2 px-4 py-2 bg-elsa-blue-100 rounded-lg border border-elsa-blue-300">
+          <div class="text-lg md:text-xl font-bold text-elsa-blue-700">
+            {{ idiom.pinyin }}
+          </div>
+        </div>
+
+        <!-- 简要释义 - 正面显示 -->
+        <div class="px-4 py-2 max-w-sm text-center">
+          <div class="text-sm md:text-base text-elsa-purple-700 font-semibold line-clamp-2">
+            {{ idiom.meaning }}
+          </div>
+        </div>
+
+        <div class="text-xs md:text-sm text-elsa-purple-500 opacity-70 mt-2">
+          点击翻转查看详情
         </div>
       </div>
       

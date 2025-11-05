@@ -43,11 +43,30 @@
           </svg>
         </div>
 
-        <div class="text-5xl md:text-6xl lg:text-7xl font-bold text-elsa-blue-600 mb-1 md:mb-2">
+        <div class="text-5xl md:text-6xl lg:text-7xl font-bold text-elsa-blue-600 mb-2 md:mb-3">
           {{ word.character }}
         </div>
-        <div class="text-xs md:text-sm text-elsa-purple-500 opacity-70">
-          点击翻转卡片
+
+        <!-- 拼音 - 正面显示 -->
+        <div class="mb-2 px-4 py-2 bg-elsa-blue-100 rounded-lg border border-elsa-blue-300">
+          <div class="text-xl md:text-2xl font-bold text-elsa-blue-700">
+            {{ word.pinyin }}
+          </div>
+        </div>
+
+        <!-- 组词预览 - 正面显示前3个 -->
+        <div v-if="word.words && word.words.length > 0" class="flex gap-2 flex-wrap justify-center mb-2">
+          <span
+            v-for="(w, index) in word.words.slice(0, 3)"
+            :key="index"
+            class="px-3 py-1 bg-blue-400 text-white rounded-full text-sm font-semibold"
+          >
+            {{ w }}
+          </span>
+        </div>
+
+        <div class="text-xs md:text-sm text-elsa-purple-500 opacity-70 mt-2">
+          点击翻转查看详情
         </div>
       </div>
       
