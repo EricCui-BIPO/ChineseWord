@@ -1,8 +1,8 @@
 import { defineStore } from 'pinia'
-import { ref, computed } from 'vue'
+import { computed } from 'vue'
 import type { Progress } from '@/types/word'
 import { useStorage } from '@/composables/useStorage'
-import wordsData from '@/data/words.json'
+import { ALL_WORDS_DATA } from "@/data/allWord";
 
 export const useProgressStore = defineStore('progress', () => {
   // 使用本地存储保存进度
@@ -90,7 +90,7 @@ export const useProgressStore = defineStore('progress', () => {
   const stats = computed(() => {
     const allProgress = Object.values(progressMap.value)
     return {
-      total: (wordsData as any[]).length, // 词库中的总字数
+      total: (ALL_WORDS_DATA as any[]).length, // 词库中的总字数
       mastered: allProgress.filter(p => p.mastered).length, // 已掌握的字数
       totalReviews: allProgress.reduce((sum, p) => sum + p.reviewed, 0) // 复习总次数
     }

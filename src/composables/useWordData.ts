@@ -1,12 +1,12 @@
 import { ref, computed } from 'vue'
 import type { Word } from '@/types/word'
-import { mergeAllGradesData } from '@/data/allWord'
+import { ALL_WORDS_DATA } from '@/data/allWord'
 
 /**
  * 汉字数据管理 composable
  */
 export function useWordData() {
-  const words = ref<Word[]>(mergeAllGradesData() as Word[])
+  const words = ref<Word[]>(ALL_WORDS_DATA as Word[])
   const currentWordIndex = ref(0)
 
   // 返回所有汉字（不再按分类过滤）
