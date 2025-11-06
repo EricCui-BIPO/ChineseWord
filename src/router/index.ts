@@ -50,6 +50,12 @@ const routes: RouteRecordRaw[] = [
     path: '/snake',
     name: 'Snake',
     component: () => import('@/views/SnakeGame.vue')
+  },
+  // 抓娃娃游戏路由
+  {
+    path: '/claw-machine',
+    name: 'ClawMachine',
+    component: () => import('@/views/ClawMachineGame.vue')
   }
 ]
 

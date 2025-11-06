@@ -112,6 +112,28 @@
             进入贪吃蛇 →
           </router-link>
         </div>
+
+        <!-- 抓娃娃游戏入口 -->
+        <div
+          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
+        >
+          <!-- 冰晶闪烁装饰 -->
+          <div class="absolute top-4 right-4 w-6 h-6 text-pink-300 opacity-70">
+            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 2.8s ease-in-out infinite 0.8s">
+              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
+            </svg>
+          </div>
+
+          <div class="text-6xl mb-4">🧸</div>
+          <h3 class="text-xl font-bold text-pink-600 mb-4">抓娃娃机</h3>
+          <p class="text-gray-600 mb-6">抓可爱娃娃，收集你的宝贝</p>
+          <router-link
+            to="/claw-machine"
+            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
+          >
+            进入抓娃娃 →
+          </router-link>
+        </div>
       </div>
     </div>
   </div>
