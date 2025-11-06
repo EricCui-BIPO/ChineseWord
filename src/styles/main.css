@@ -32,7 +32,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: 
+  background-image:
     radial-gradient(circle at 20% 50%, rgba(255, 255, 255, 0.3) 0%, transparent 50%),
     radial-gradient(circle at 80% 80%, rgba(255, 255, 255, 0.2) 0%, transparent 50%);
   pointer-events: none;
@@ -74,7 +74,7 @@ body {
   right: 0;
   bottom: 0;
   width: 100%;
-  min-height: 450px;
+  /*min-height: 450px;*/
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
@@ -87,7 +87,7 @@ body {
 @media (min-width: 768px) {
   .card-front,
   .card-back {
-    min-height: 520px;
+    /*min-height: 520px;*/
   }
 }
 

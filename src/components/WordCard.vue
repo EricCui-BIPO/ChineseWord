@@ -48,21 +48,44 @@
         </div>
 
         <!-- 拼音 - 正面显示 -->
-        <div class="mb-2 px-4 py-2 bg-elsa-blue-100 rounded-lg border border-elsa-blue-300">
+        <div class="mb-3 px-4 py-2 bg-elsa-blue-100 rounded-lg border border-elsa-blue-300">
           <div class="text-xl md:text-2xl font-bold text-elsa-blue-700">
             {{ word.pinyin }}
           </div>
         </div>
 
-        <!-- 组词预览 - 正面显示前3个 -->
-        <div v-if="word.words && word.words.length > 0" class="flex gap-2 flex-wrap justify-center mb-2">
-          <span
-            v-for="(w, index) in word.words.slice(0, 3)"
-            :key="index"
-            class="px-3 py-1 bg-blue-400 text-white rounded-full text-sm font-semibold"
-          >
-            {{ w }}
-          </span>
+        <!-- 组词和意思容器 -->
+        <div class="w-full max-w-sm mb-3 space-y-3">
+          <!-- 组词标题和内容 -->
+          <div v-if="word.words && word.words.length > 0">
+            <div class="text-xs font-bold text-elsa-blue-700 mb-2.5 flex items-center gap-1.5 px-1">
+              <span class="text-sm">✏️</span>
+              <span>组词示例</span>
+            </div>
+            <div class="flex gap-2 flex-wrap justify-center">
+              <span
+                v-for="(w, index) in word.words.slice(0, 3)"
+                :key="index"
+                class="px-3.5 py-1.5 bg-blue-500 hover:bg-blue-600 text-white rounded-full text-xs font-semibold shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
+              >
+                {{ w }}
+              </span>
+            </div>
+          </div>
+
+          <!-- 意思标题和内容 -->
+          <div class="relative">
+            <div class="absolute -left-3 top-1/2 transform -translate-y-1/2 w-1 h-8 bg-gradient-to-b from-elsa-purple-400 to-pink-400 rounded-full"></div>
+            <div class="bg-white rounded-xl border border-elsa-purple-100 p-4 shadow-sm hover:shadow-md transition-shadow">
+              <div class="text-xs font-bold text-elsa-purple-700 mb-1.5 flex items-center gap-1">
+                <span>📝</span>
+                <span>字义解释</span>
+              </div>
+              <div class="text-sm text-elsa-purple-900 leading-relaxed text-center font-medium">
+                {{ word.meaning }}
+              </div>
+            </div>
+          </div>
         </div>
 
         <div class="text-xs md:text-sm text-elsa-purple-500 opacity-70 mt-2">
@@ -85,11 +108,15 @@
           </div>
         </div>
 
-        <!-- 意思 - 优化显示 -->
-        <div class="w-full max-w-md mb-5 px-4 py-4 bg-gradient-to-r from-elsa-purple-100 to-pink-100 rounded-xl border-2 border-elsa-purple-300 text-center shadow-md">
-          <div class="text-xs text-elsa-purple-600 font-semibold mb-2">📝 意思</div>
-          <div class="text-lg md:text-xl text-elsa-purple-800 font-semibold leading-relaxed">
+        <!-- 意思 - 增强显示 -->
+        <div class="w-full max-w-md mb-5 px-4 py-4 bg-gradient-to-br from-elsa-purple-100 via-pink-100 to-rose-100 rounded-xl border-2 border-elsa-purple-400 text-center shadow-lg hover:shadow-xl transition-shadow">
+          <div class="text-xs text-elsa-purple-600 font-bold mb-2 tracking-widest uppercase">📝 汉字意思</div>
+          <div class="text-lg md:text-2xl text-elsa-purple-900 font-bold leading-relaxed break-words">
             {{ word.meaning }}
+          </div>
+          <!-- 意思补充说明（如果需要） -->
+          <div class="text-xs text-elsa-purple-500 mt-2 opacity-75">
+            💡 这是{{ word.character }}字的基本含义
           </div>
         </div>
 
