@@ -206,7 +206,7 @@ export function getDataSummary() {
  * @returns 数据条数
  */
 export function getGradeOneCount(): number {
-  return DATA_GRADE_ONE.length
+  return ALL_WORDS_DATA.length
 }
 
 /**
