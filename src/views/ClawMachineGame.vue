@@ -51,22 +51,22 @@
       </div>
 
       <!-- 抓娃娃机主体 -->
-      <div class="word-card rounded-2xl p-4 sm:p-6 md:p-8 mb-4 sm:mb-6">
+      <div class="word-card rounded-2xl p-2 sm:p-4 md:p-8 mb-4 sm:mb-6">
         <!-- 机器容器 -->
-        <div class="relative mx-auto bg-gradient-to-b from-pink-100 to-pink-200 rounded-2xl overflow-hidden shadow-2xl"
-             style="max-width: 600px; height: 500px; border: 8px solid #ec4899;">
+        <div class="relative mx-auto bg-gradient-to-b from-pink-100 to-pink-200 rounded-2xl overflow-hidden shadow-2xl claw-machine-container"
+             style="max-width: 600px; width: 100%; border: 8px solid #ec4899;">
 
           <!-- 顶部装饰 -->
-          <div class="absolute top-0 left-0 right-0 h-12 bg-gradient-to-r from-pink-400 via-purple-400 to-pink-400 flex items-center justify-center">
-            <span class="text-white font-bold text-lg">✨ 抓娃娃 ✨</span>
+          <div class="absolute top-0 left-0 right-0 h-10 sm:h-12 bg-gradient-to-r from-pink-400 via-purple-400 to-pink-400 flex items-center justify-center">
+            <span class="text-white font-bold text-base sm:text-lg">✨ 抓娃娃 ✨</span>
           </div>
 
           <!-- 爪子轨道 -->
-          <div class="absolute top-12 left-0 right-0 h-2 bg-gray-400"></div>
+          <div class="absolute claw-track left-0 right-0 h-2 bg-gray-400"></div>
 
           <!-- 爪子 -->
           <div
-            class="absolute top-12 claw-container transition-all duration-200"
+            class="absolute claw-track claw-container transition-all duration-200"
             :style="{
               left: `${clawStore.clawPosition}%`,
               transform: `translateX(-50%) translateY(${clawYOffset}px)`
@@ -76,13 +76,13 @@
             <div class="w-1 bg-gray-600 mx-auto" :style="{ height: `${clawLineHeight}px` }"></div>
 
             <!-- 爪子 -->
-            <div class="claw text-4xl" :class="clawAnimationClass">
+            <div class="claw claw-emoji" :class="clawAnimationClass">
               {{ clawState === 'grabbing' || clawState === 'moving-up' || clawState === 'returning' ? '✊' : '🤚' }}
             </div>
 
             <!-- 被抓住的娃娃 -->
             <div v-if="clawStore.grabbedPrize && (clawState === 'moving-up' || clawState === 'returning')"
-                 class="absolute top-12 left-1/2 transform -translate-x-1/2 text-3xl animate-swing">
+                 class="absolute grabbed-prize left-1/2 transform -translate-x-1/2 animate-swing">
               {{ clawStore.grabbedPrize.emoji }}
             </div>
           </div>
@@ -115,9 +115,9 @@
         </div>
 
         <!-- 控制面板 -->
-        <div class="mt-6 flex flex-col items-center gap-4">
+        <div class="mt-4 sm:mt-6 flex flex-col items-center gap-3 sm:gap-4">
           <!-- 方向控制 -->
-          <div class="flex gap-4">
+          <div class="flex gap-3 sm:gap-4 flex-wrap justify-center">
             <button
               @mousedown="startMoveLeft"
               @mouseup="stopMove"
@@ -127,7 +127,7 @@
               :disabled="clawStore.isPlaying"
               class="control-btn-large"
             >
-              ⬅️ 左移
+              ⬅️ <span class="hidden xs:inline">左移</span>
             </button>
 
             <button
@@ -147,12 +147,12 @@
               :disabled="clawStore.isPlaying"
               class="control-btn-large"
             >
-              右移 ➡️
+              <span class="hidden xs:inline">右移</span> ➡️
             </button>
           </div>
 
           <!-- 提示信息 -->
-          <div v-if="clawStore.coins < clawStore.COST_PER_PLAY" class="text-red-600 font-semibold text-sm">
+          <div v-if="clawStore.coins < clawStore.COST_PER_PLAY" class="text-red-600 font-semibold text-xs sm:text-sm text-center px-4">
             ⚠️ 游戏币不足！每60秒自动赠送1币
           </div>
         </div>
@@ -454,6 +454,34 @@ onUnmounted(() => {
 </script>
 
 <style scoped>
+/* 抓娃娃机容器 - 响应式高度 */
+.claw-machine-container {
+  height: 500px;
+}
+
+@media (max-width: 640px) {
+  .claw-machine-container {
+    height: 420px;
+  }
+}
+
+@media (max-width: 400px) {
+  .claw-machine-container {
+    height: 360px;
+  }
+}
+
+/* 爪子轨道位置 - 响应式 */
+.claw-track {
+  top: 48px;
+}
+
+@media (max-width: 640px) {
+  .claw-track {
+    top: 40px;
+  }
+}
+
 .claw-container {
   position: absolute;
   z-index: 10;
@@ -465,6 +493,43 @@ onUnmounted(() => {
   filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3));
 }
 
+/* 爪子表情响应式大小 */
+.claw-emoji {
+  font-size: 2.5rem;
+}
+
+@media (max-width: 640px) {
+  .claw-emoji {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .claw-emoji {
+    font-size: 1.75rem;
+  }
+}
+
+/* 被抓住的娃娃位置 */
+.grabbed-prize {
+  top: 48px;
+  font-size: 2rem;
+}
+
+@media (max-width: 640px) {
+  .grabbed-prize {
+    top: 40px;
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .grabbed-prize {
+    top: 36px;
+    font-size: 1.5rem;
+  }
+}
+
 .prize-item {
   cursor: default;
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
@@ -472,21 +537,27 @@ onUnmounted(() => {
 }
 
 .control-btn-large {
-  padding: 12px 24px;
-  border-radius: 12px;
+  padding: 14px 28px;
+  border-radius: 14px;
   background: linear-gradient(to bottom right, #3b82f6, #2563eb);
   color: white;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   border: none;
   box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
   transition: all 0.2s;
   cursor: pointer;
   min-width: 100px;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
 }
 
 .control-btn-large:active:not(:disabled) {
-  transform: scale(0.95);
+  transform: scale(0.92);
   box-shadow: 0 2px 4px -1px rgb(0 0 0 / 0.1);
 }
 
@@ -507,10 +578,12 @@ onUnmounted(() => {
   transition: all 0.2s;
   cursor: pointer;
   min-width: 140px;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 .control-btn-grab:active:not(:disabled) {
-  transform: scale(0.95);
+  transform: scale(0.92);
   box-shadow: 0 3px 5px -1px rgb(0 0 0 / 0.2);
 }
 
@@ -518,6 +591,35 @@ onUnmounted(() => {
   opacity: 0.6;
   cursor: not-allowed;
   background: linear-gradient(to bottom right, #9ca3af, #6b7280);
+}
+
+/* 移动端按钮优化 */
+@media (max-width: 640px) {
+  .control-btn-large {
+    padding: 12px 20px;
+    font-size: 16px;
+    min-width: 80px;
+  }
+
+  .control-btn-grab {
+    padding: 14px 24px;
+    font-size: 16px;
+    min-width: 120px;
+  }
+}
+
+@media (max-width: 400px) {
+  .control-btn-large {
+    padding: 10px 16px;
+    font-size: 20px;
+    min-width: 60px;
+  }
+
+  .control-btn-grab {
+    padding: 12px 20px;
+    font-size: 15px;
+    min-width: 100px;
+  }
 }
 
 @keyframes swing {

@@ -52,33 +52,36 @@
       </div>
 
       <!-- 游戏板 -->
-      <div class="word-card rounded-2xl p-4 sm:p-6 md:p-8 mb-4 sm:mb-6">
-        <div class="flex justify-center">
-          <div
-            class="game-board bg-gradient-to-br from-green-50 to-green-100 rounded-lg shadow-inner"
-            :style="{
-              gridTemplateColumns: `repeat(${snakeStore.GRID_SIZE}, 1fr)`,
-              width: boardSize,
-              height: boardSize
-            }"
-          >
-            <!-- 渲染每个格子 -->
+      <div class="word-card rounded-2xl p-2 sm:p-4 md:p-8 mb-4 sm:mb-6">
+        <div class="flex justify-center items-center">
+          <!-- 使用容器限制最大宽度，同时保持响应式 -->
+          <div class="w-full max-w-md">
             <div
-              v-for="y in snakeStore.GRID_SIZE"
-              :key="`row-${y}`"
-              class="contents"
+              class="game-board bg-gradient-to-br from-green-50 to-green-100 rounded-lg shadow-inner mx-auto"
+              :style="{
+                gridTemplateColumns: `repeat(${snakeStore.GRID_SIZE}, 1fr)`,
+                width: '100%',
+                aspectRatio: '1 / 1'
+              }"
             >
+              <!-- 渲染每个格子 -->
               <div
-                v-for="x in snakeStore.GRID_SIZE"
-                :key="`cell-${x}-${y}`"
-                :class="getCellClass(x - 1, y - 1)"
-                class="cell"
+                v-for="y in snakeStore.GRID_SIZE"
+                :key="`row-${y}`"
+                class="contents"
               >
-                <!-- 食物 -->
-                <div v-if="isFoodCell(x - 1, y - 1)" class="food">🍎</div>
-                <!-- 蛇头 -->
-                <div v-else-if="isSnakeHead(x - 1, y - 1)" class="snake-head">
-                  {{ getSnakeHeadEmoji() }}
+                <div
+                  v-for="x in snakeStore.GRID_SIZE"
+                  :key="`cell-${x}-${y}`"
+                  :class="getCellClass(x - 1, y - 1)"
+                  class="cell"
+                >
+                  <!-- 食物 -->
+                  <div v-if="isFoodCell(x - 1, y - 1)" class="food">🍎</div>
+                  <!-- 蛇头 -->
+                  <div v-else-if="isSnakeHead(x - 1, y - 1)" class="snake-head">
+                    {{ getSnakeHeadEmoji() }}
+                  </div>
                 </div>
               </div>
             </div>
@@ -86,8 +89,8 @@
         </div>
 
         <!-- 移动端控制按钮 -->
-        <div class="mt-6 flex justify-center sm:hidden">
-          <div class="grid grid-cols-3 gap-2 w-48">
+        <div class="mt-4 sm:mt-6 flex justify-center md:hidden">
+          <div class="grid grid-cols-3 gap-3 w-64">
             <div></div>
             <button
               @click="handleDirection('up')"
@@ -251,13 +254,6 @@ const snakeStore = useSnakeStore()
 const showStatsReset = ref(false)
 const gameStarted = ref(false)
 let gameInterval: number | null = null
-
-// 计算游戏板大小（响应式）
-const boardSize = computed(() => {
-  if (window.innerWidth < 400) return '300px'
-  if (window.innerWidth < 640) return '350px'
-  return '400px'
-})
 
 // 判断是否是食物格子
 const isFoodCell = (x: number, y: number): boolean => {
@@ -447,26 +443,40 @@ onUnmounted(() => {
 
 /* 控制按钮样式 */
 .control-btn {
-  width: 56px;
-  height: 56px;
-  border-radius: 12px;
+  width: 64px;
+  height: 64px;
+  border-radius: 16px;
   background: linear-gradient(to bottom right, #3b82f6, #2563eb);
   color: white;
-  font-size: 24px;
+  font-size: 28px;
   border: none;
   box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
   transition: all 0.2s;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 .control-btn:active:not(:disabled) {
-  transform: scale(0.95);
+  transform: scale(0.92);
   box-shadow: 0 2px 4px -1px rgb(0 0 0 / 0.1);
 }
 
 .control-btn:disabled {
   opacity: 0.5;
   cursor: not-allowed;
+}
+
+/* 移动端优化 */
+@media (max-width: 400px) {
+  .control-btn {
+    width: 56px;
+    height: 56px;
+    font-size: 24px;
+  }
 }
 
 /* 响应式调整 */
