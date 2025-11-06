@@ -44,6 +44,12 @@ const routes: RouteRecordRaw[] = [
     path: '/gomoku',
     name: 'Gomoku',
     component: () => import('@/views/GomokuGame.vue')
+  },
+  // 贪吃蛇游戏路由
+  {
+    path: '/snake',
+    name: 'Snake',
+    component: () => import('@/views/SnakeGame.vue')
   }
 ]
 
