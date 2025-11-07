@@ -114,50 +114,49 @@
         </div>
 
         <!-- 贪吃蛇游戏入口 -->
-        <div
-          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
-        >
-          <!-- 冰晶闪烁装饰 -->
-          <div class="absolute top-4 left-4 w-6 h-6 text-green-300 opacity-70">
-            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 3s ease-in-out infinite 1.5s">
-              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
-            </svg>
-          </div>
+<!--        <div-->
+<!--          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"-->
+<!--        >-->
+<!--          &lt;!&ndash; 冰晶闪烁装饰 &ndash;&gt;-->
+<!--          <div class="absolute top-4 left-4 w-6 h-6 text-green-300 opacity-70">-->
+<!--            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 3s ease-in-out infinite 1.5s">-->
+<!--              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>-->
+<!--            </svg>-->
+<!--          </div>-->
 
-          <div class="text-6xl mb-4">🐍</div>
-          <h3 class="text-xl font-bold text-green-600 mb-4">贪吃蛇游戏</h3>
-          <p class="text-gray-600 mb-6">经典贪吃蛇，挑战最高分</p>
-          <router-link
-            to="/snake"
-            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
-          >
-            进入贪吃蛇 →
-          </router-link>
-        </div>
+<!--          <div class="text-6xl mb-4">🐍</div>-->
+<!--          <h3 class="text-xl font-bold text-green-600 mb-4">贪吃蛇游戏</h3>-->
+<!--          <p class="text-gray-600 mb-6">经典贪吃蛇，挑战最高分</p>-->
+<!--          <router-link-->
+<!--            to="/snake"-->
+<!--            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"-->
+<!--          >-->
+<!--            进入贪吃蛇 →-->
+<!--          </router-link>-->
+<!--        </div>-->
 
         <!-- 抓娃娃游戏入口 -->
-        <div
-          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
-        >
-          <!-- 冰晶闪烁装饰 -->
-          <div class="absolute top-4 right-4 w-6 h-6 text-pink-300 opacity-70">
-            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 2.8s ease-in-out infinite 0.8s">
-              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
-            </svg>
-          </div>
+<!--        <div-->
+<!--          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"-->
+<!--        >-->
+<!--          &lt;!&ndash; 冰晶闪烁装饰 &ndash;&gt;-->
+<!--          <div class="absolute top-4 right-4 w-6 h-6 text-pink-300 opacity-70">-->
+<!--            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 2.8s ease-in-out infinite 0.8s">-->
+<!--              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>-->
+<!--            </svg>-->
+<!--          </div>-->
 
-          <div class="text-6xl mb-4">🧸</div>
-          <h3 class="text-xl font-bold text-pink-600 mb-4">抓娃娃机</h3>
-          <p class="text-gray-600 mb-6">抓可爱娃娃，收集你的宝贝</p>
-          <router-link
-            to="/claw-machine"
-            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
-          >
-            进入抓娃娃 →
-          </router-link>
-        </div>
-
-        <!-- 打地鼠游戏入口 -->
+<!--          <div class="text-6xl mb-4">🧸</div>-->
+<!--          <h3 class="text-xl font-bold text-pink-600 mb-4">抓娃娃机</h3>-->
+<!--          <p class="text-gray-600 mb-6">抓可爱娃娃，收集你的宝贝</p>-->
+<!--          <router-link-->
+<!--            to="/claw-machine"-->
+<!--            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"-->
+<!--          >-->
+<!--            进入抓娃娃 →-->
+<!--          </router-link>-->
+<!--        </div>-->
+        <!-- 数学打地鼠入口 -->
         <div
           class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
         >
@@ -168,17 +167,16 @@
             </svg>
           </div>
 
-          <div class="text-6xl mb-4">🐭</div>
+          <div class="text-6xl mb-4">🔢</div>
           <h3 class="text-xl font-bold text-orange-600 mb-4">数学打地鼠</h3>
-          <p class="text-gray-600 mb-6">快速回答数学题，锻炼反应力</p>
+          <p class="text-gray-600 mb-6">趣味数学，加减法练习</p>
           <router-link
-            to="/whack-a-mole"
+            to="/math-mole"
             class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
           >
             进入打地鼠 →
           </router-link>
         </div>
-
       </div>
     </div>
   </div>
