@@ -132,17 +132,20 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, watch, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useWhackAMoleStore } from '../stores/whackAMoleStore'
 import { useGameLoop } from '../composables/useGameLoop'
 import GameBoard from './GameBoard.vue'
-import { type DifficultyLevel, type MoleInstance } from '../types/whackAMole'
+import { type DifficultyLevel, type MoleInstance, GAME_DURATION, MOLE_POP_RATES } from '../types/whackAMole'
 
 const router = useRouter()
 const store = useWhackAMoleStore()
 
 const selectedDifficulty = ref<DifficultyLevel>('medium')
+let gameLoopInstance: ReturnType<typeof useGameLoop> | null = null
+let moleSpawnTimerId: number | null = null
+let lastMoleSpawnTime = 0
 
 const isNewBestScore = computed(
   () => store.status === 'finished' && store.score.current > store.score.best,
@@ -157,16 +160,96 @@ const getDifficultyLabel = (difficulty: string): string => {
   return labels[difficulty] || difficulty
 }
 
+const spawnMole = () => {
+  if (store.status !== 'playing') return
+
+  // Get random available hole
+  const usedHoles = new Set(store.activeMoles.map(m => m.holeIndex))
+  const availableHoles = Array.from({ length: store.moleGridSize }, (_, i) => i).filter(
+    i => !usedHoles.has(i)
+  )
+
+  if (availableHoles.length === 0) return
+
+  const holeIndex = availableHoles[Math.floor(Math.random() * availableHoles.length)]
+  const problem = store.getRandomProblem(store.currentLevel)
+
+  const mole: MoleInstance = {
+    id: `mole-${Date.now()}-${Math.random()}`,
+    holeIndex,
+    problem,
+    isActive: true,
+    createdAt: Date.now(),
+    animationState: 'popping',
+  }
+
+  store.addMole(mole)
+
+  // Auto-dismiss mole after 3 seconds if not tapped
+  setTimeout(() => {
+    if (store.activeMoles.some(m => m.id === mole.id)) {
+      mole.animationState = 'dismissing'
+      setTimeout(() => {
+        store.removeMole(mole.id)
+      }, 150)
+    }
+  }, 3000)
+
+  // Change to idle animation after pop
+  setTimeout(() => {
+    if (store.activeMoles.some(m => m.id === mole.id)) {
+      mole.animationState = 'idle'
+    }
+  }, 300)
+}
+
+const startMoleSpawning = () => {
+  lastMoleSpawnTime = Date.now()
+  const spawnMoles = () => {
+    if (store.status !== 'playing') {
+      moleSpawnTimerId = null
+      return
+    }
+
+    const now = Date.now()
+    const popRate = MOLE_POP_RATES[store.currentLevel] || 1
+    const spawnInterval = (1 / popRate) * 1000
+
+    if (now - lastMoleSpawnTime > spawnInterval) {
+      spawnMole()
+      lastMoleSpawnTime = now
+    }
+
+    moleSpawnTimerId = window.setTimeout(spawnMoles, 100)
+  }
+  spawnMoles()
+}
+
+const stopMoleSpawning = () => {
+  if (moleSpawnTimerId !== null) {
+    clearTimeout(moleSpawnTimerId)
+    moleSpawnTimerId = null
+  }
+}
+
 const handleStartGame = () => {
   const gridSize = window.innerWidth < 640 ? 6 : window.innerWidth < 1024 ? 8 : 9
   store.startGame(gridSize, selectedDifficulty.value)
 
   // Start game loop
-  useGameLoop({
+  gameLoopInstance = useGameLoop({
     onGameEndCallback: () => {
-      // Game will end automatically via timer
+      stopMoleSpawning()
     },
   })
+
+  // Explicitly start the loop
+  if (gameLoopInstance) {
+    gameLoopInstance.startLoop()
+  }
+
+  // Start mole spawning
+  startMoleSpawning()
 }
 
 const handleMoleTap = (mole: MoleInstance, selectedAnswerId: string) => {
@@ -180,11 +263,19 @@ const handleMoleTap = (mole: MoleInstance, selectedAnswerId: string) => {
 }
 
 const handleRetry = () => {
+  stopMoleSpawning()
+  if (gameLoopInstance) {
+    gameLoopInstance.stopLoop()
+  }
   store.resetGame()
   selectedDifficulty.value = 'medium'
 }
 
 const handleQuit = () => {
+  stopMoleSpawning()
+  if (gameLoopInstance) {
+    gameLoopInstance.stopLoop()
+  }
   store.resetGame()
   router.push('/')
 }
@@ -200,6 +291,14 @@ onMounted(() => {
   window.addEventListener('resize', handleResize)
 })
 
+onUnmounted(() => {
+  stopMoleSpawning()
+  if (gameLoopInstance) {
+    gameLoopInstance.stopLoop()
+  }
+  window.removeEventListener('resize', handleResize)
+})
+
 const handleResize = () => {
   if (store.status === 'playing') {
     const newGridSize = window.innerWidth < 640 ? 6 : window.innerWidth < 1024 ? 8 : 9
@@ -208,6 +307,21 @@ const handleResize = () => {
     }
   }
 }
+
+// Watch for pause/resume
+watch(() => store.status, (newStatus, oldStatus) => {
+  if (newStatus === 'playing' && oldStatus === 'paused') {
+    startMoleSpawning()
+    if (gameLoopInstance) {
+      gameLoopInstance.startLoop()
+    }
+  } else if (newStatus === 'paused' && oldStatus === 'playing') {
+    stopMoleSpawning()
+    if (gameLoopInstance) {
+      gameLoopInstance.stopLoop()
+    }
+  }
+})
 </script>
 
 <style scoped lang="css">
