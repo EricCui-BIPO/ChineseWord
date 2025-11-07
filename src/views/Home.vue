@@ -47,6 +47,28 @@
           </router-link>
         </div>
 
+        <!-- 词语学习入口 -->
+        <div
+          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
+        >
+          <!-- 冰晶闪烁装饰 -->
+          <div class="absolute top-4 left-4 w-6 h-6 text-blue-300 opacity-70">
+            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 2.6s ease-in-out infinite 0.3s">
+              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
+            </svg>
+          </div>
+
+          <div class="text-6xl mb-4">📚</div>
+          <h3 class="text-xl font-bold text-blue-600 mb-4">词语学习</h3>
+          <p class="text-gray-600 mb-6">学习1000个小学常用词汇</p>
+          <router-link
+            to="/vocabulary/home"
+            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
+          >
+            进入词语学习 →
+          </router-link>
+        </div>
+
         <!-- 成语学习入口 -->
         <div
           class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
@@ -157,27 +179,6 @@
           </router-link>
         </div>
 
-        <!-- 词语学习入口 -->
-        <div
-          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
-        >
-          <!-- 冰晶闪烁装饰 -->
-          <div class="absolute top-4 left-4 w-6 h-6 text-blue-300 opacity-70">
-            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 2.6s ease-in-out infinite 0.3s">
-              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
-            </svg>
-          </div>
-
-          <div class="text-6xl mb-4">📚</div>
-          <h3 class="text-xl font-bold text-blue-600 mb-4">词语学习</h3>
-          <p class="text-gray-600 mb-6">学习1000个小学常用词汇</p>
-          <router-link
-            to="/vocabulary/home"
-            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
-          >
-            进入词语学习 →
-          </router-link>
-        </div>
       </div>
     </div>
   </div>
