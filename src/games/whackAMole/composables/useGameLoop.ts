@@ -29,9 +29,7 @@ export const useGameLoop = (options: UseGameLoopOptions = {}) => {
 
   // Start the game loop
   const startLoop = () => {
-    if (!store.isGameActive) {
-      startTime.value = Date.now()
-    }
+    startTime.value = Date.now()  // Always initialize timestamp when starting loop
 
     lastFrameTime.value = Date.now()
     frameCount.value = 0
