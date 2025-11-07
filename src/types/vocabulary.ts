@@ -113,7 +113,7 @@ export interface AnswerResult {
  */
 export const GAME_CONFIG = {
   // 游戏时长 (秒)
-  DURATION: 60,
+  DURATION: 100,
 
   // 网格大小 (3x3)
   GRID_SIZE: 9,

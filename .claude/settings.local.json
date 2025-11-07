@@ -4,7 +4,10 @@
       "Bash(npm run dev:*)",
       "Bash(npm run type-check:*)",
       "Bash(npm run build:*)",
-      "Bash(node -e:*)"
+      "Bash(node -e:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(node scripts/check-vocabulary.js:*)"
     ],
     "deny": [],
     "ask": [],
