@@ -1,0 +1,80 @@
+# BMad Method Workflow Status
+# ChineseWord Project - Brownfield Development
+# Generated: 2025-11-07
+
+# Project Configuration
+generated: "2025-11-07"
+project: "ChineseWord"
+project_type: "game"
+selected_track: "method"
+field_type: "brownfield"
+workflow_path: "method-brownfield.yaml"
+
+# ===== WORKFLOW STATUS =====
+# Status values:
+#   required: Must complete to progress
+#   optional: Can skip but recommended
+#   recommended: Strongly suggested
+#   conditional: Only required if conditions met
+#   {file-path}: Completed (points to output file)
+#   skipped: Optional workflow that was skipped
+
+workflow_status:
+
+  # Prerequisite: Documentation (Brownfield Only)
+  # Purpose: Generate documentation of existing codebase
+  document_project: docs/bmm-project-documentation.md
+
+  # Phase 0: Discovery (Optional - User Selected: NO)
+  # Skipping brainstorm, research, product-brief per user choice
+
+  # Phase 1: Planning
+  # Purpose: Create Product Requirements and design specifications
+  prd: docs/PRD.md
+  epics: docs/epics.yaml
+  validate_prd: optional
+  create_design: docs/ux-design-specification.md
+
+  # Phase 2: Solutioning
+  # Purpose: Design system architecture and validate planning cohesion
+  create_architecture: docs/architecture.md
+  validate_architecture: optional
+  solutioning_gate_check: docs/bmm-readiness-assessment-2025-11-07.md
+
+  # Phase 3: Implementation
+  # Purpose: Execute stories in sprints (tracked in sprint-status.yaml)
+  sprint_planning: docs/sprint-status.yaml
+  # Per-story workflows tracked in sprint-status.yaml
+
+# ===== NEXT STEPS =====
+next_workflow: "story-creation"
+next_agent: "dev"
+next_command: "Begin Sprint 1 - Run *create-story for story-001-1"
+
+instructions: |
+  1. You have selected the BMad Method track for brownfield development.
+
+  2. NEXT IMMEDIATE STEP:
+     Load the Analyst agent in a new chat and run:
+     *document-project
+
+     This will analyze your existing codebase and generate documentation
+     that will help AI agents understand your system architecture.
+
+  3. After document-project completes, run:
+     *workflow-status
+
+     This will show you the next recommended workflow in the planning phase.
+
+  4. Key workflow sequence for your project:
+     - document-project (Analyst) - Prerequisites
+     - prd (PM) - Phase 1 Planning
+     - create_design (UX Designer) - Phase 1 Planning (conditional on UI)
+     - create_architecture (Architect) - Phase 2 Solutioning
+     - solutioning-gate-check (Architect) - Phase 2 Solutioning
+     - sprint-planning (SM) - Phase 3 Implementation
+     - Per-story workflows (SM, DEV) - Phase 3 Implementation
+
+  5. Always use FRESH CHATS for each workflow to avoid context overflow.
+
+  6. Questions? Load any agent and run: *workflow-status

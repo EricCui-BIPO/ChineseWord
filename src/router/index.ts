@@ -56,6 +56,23 @@ const routes: RouteRecordRaw[] = [
     path: '/claw-machine',
     name: 'ClawMachine',
     component: () => import('@/views/ClawMachineGame.vue')
+  },
+  // 数学打地鼠游戏路由
+  {
+    path: '/whack-a-mole',
+    name: 'WhackAMole',
+    component: () => import('@/views/WhackAMoleGame.vue')
+  },
+  // 词语学习模块路由
+  {
+    path: '/vocabulary/home',
+    name: 'VocabularyHome',
+    component: () => import('@/views/VocabularyHome.vue')
+  },
+  {
+    path: '/vocabulary/game',
+    name: 'VocabularyGame',
+    component: () => import('@/views/VocabularyGame.vue')
   }
 ]
 

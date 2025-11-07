@@ -1,0 +1,453 @@
+# ChineseWord Epics Definition
+# Phase 1: Development Process Standardization
+# Generated: 2025-11-07
+
+project: ChineseWord
+phase: 1
+track: BMad Method (Brownfield)
+total_epics: 7
+
+epics:
+
+  - id: epic-001
+    name: "Architecture & Module System"
+    description: "Define and implement standardized module architecture for games and learning modes"
+    priority: P0
+    effort_days: 5
+    status: planned
+    phase: 1
+    owner_role: architect
+
+    goals:
+      - Establish clear module structure and boundaries
+      - Document architecture patterns and rationale
+      - Enable games to exist as self-contained, reusable modules
+      - Prevent cross-game state pollution
+      - Create patterns that new developers can follow
+
+    dependencies: []
+
+    stories:
+      - story_001_1: "Define module architecture and create documentation"
+        description: "Create comprehensive documentation of the proposed module structure, including diagrams"
+        effort: 1
+        acceptance_criteria:
+          - Architecture diagram created showing module relationships
+          - Document explains module responsibilities and boundaries
+          - Patterns for module isolation documented
+
+      - story_001_2: "Create architecture decision records (ADRs)"
+        description: "Document key architectural decisions and rationale using ADR format"
+        effort: 1
+        acceptance_criteria:
+          - ADR template created
+          - At least 3 ADRs written (module patterns, state management, component hierarchy)
+          - ADRs explain decision context and tradeoffs
+
+      - story_001_3: "Refactor Gomoku to standardized module structure"
+        description: "Refactor existing Gomoku game to follow new module patterns"
+        effort: 1.5
+        acceptance_criteria:
+          - Gomoku moved to games/gomoku/ directory
+          - Gomoku store follows standardized pattern
+          - Components follow naming conventions
+          - All tests pass after refactoring
+
+      - story_001_4: "Refactor Snake to standardized module structure"
+        description: "Refactor existing Snake game to follow new module patterns"
+        effort: 1.5
+        acceptance_criteria:
+          - Snake moved to games/snake/ directory
+          - Snake store follows standardized pattern
+          - Components follow naming conventions
+          - All tests pass after refactoring
+
+      - story_001_5: "Refactor Claw Machine to standardized module structure"
+        description: "Refactor existing Claw Machine game to follow new module patterns"
+        effort: 1
+        acceptance_criteria:
+          - Claw Machine moved to games/clawMachine/ directory
+          - Store follows standardized pattern
+          - Components follow naming conventions
+          - All tests pass after refactoring
+
+      - story_001_6: "Comprehensive testing after refactoring"
+        description: "Validate all games work correctly after architecture refactoring"
+        effort: 0.5
+        acceptance_criteria:
+          - All games load without errors
+          - No regression in game functionality
+          - Mobile responsiveness maintained
+          - All three games verified on desktop and mobile
+
+  - id: epic-002
+    name: "Component Library"
+    description: "Extract and create reusable, theme-aware UI components"
+    priority: P0
+    effort_days: 5
+    status: planned
+    phase: 1
+    owner_role: developer
+    dependencies: [epic-001]
+
+    goals:
+      - Create highly reusable atomic components
+      - Eliminate component duplication across games
+      - Enable rapid UI development for new games
+      - Ensure consistent theming and styling
+
+    stories:
+      - story_002_1: "Extract BaseCard component with animation support"
+        description: "Create reusable card component with flip animation, theme support"
+        effort: 1.5
+        acceptance_criteria:
+          - BaseCard component created with flip animation
+          - Supports all card variants (learning, game score, etc)
+          - Theme colors come from theme system
+          - Component documented with props interface
+
+      - story_002_2: "Create BaseButton with theme support"
+        description: "Create standardized button component with theme variants"
+        effort: 0.5
+        acceptance_criteria:
+          - Button supports primary, secondary, danger variants
+          - Button sizes (small, medium, large)
+          - Disabled state handled
+          - Accessible (ARIA labels, keyboard support)
+
+      - story_002_3: "Create responsive grid layout components"
+        description: "Create BaseGrid and responsive layout utilities"
+        effort: 0.75
+        acceptance_criteria:
+          - Grid component handles responsive columns
+          - Gap and alignment configurable
+          - Mobile-first approach
+          - Tested at all breakpoints
+
+      - story_002_4: "Create game board/canvas component"
+        description: "Create reusable component for game boards and canvas-based games"
+        effort: 1
+        acceptance_criteria:
+          - Supports multiple board sizes
+          - Touch and mouse input handling
+          - Configurable theme colors
+          - Example usage for Gomoku, Snake
+
+      - story_002_5: "Create learning card variants"
+        description: "Create LearningCard component for study/test/review modes"
+        effort: 1
+        acceptance_criteria:
+          - Component handles word and idiom cards
+          - Supports learn/master/reviewed states
+          - Shows difficulty and category
+          - Accessible and animated
+
+      - story_002_6: "Set up Storybook and document library"
+        description: "Create Storybook stories for all components with examples"
+        effort: 0.75
+        acceptance_criteria:
+          - Storybook configured
+          - Story created for each component
+          - Component props documented
+          - Usage examples included
+
+  - id: epic-003
+    name: "Reusable Composables & Hooks"
+    description: "Extract and create reusable game logic and platform hooks"
+    priority: P0
+    effort_days: 4
+    status: planned
+    phase: 1
+    owner_role: developer
+    dependencies: [epic-001]
+
+    goals:
+      - Create composable library for common game patterns
+      - Reduce code duplication in game logic
+      - Enable faster game development through composition
+      - Establish reusable platform services
+
+    stories:
+      - story_003_1: "Create game loop composable"
+        description: "Create useGameLoop hook for handling game update/render cycles"
+        effort: 1
+        acceptance_criteria:
+          - Hook manages requestAnimationFrame lifecycle
+          - Supports configurable FPS
+          - Delta time calculation for physics
+          - Auto-stop when component unmounts
+
+      - story_003_2: "Create game input handling composables"
+        description: "Create composables for keyboard and touch input in games"
+        effort: 1
+        acceptance_criteria:
+          - useKeyboardInput handles key press/release
+          - useTouchInput handles touch events
+          - Both return reactive state for game state binding
+          - Cleanup on unmount
+
+      - story_003_3: "Create theme system and useTheme composable"
+        description: "Create centralized theme system with useTheme hook"
+        effort: 1
+        acceptance_criteria:
+          - Theme tokens defined (colors, spacing, typography)
+          - useTheme() returns reactive theme object
+          - Components can override theme locally
+          - Dark mode support included
+
+      - story_003_4: "Create persistence and storage composables"
+        description: "Create storage abstraction for localStorage and future backend sync"
+        effort: 0.75
+        acceptance_criteria:
+          - useStorage handles localStorage with reactive refs
+          - Supports encryption for sensitive data
+          - Handles quota exceeded gracefully
+          - SSR safe
+
+      - story_003_5: "Create progress tracking composables"
+        description: "Extract learning progress logic into reusable composables"
+        effort: 0.75
+        acceptance_criteria:
+          - useProgressTracking composable for learning
+          - useReviewQueue for spaced repetition
+          - Computed stats (total, learned, mastered)
+          - Support for multiple content types
+
+  - id: epic-004
+    name: "Game Module Template"
+    description: "Create template structure for rapidly adding new games"
+    priority: P1
+    effort_days: 2
+    status: planned
+    phase: 1
+    owner_role: developer
+    dependencies: [epic-001, epic-002, epic-003]
+
+    goals:
+      - Reduce setup time for new games
+      - Ensure consistency in new game modules
+      - Enable developers to start with working scaffolding
+
+    stories:
+      - story_004_1: "Create game module directory template"
+        description: "Create template directory structure for new games"
+        effort: 0.5
+        acceptance_criteria:
+          - Template has components/, stores/, types/, hooks/ directories
+          - README template included with sections
+          - .gitkeep files for empty directories
+
+      - story_004_2: "Create store template for new games"
+        description: "Create Pinia store template following established patterns"
+        effort: 0.5
+        acceptance_criteria:
+          - Store template includes typical game state
+          - Mutations and actions documented
+          - Comments guide implementation
+
+      - story_004_3: "Create component templates"
+        description: "Create Vue SFC templates with TypeScript and Tailwind"
+        effort: 0.5
+        acceptance_criteria:
+          - Main game component template
+          - Sub-component template
+          - TypeScript interface template
+          - Comments and examples included
+
+      - story_004_4: "Create routing configuration template"
+        description: "Create routing setup template for game module"
+        effort: 0.25
+        acceptance_criteria:
+          - Route definition template
+          - Navigation integration
+          - Example usage
+
+  - id: epic-005
+    name: "Development Playbook"
+    description: "Create comprehensive documentation for development workflow"
+    priority: P1
+    effort_days: 3
+    status: planned
+    phase: 1
+    owner_role: technical_writer
+    dependencies: [epic-001, epic-002, epic-003, epic-004]
+
+    goals:
+      - Enable new developers to contribute within hours
+      - Establish patterns and anti-patterns
+      - Document workflow for adding new features
+      - Create reference material for architecture
+
+    stories:
+      - story_005_1: "Write 'Adding a New Game' guide"
+        description: "Create step-by-step guide for adding a new game module"
+        effort: 1
+        acceptance_criteria:
+          - Guide covers all 6 phases (planning, setup, implementation, UI, testing, docs)
+          - Includes checklist and time estimates
+          - Links to relevant templates and examples
+
+      - story_005_2: "Document component patterns and library usage"
+        description: "Guide on using component library for new games"
+        effort: 0.75
+        acceptance_criteria:
+          - Component hierarchy explained
+          - Usage examples for each major component
+          - Theming explained
+          - Props documentation referenced
+
+      - story_005_3: "Document store and state management patterns"
+        description: "Guide on implementing game state with Pinia"
+        effort: 0.75
+        acceptance_criteria:
+          - Store structure explained
+          - Mutations vs actions explained
+          - Composition with components shown
+          - Testing stores explained
+
+      - story_005_4: "Document code review standards and checklist"
+        description: "Create code review guidelines and checkl for new PRs"
+        effort: 0.5
+        acceptance_criteria:
+          - Checklist covers TypeScript, tests, design, docs
+          - Review process documented
+          - Common issues and fixes documented
+
+  - id: epic-006
+    name: "Quality Standards & Testing"
+    description: "Establish testing strategy and quality gates"
+    priority: P1
+    effort_days: 4
+    status: planned
+    phase: 1
+    owner_role: qa_engineer
+    dependencies: [epic-001, epic-002, epic-003]
+
+    goals:
+      - Ensure code quality across all modules
+      - Catch bugs before they reach production
+      - Establish performance benchmarks
+      - Enable confident refactoring
+
+    stories:
+      - story_006_1: "Set up testing infrastructure"
+        description: "Configure testing framework and establish testing patterns"
+        effort: 1
+        acceptance_criteria:
+          - Test runner configured (Vitest or Jest)
+          - Component testing set up (Vue Test Utils)
+          - E2E testing configured (Playwright)
+          - Coverage reporting enabled
+
+      - story_006_2: "Write unit tests for game logic"
+        description: "Add comprehensive unit tests for critical game mechanics"
+        effort: 1.5
+        acceptance_criteria:
+          - Unit tests for Gomoku game logic
+          - Unit tests for Snake mechanics
+          - Unit tests for Claw Machine logic
+          - Target 80%+ coverage for game logic
+
+      - story_006_3: "Write component tests for shared components"
+        description: "Test all shared components for functionality and accessibility"
+        effort: 1
+        acceptance_criteria:
+          - Component tests for BaseCard, BaseButton, BaseGrid
+          - Interaction tests (click, hover, keyboard)
+          - Accessibility tests (ARIA, keyboard nav)
+
+      - story_006_4: "Document performance benchmarks and create monitoring"
+        description: "Establish performance targets and monitoring"
+        effort: 0.5
+        acceptance_criteria:
+          - FPS benchmarks defined (60fps target)
+          - Load time targets (< 2s)
+          - Memory usage targets
+          - Monitoring script created
+
+  - id: epic-007
+    name: "Documentation & Reference"
+    description: "Create comprehensive reference documentation"
+    priority: P2
+    effort_days: 3
+    status: planned
+    phase: 1
+    owner_role: technical_writer
+    dependencies: [epic-001, epic-002, epic-003, epic-004]
+
+    goals:
+      - Make architecture clear and understandable
+      - Provide reference for developers
+      - Document decisions and rationale
+      - Enable knowledge transfer
+
+    stories:
+      - story_007_1: "Create architecture diagrams and visuals"
+        description: "Create detailed architecture diagrams showing module relationships"
+        effort: 0.75
+        acceptance_criteria:
+          - Module dependency diagram
+          - Data flow diagram
+          - Component hierarchy diagram
+          - Route structure diagram
+
+      - story_007_2: "Create comprehensive API documentation"
+        description: "Document all public APIs, stores, and composables"
+        effort: 1
+        acceptance_criteria:
+          - API docs for all stores
+          - API docs for all composables
+          - API docs for all shared components
+          - Examples for each API
+
+      - story_007_3: "Create architecture decision records (ADRs)"
+        description: "Document key decisions with context and tradeoffs"
+        effort: 0.75
+        acceptance_criteria:
+          - ADR template defined
+          - 5+ ADRs written on key decisions
+          - Decision process explained
+          - Alternatives considered documented
+
+      - story_007_4: "Create troubleshooting guide"
+        description: "Document common issues and solutions"
+        effort: 0.5
+        acceptance_criteria:
+          - Common problems and solutions documented
+          - Performance troubleshooting guide
+          - Debug tips included
+
+---
+
+# Sprint Planning Notes
+
+## Sprint 1 (Week 1)
+- Focus on Epic 1 (Architecture) - foundational work
+- Stories: 001_1, 001_2 (architecture design and docs)
+- Start thinking about Epic 2 and 3 (component and composable design)
+
+## Sprint 2 (Week 2)
+- Continue Epic 1 - refactoring games (001_3, 001_4, 001_5, 001_6)
+- Start Epic 2 - component extraction (002_1, 002_2)
+
+## Sprint 3 (Week 3)
+- Complete Epic 2 - remaining components (002_3, 002_4, 002_5, 002_6)
+- Complete Epic 3 - composables (003_1, 003_2, 003_3, 003_4, 003_5)
+- Epic 4 - template creation (004_1 through 004_4)
+- Epic 5 & 6 - playbook and testing (005_1, 006_1)
+- Polish and documentation (Epic 7)
+
+## Definition of Done for Each Story
+- [ ] Code complete and tested
+- [ ] PR reviewed and approved
+- [ ] Tests pass (unit, component, E2E)
+- [ ] Documentation updated
+- [ ] No regressions in existing features
+- [ ] Mobile tested
+- [ ] Accessibility verified
+
+---
+
+**Generated:** 2025-11-07
+**PM:** John (Product Manager)
+**Version:** 1.0 Draft

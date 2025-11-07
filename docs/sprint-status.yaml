@@ -1,0 +1,246 @@
+# Sprint Status - ChineseWord Development Process Standardization
+# Generated: 2025-11-07
+# Project: ChineseWord
+# Project Key: ChineseWord
+# Tracking System: file-system
+# Story Location: {project-root}/docs/stories
+
+# STATUS DEFINITIONS:
+# ==================
+# Epic Status:
+#   - backlog: Epic exists in epic file but not contexted
+#   - contexted: Epic tech context created (required before drafting stories)
+#
+# Story Status:
+#   - backlog: Story only exists in epic file
+#   - drafted: Story file created in stories folder
+#   - ready-for-dev: Draft approved and story context created
+#   - in-progress: Developer actively working on implementation
+#   - review: Under SM review (via code-review workflow)
+#   - done: Story completed
+#
+# Retrospective Status:
+#   - optional: Can be completed but not required
+#   - completed: Retrospective has been done
+#
+# WORKFLOW NOTES:
+# ===============
+# - Epics should be 'contexted' before stories can be 'drafted'
+# - Stories can be worked in parallel if team capacity allows
+# - SM typically drafts next story after previous one is 'done' to incorporate learnings
+# - Dev moves story to 'review', SM reviews, then Dev moves to 'done'
+
+generated: "2025-11-07"
+project: "ChineseWord"
+project_key: "ChineseWord"
+tracking_system: "file-system"
+story_location: "{project-root}/docs/stories"
+
+development_status:
+  # ========== EPIC 001: Architecture & Module System ==========
+  # Priority: P0 | Duration: 5 days | Owner: architect
+  # Goals: Establish clear module structure and boundaries
+  epic-001: backlog
+
+  # Story 001_1: Define module architecture and create documentation
+  # Effort: 1 day | Acceptance: Architecture diagram, documentation, patterns documented
+  story-001-1-define-module-architecture: backlog
+
+  # Story 001_2: Create architecture decision records (ADRs)
+  # Effort: 1 day | Acceptance: ADR template, 3+ ADRs, decision context explained
+  story-001-2-create-architecture-decision-records: backlog
+
+  # Story 001_3: Refactor Gomoku to standardized module structure
+  # Effort: 1.5 days | Acceptance: Gomoku in games/gomoku/, standardized pattern, tests pass
+  story-001-3-refactor-gomoku-to-standardized-module: backlog
+
+  # Story 001_4: Refactor Snake to standardized module structure
+  # Effort: 1.5 days | Acceptance: Snake in games/snake/, standardized pattern, tests pass
+  story-001-4-refactor-snake-to-standardized-module: backlog
+
+  # Story 001_5: Refactor Claw Machine to standardized module structure
+  # Effort: 1 day | Acceptance: Claw Machine in games/clawMachine/, standardized pattern, tests pass
+  story-001-5-refactor-claw-machine-to-standardized-module: backlog
+
+  # Story 001_6: Comprehensive testing after refactoring
+  # Effort: 0.5 days | Acceptance: All games load, no regression, mobile responsive maintained
+  story-001-6-comprehensive-testing-after-refactoring: backlog
+
+  epic-001-retrospective: optional
+
+  # ========== EPIC 002: Component Library ==========
+  # Priority: P0 | Duration: 5 days | Owner: developer
+  # Dependencies: epic-001
+  # Goals: Extract and create reusable, theme-aware UI components
+  epic-002: backlog
+
+  # Story 002_1: Extract BaseCard component with animation support
+  # Effort: 1.5 days | Acceptance: Card component with flip animation, theme support, props documented
+  story-002-1-extract-basecard-component-with-animation: backlog
+
+  # Story 002_2: Create BaseButton with theme support
+  # Effort: 0.5 days | Acceptance: Button variants, sizes, disabled state, accessible
+  story-002-2-create-basebutton-with-theme-support: backlog
+
+  # Story 002_3: Create responsive grid layout components
+  # Effort: 0.75 days | Acceptance: Grid handles responsive columns, mobile-first, tested at breakpoints
+  story-002-3-create-responsive-grid-layout-components: backlog
+
+  # Story 002_4: Create game board/canvas component
+  # Effort: 1 day | Acceptance: Supports multiple board sizes, touch/mouse input, theme colors
+  story-002-4-create-game-board-canvas-component: backlog
+
+  # Story 002_5: Create learning card variants
+  # Effort: 1 day | Acceptance: Handles word/idiom cards, states, difficulty, accessible, animated
+  story-002-5-create-learning-card-variants: backlog
+
+  # Story 002_6: Set up Storybook and document library
+  # Effort: 0.75 days | Acceptance: Storybook configured, stories for all components, props documented
+  story-002-6-set-up-storybook-and-document-library: backlog
+
+  epic-002-retrospective: optional
+
+  # ========== EPIC 003: Reusable Composables & Hooks ==========
+  # Priority: P0 | Duration: 4 days | Owner: developer
+  # Dependencies: epic-001
+  # Goals: Extract and create reusable game logic and platform hooks
+  epic-003: backlog
+
+  # Story 003_1: Create game loop composable
+  # Effort: 1 day | Acceptance: useGameLoop hook, manages requestAnimationFrame, configurable FPS, delta time
+  story-003-1-create-game-loop-composable: backlog
+
+  # Story 003_2: Create game input handling composables
+  # Effort: 1 day | Acceptance: useKeyboardInput, useTouchInput, reactive state, cleanup on unmount
+  story-003-2-create-game-input-handling-composables: backlog
+
+  # Story 003_3: Create theme system and useTheme composable
+  # Effort: 1 day | Acceptance: Theme tokens defined, useTheme() returns reactive object, dark mode support
+  story-003-3-create-theme-system-and-usetheme: backlog
+
+  # Story 003_4: Create persistence and storage composables
+  # Effort: 0.75 days | Acceptance: useStorage with localStorage, encryption support, quota handling, SSR safe
+  story-003-4-create-persistence-and-storage-composables: backlog
+
+  # Story 003_5: Create progress tracking composables
+  # Effort: 0.75 days | Acceptance: useProgressTracking, useReviewQueue, computed stats, multiple content types
+  story-003-5-create-progress-tracking-composables: backlog
+
+  epic-003-retrospective: optional
+
+  # ========== EPIC 004: Game Module Template ==========
+  # Priority: P1 | Duration: 2 days | Owner: developer
+  # Dependencies: epic-001, epic-002, epic-003
+  # Goals: Create template structure for rapidly adding new games
+  epic-004: backlog
+
+  # Story 004_1: Create game module directory template
+  # Effort: 0.5 days | Acceptance: Template has components/, stores/, types/, hooks/, README template
+  story-004-1-create-game-module-directory-template: backlog
+
+  # Story 004_2: Create store template for new games
+  # Effort: 0.5 days | Acceptance: Store template with typical game state, mutations, actions documented
+  story-004-2-create-store-template-for-new-games: backlog
+
+  # Story 004_3: Create component templates
+  # Effort: 0.5 days | Acceptance: Vue SFC templates with TypeScript and Tailwind, commented examples
+  story-004-3-create-component-templates: backlog
+
+  # Story 004_4: Create routing configuration template
+  # Effort: 0.25 days | Acceptance: Route definition template, navigation integration, example usage
+  story-004-4-create-routing-configuration-template: backlog
+
+  epic-004-retrospective: optional
+
+  # ========== EPIC 005: Development Playbook ==========
+  # Priority: P1 | Duration: 3 days | Owner: technical_writer
+  # Dependencies: epic-001, epic-002, epic-003, epic-004
+  # Goals: Create comprehensive documentation for development workflow
+  epic-005: backlog
+
+  # Story 005_1: Write 'Adding a New Game' guide
+  # Effort: 1 day | Acceptance: Guide covers all 6 phases, includes checklist, time estimates, links to examples
+  story-005-1-write-adding-new-game-guide: backlog
+
+  # Story 005_2: Document component patterns and library usage
+  # Effort: 0.75 days | Acceptance: Component hierarchy, usage examples, theming, props documentation
+  story-005-2-document-component-patterns-and-library: backlog
+
+  # Story 005_3: Document store and state management patterns
+  # Effort: 0.75 days | Acceptance: Store structure, mutations vs actions, composition, testing explained
+  story-005-3-document-store-and-state-management: backlog
+
+  # Story 005_4: Document code review standards and checklist
+  # Effort: 0.5 days | Acceptance: Checklist covers TypeScript, tests, design, docs, review process documented
+  story-005-4-document-code-review-standards: backlog
+
+  epic-005-retrospective: optional
+
+  # ========== EPIC 006: Quality Standards & Testing ==========
+  # Priority: P1 | Duration: 4 days | Owner: qa_engineer
+  # Dependencies: epic-001, epic-002, epic-003
+  # Goals: Establish testing strategy and quality gates
+  epic-006: backlog
+
+  # Story 006_1: Set up testing infrastructure
+  # Effort: 1 day | Acceptance: Test runner configured, component testing setup, E2E testing, coverage reporting
+  story-006-1-set-up-testing-infrastructure: backlog
+
+  # Story 006_2: Write unit tests for game logic
+  # Effort: 1.5 days | Acceptance: Unit tests for Gomoku/Snake/Claw Machine, 80%+ coverage for game logic
+  story-006-2-write-unit-tests-for-game-logic: backlog
+
+  # Story 006_3: Write component tests for shared components
+  # Effort: 1 day | Acceptance: Component tests for BaseCard/BaseButton/BaseGrid, interaction/accessibility tests
+  story-006-3-write-component-tests-for-shared-components: backlog
+
+  # Story 006_4: Document performance benchmarks and create monitoring
+  # Effort: 0.5 days | Acceptance: FPS/load time/memory targets, monitoring script created
+  story-006-4-document-performance-benchmarks: backlog
+
+  epic-006-retrospective: optional
+
+  # ========== EPIC 007: Documentation & Reference ==========
+  # Priority: P2 | Duration: 3 days | Owner: technical_writer
+  # Dependencies: epic-001, epic-002, epic-003, epic-004
+  # Goals: Create comprehensive reference documentation
+  epic-007: backlog
+
+  # Story 007_1: Create architecture diagrams and visuals
+  # Effort: 0.75 days | Acceptance: Module dependency diagram, data flow, component hierarchy, route structure
+  story-007-1-create-architecture-diagrams-and-visuals: backlog
+
+  # Story 007_2: Create comprehensive API documentation
+  # Effort: 1 day | Acceptance: API docs for stores/composables/components, examples for each API
+  story-007-2-create-comprehensive-api-documentation: backlog
+
+  # Story 007_3: Create architecture decision records (ADRs)
+  # Effort: 0.75 days | Acceptance: ADR template, 5+ ADRs, decision process, alternatives documented
+  story-007-3-create-architecture-decision-records: backlog
+
+  # Story 007_4: Create troubleshooting guide
+  # Effort: 0.5 days | Acceptance: Common problems/solutions, performance troubleshooting, debug tips
+  story-007-4-create-troubleshooting-guide: backlog
+
+  epic-007-retrospective: optional
+
+# ========== SPRINT SUMMARY ==========
+# Sprint 1 (Week 1): Epic 001 foundation work
+#   - story-001-1-define-module-architecture
+#   - story-001-2-create-architecture-decision-records
+#
+# Sprint 2 (Week 2): Epic 001 refactoring + Epic 002 start
+#   - story-001-3-refactor-gomoku-to-standardized-module
+#   - story-001-4-refactor-snake-to-standardized-module
+#   - story-001-5-refactor-claw-machine-to-standardized-module
+#   - story-001-6-comprehensive-testing-after-refactoring
+#   - story-002-1-extract-basecard-component-with-animation
+#   - story-002-2-create-basebutton-with-theme-support
+#
+# Sprint 3 (Week 3): All remaining stories
+#   - Complete Epic 002 (002_3 through 002_6)
+#   - Complete Epic 003 (003_1 through 003_5)
+#   - Complete Epic 004 (004_1 through 004_4)
+#   - Complete Epic 005 (005_1 through 005_4)
+#   - Complete Epic 006 (006_1 through 006_4)
+#   - Complete Epic 007 (007_1 through 007_4)
