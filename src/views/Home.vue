@@ -47,6 +47,28 @@
           </router-link>
         </div>
 
+        <!-- 数学打地鼠入口 -->
+        <div
+            class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
+        >
+          <!-- 冰晶闪烁装饰 -->
+          <div class="absolute top-4 left-4 w-6 h-6 text-orange-300 opacity-70">
+            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 3.2s ease-in-out infinite 1.2s">
+              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
+            </svg>
+          </div>
+
+          <div class="text-6xl mb-4">🔢</div>
+          <h3 class="text-xl font-bold text-orange-600 mb-4">数学打地鼠</h3>
+          <p class="text-gray-600 mb-6">趣味数学，加减法练习</p>
+          <router-link
+              to="/math-mole"
+              class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
+          >
+            进入打地鼠 →
+          </router-link>
+        </div>
+
         <!-- 词语学习入口 -->
         <div
           class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
@@ -60,7 +82,7 @@
 
           <div class="text-6xl mb-4">📚</div>
           <h3 class="text-xl font-bold text-blue-600 mb-4">词语学习</h3>
-          <p class="text-gray-600 mb-6">学习1000个小学常用词汇</p>
+          <p class="text-gray-600 mb-6">学习常用词汇</p>
           <router-link
             to="/vocabulary/home"
             class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
@@ -104,7 +126,7 @@
 
           <div class="text-6xl mb-4">⚫⚪</div>
           <h3 class="text-xl font-bold text-blue-600 mb-4">五子棋游戏</h3>
-          <p class="text-gray-600 mb-6">和朋友一起下五子棋，锻炼思维</p>
+          <p class="text-gray-600 mb-6">下五子棋，锻炼思维</p>
           <router-link
             to="/gomoku"
             class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
@@ -156,27 +178,6 @@
 <!--            进入抓娃娃 →-->
 <!--          </router-link>-->
 <!--        </div>-->
-        <!-- 数学打地鼠入口 -->
-        <div
-          class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
-        >
-          <!-- 冰晶闪烁装饰 -->
-          <div class="absolute top-4 left-4 w-6 h-6 text-orange-300 opacity-70">
-            <svg viewBox="0 0 24 24" fill="currentColor" style="animation: ice-sparkle 3.2s ease-in-out infinite 1.2s">
-              <path d="M12,0L14.4,9.6L24,12L14.4,14.4L12,24L9.6,14.4L0,12L9.6,9.6L12,0Z"/>
-            </svg>
-          </div>
-
-          <div class="text-6xl mb-4">🔢</div>
-          <h3 class="text-xl font-bold text-orange-600 mb-4">数学打地鼠</h3>
-          <p class="text-gray-600 mb-6">趣味数学，加减法练习</p>
-          <router-link
-            to="/math-mole"
-            class="btn-elsa btn-enhanced px-8 py-4 text-lg inline-block"
-          >
-            进入打地鼠 →
-          </router-link>
-        </div>
       </div>
     </div>
   </div>
