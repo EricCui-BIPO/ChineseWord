@@ -123,6 +123,7 @@
         </div>
 
         <div class="game-over-buttons">
+          <button class="btn-restart" @click="handleRestart">重新开始</button>
           <button class="btn-retry" @click="handleRetry">再玩一次</button>
           <button class="btn-home" @click="handleQuit">返回主页</button>
         </div>
@@ -143,9 +144,17 @@ const router = useRouter()
 const store = useWhackAMoleStore()
 
 const selectedDifficulty = ref<DifficultyLevel>('medium')
+const currentGridSize = ref<number>(9)
 let gameLoopInstance: ReturnType<typeof useGameLoop> | null = null
 let moleSpawnTimerId: number | null = null
 let lastMoleSpawnTime = 0
+
+// Mole visibility duration by difficulty (in milliseconds)
+const moleDurationByDifficulty: Record<DifficultyLevel, number> = {
+  easy: 4000,      // 4 seconds for easy mode
+  medium: 3500,    // 3.5 seconds for medium mode
+  hard: 3000,      // 3 seconds for hard mode
+}
 
 const isNewBestScore = computed(
   () => store.status === 'finished' && store.score.current > store.score.best,
@@ -185,7 +194,8 @@ const spawnMole = () => {
 
   store.addMole(mole)
 
-  // Auto-dismiss mole after 3 seconds if not tapped
+  // Auto-dismiss mole after difficulty-based duration if not tapped
+  const moleDuration = moleDurationByDifficulty[store.difficultySetting]
   setTimeout(() => {
     if (store.activeMoles.some(m => m.id === mole.id)) {
       mole.animationState = 'dismissing'
@@ -193,7 +203,7 @@ const spawnMole = () => {
         store.removeMole(mole.id)
       }, 150)
     }
-  }, 3000)
+  }, moleDuration)
 
   // Change to idle animation after pop
   setTimeout(() => {
@@ -234,6 +244,7 @@ const stopMoleSpawning = () => {
 
 const handleStartGame = () => {
   const gridSize = window.innerWidth < 640 ? 6 : window.innerWidth < 1024 ? 8 : 9
+  currentGridSize.value = gridSize
   store.startGame(gridSize, selectedDifficulty.value)
 
   // Start game loop
@@ -260,6 +271,30 @@ const handleMoleTap = (mole: MoleInstance, selectedAnswerId: string) => {
     const isCorrect = selectedAnswerId === mole.problem.correctAnswerId
     playSound(isCorrect ? 'correct' : 'wrong')
   }
+}
+
+const handleRestart = () => {
+  // Restart immediately with the same difficulty and grid size
+  stopMoleSpawning()
+  if (gameLoopInstance) {
+    gameLoopInstance.stopLoop()
+    gameLoopInstance = null
+  }
+  store.startGame(currentGridSize.value, selectedDifficulty.value)
+
+  // Start game loop again
+  gameLoopInstance = useGameLoop({
+    onGameEndCallback: () => {
+      stopMoleSpawning()
+    },
+  })
+
+  if (gameLoopInstance) {
+    gameLoopInstance.startLoop()
+  }
+
+  // Start mole spawning
+  startMoleSpawning()
 }
 
 const handleRetry = () => {
@@ -784,6 +819,7 @@ watch(() => store.status, (newStatus, oldStatus) => {
   flex-direction: column;
 }
 
+.btn-restart,
 .btn-retry,
 .btn-home {
   padding: 14px 30px;
@@ -793,6 +829,16 @@ watch(() => store.status, (newStatus, oldStatus) => {
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;
+}
+
+.btn-restart {
+  background: linear-gradient(135deg, #4CAF50 0%, #45a049 100%);
+  color: white;
+}
+
+.btn-restart:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(76, 175, 80, 0.3);
 }
 
 .btn-retry {
