@@ -29,12 +29,14 @@ export const useVocabularyProgressStore = defineStore('vocabularyProgress', () =
   const stats = computed(() => {
     const learned = Object.values(progressMap.value).filter(p => p.learned).length
     const mastered = Object.values(progressMap.value).filter(p => p.mastered).length
+    // 需复习 = 已学习 - 已掌握
+    const needsReview = learned - mastered
 
     return {
       totalWords: 1000, // 总词汇数（完整版为1000）
       learned,
       mastered,
-      needsReview: getReviewItems().length,
+      needsReview,
       learnedPercentage: Math.round((learned / 1000) * 100),
       masteredPercentage: Math.round((mastered / 1000) * 100),
     }
@@ -175,9 +177,10 @@ export const useVocabularyProgressStore = defineStore('vocabularyProgress', () =
    * Method: Get count of vocabulary needing review
    */
   const getNeedsReviewCount = (): number => {
-    return Object.values(progressMap.value).filter(
-      p => !p.mastered || p.reviewCount < 3
-    ).length
+    // 需复习 = 已学习 - 已掌握
+    const learned = getLearnedCount()
+    const mastered = getMasteredCount()
+    return learned - mastered
   }
 
   /**
