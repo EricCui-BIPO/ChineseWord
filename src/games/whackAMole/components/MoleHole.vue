@@ -76,7 +76,7 @@ const handleOptionSelect = (selectedAnswerId: string) => {
   background: radial-gradient(circle at 30% 30%, #2d2d2d 0%, #1a1a1a 50%, #0d0d0d 100%);
   border-radius: 50%;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
   box-shadow: inset 0 -10px 20px rgba(0, 0, 0, 0.5), 0 10px 20px rgba(0, 0, 0, 0.3);
   display: flex;
   align-items: center;
@@ -224,28 +224,31 @@ const handleOptionSelect = (selectedAnswerId: string) => {
 
 /* Problem Display */
 .problem-display {
-  position: absolute;
-  top: -60px;
+  position: fixed;
+  bottom: auto;
   left: 50%;
-  transform: translateX(-50%);
+  top: 50%;
+  transform: translate(-50%, -120%);
   background: white;
   border-radius: 12px;
   padding: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   min-width: 120px;
   text-align: center;
-  z-index: 10;
+  z-index: 100;
   animation: questionPop 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  pointer-events: auto;
+  will-change: transform, opacity;
 }
 
 @keyframes questionPop {
   from {
     opacity: 0;
-    transform: translateX(-50%) scale(0.8);
+    transform: translate(-50%, -100%) scale(0.8);
   }
   to {
     opacity: 1;
-    transform: translateX(-50%) scale(1);
+    transform: translate(-50%, -120%) scale(1);
   }
 }
 
@@ -282,7 +285,7 @@ const handleOptionSelect = (selectedAnswerId: string) => {
 }
 
 .option-btn:active:not(:disabled) {
-  transform: scale(0.95);
+  filter: brightness(0.85);
 }
 
 .option-btn:disabled {
@@ -293,19 +296,25 @@ const handleOptionSelect = (selectedAnswerId: string) => {
 /* Responsive Design */
 @media (max-width: 640px) {
   .problem-display {
-    top: -55px;
-    padding: 10px;
-    min-width: 110px;
+    top: 50%;
+    padding: 12px 10px;
+    min-width: 140px;
+    max-width: 85vw;
   }
 
   .question {
     font-size: 16px;
+    margin-bottom: 8px;
+  }
+
+  .options {
+    gap: 4px;
   }
 
   .option-btn {
-    padding: 5px 8px;
-    font-size: 11px;
-    min-width: 28px;
+    padding: 6px 10px;
+    font-size: 12px;
+    min-width: 32px;
   }
 }
 </style>

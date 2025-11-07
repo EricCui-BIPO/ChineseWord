@@ -7,7 +7,8 @@
       "Bash(node -e:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(node scripts/check-vocabulary.js:*)"
+      "Bash(node scripts/check-vocabulary.js:*)",
+      "Bash(python /Users/ericcui/.claude/plugins/marketplaces/anthropic-agent-skills/webapp-testing/scripts/with_server.py:*)"
     ],
     "deny": [],
     "ask": [],
