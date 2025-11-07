@@ -90,7 +90,6 @@
             进入词语学习 →
           </router-link>
         </div>
-
         <!-- 成语学习入口 -->
         <div
           class="word-card rounded-2xl p-8 text-center card-hover-enhance relative overflow-hidden"
