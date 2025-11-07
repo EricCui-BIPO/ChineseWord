@@ -151,9 +151,9 @@ let lastMoleSpawnTime = 0
 
 // Mole visibility duration by difficulty (in milliseconds)
 const moleDurationByDifficulty: Record<DifficultyLevel, number> = {
-  easy: 4000,      // 4 seconds for easy mode
-  medium: 3500,    // 3.5 seconds for medium mode
-  hard: 3000,      // 3 seconds for hard mode
+  easy: 6000,      // 6 seconds for easy mode
+  medium: 5500,    // 5.5 seconds for medium mode
+  hard: 5000,      // 5 seconds for hard mode
 }
 
 const isNewBestScore = computed(
