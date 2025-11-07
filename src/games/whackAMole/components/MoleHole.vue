@@ -68,6 +68,8 @@ const handleOptionSelect = (selectedAnswerId: string) => {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
+  overflow: visible;
 }
 
 .hole {
@@ -224,11 +226,10 @@ const handleOptionSelect = (selectedAnswerId: string) => {
 
 /* Problem Display */
 .problem-display {
-  position: fixed;
-  bottom: auto;
+  position: absolute;
+  top: -70px;
   left: 50%;
-  top: 50%;
-  transform: translate(-50%, -120%);
+  transform: translateX(-50%);
   background: white;
   border-radius: 12px;
   padding: 12px;
@@ -244,11 +245,11 @@ const handleOptionSelect = (selectedAnswerId: string) => {
 @keyframes questionPop {
   from {
     opacity: 0;
-    transform: translate(-50%, -100%) scale(0.8);
+    transform: translateX(-50%) scale(0.8);
   }
   to {
     opacity: 1;
-    transform: translate(-50%, -120%) scale(1);
+    transform: translateX(-50%) scale(1);
   }
 }
 
@@ -296,25 +297,25 @@ const handleOptionSelect = (selectedAnswerId: string) => {
 /* Responsive Design */
 @media (max-width: 640px) {
   .problem-display {
-    top: 50%;
-    padding: 12px 10px;
-    min-width: 140px;
-    max-width: 85vw;
+    top: -65px;
+    padding: 10px 8px;
+    min-width: 110px;
+    max-width: 90vw;
   }
 
   .question {
-    font-size: 16px;
-    margin-bottom: 8px;
+    font-size: 14px;
+    margin-bottom: 6px;
   }
 
   .options {
-    gap: 4px;
+    gap: 3px;
   }
 
   .option-btn {
-    padding: 6px 10px;
-    font-size: 12px;
-    min-width: 32px;
+    padding: 5px 8px;
+    font-size: 10px;
+    min-width: 26px;
   }
 }
 </style>
