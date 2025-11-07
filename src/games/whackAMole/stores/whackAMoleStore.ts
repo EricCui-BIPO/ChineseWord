@@ -88,19 +88,21 @@ export const useWhackAMoleStore = defineStore('whack-a-mole-game', () => {
     const rawProblem = problemPool[Math.floor(Math.random() * problemPool.length)]
 
     // Convert raw problem to MathProblem
-    // Shuffle options and assign correct ID
+    // Get the correct answer value BEFORE shuffling
     const optionLabels = Array.isArray(rawProblem.options) ? rawProblem.options : []
     const correctIndex = 0 // First option is correct by default in our pool
+    const correctAnswerValue = optionLabels[correctIndex]
+    const correctAnswerId = `opt-${correctAnswerValue}` // Create ID BEFORE shuffling
 
-    const shuffledOptions = optionLabels.sort(() => Math.random() - 0.5)
-    const correctAnswerId = shuffledOptions[optionLabels.indexOf(optionLabels[correctIndex])]
+    // Now shuffle the options
+    const shuffledOptions = [...optionLabels].sort(() => Math.random() - 0.5)
 
     return {
       id: `${rawProblem.id}-${Date.now()}-${Math.random()}`,
       difficulty,
       type: rawProblem.type as any,
       question: rawProblem.question,
-      correctAnswerId,
+      correctAnswerId, // Now this will match the ID format in options
       options: shuffledOptions.map((value) => ({
         id: `opt-${value}`,
         value,

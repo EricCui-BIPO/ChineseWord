@@ -31,8 +31,8 @@ const emit = defineEmits<Emits>()
 
 const columns = computed(() => {
   // Determine grid layout based on size
-  if (props.gridSize === 6) return 3 // 3x2
-  if (props.gridSize === 8) return 4 // 2x4
+  if (props.gridSize === 6) return 2 // 2x3 (better for mobile)
+  if (props.gridSize === 8) return 4 // 4x2
   return 3 // 3x3
 })
 
