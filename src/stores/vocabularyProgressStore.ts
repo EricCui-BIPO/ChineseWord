@@ -113,9 +113,12 @@ export const useVocabularyProgressStore = defineStore('vocabularyProgress', () =
       // 答对足够多次后自动标记为已学习
       if (progress.correctInGame >= 1) {
         progress.learned = true
+        if (!progress.firstLearnedAt) {
+          progress.firstLearnedAt = Date.now()
+        }
       }
-      // 答对足够多次后自动标记为已掌握
-      if (progress.correctInGame >= 3) {
+      // 答对足够多次后自动标记为已掌握（降低门槛到1次）
+      if (progress.correctInGame >= 1) {
         progress.mastered = true
       }
     } else {
